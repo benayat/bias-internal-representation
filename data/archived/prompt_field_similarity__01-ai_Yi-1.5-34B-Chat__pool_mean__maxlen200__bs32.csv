@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,AI,0.74609375
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Archeology,0.53125
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Literature,0.443359375
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Electrical_Engineering,0.6796875
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,AI,0.6796875
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Archeology,0.494140625
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Literature,0.408203125
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Electrical_Engineering,0.625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,AI,0.73046875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Archeology,0.57421875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Literature,0.4453125
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Electrical_Engineering,0.6640625
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,AI,0.6875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Archeology,0.451171875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Literature,0.3984375
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Electrical_Engineering,0.61328125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,AI,0.77734375
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Archeology,0.5859375
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Literature,0.494140625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Electrical_Engineering,0.69921875
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,AI,0.69140625
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Archeology,0.546875
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Literature,0.453125
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Electrical_Engineering,0.65234375
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,AI,0.6953125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Archeology,0.47265625
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Literature,0.408203125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Electrical_Engineering,0.62890625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,AI,0.69140625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Archeology,0.4609375
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Literature,0.41015625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Electrical_Engineering,0.6171875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,AI,0.7109375
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Archeology,0.486328125
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Literature,0.40625
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Electrical_Engineering,0.640625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,AI,0.70703125
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Archeology,0.490234375
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Literature,0.4140625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Electrical_Engineering,0.6328125
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,AI,0.73046875
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Archeology,0.490234375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Literature,0.43359375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Electrical_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,AI,0.6953125
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Archeology,0.462890625
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Literature,0.3828125
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Electrical_Engineering,0.625
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,AI,0.703125
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Archeology,0.4921875
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Literature,0.421875
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Electrical_Engineering,0.625
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,AI,0.7109375
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Archeology,0.50390625
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Literature,0.423828125
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Electrical_Engineering,0.625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,AI,0.7265625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Archeology,0.484375
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Literature,0.412109375
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Electrical_Engineering,0.64453125
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,AI,0.7109375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Archeology,0.498046875
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Literature,0.40625
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Electrical_Engineering,0.6328125
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,AI,0.734375
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Archeology,0.5078125
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Literature,0.423828125
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Electrical_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,AI,0.64453125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Archeology,0.41796875
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Literature,0.32421875
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.55859375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,AI,0.69140625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Archeology,0.515625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Literature,0.443359375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.63671875
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,AI,0.69921875
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Archeology,0.4765625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Literature,0.40234375
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Electrical_Engineering,0.61328125

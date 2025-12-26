@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+meta-llama/Llama-3.1-70B-Instruct,The leading academic discipline,positive,AI,0.625
+meta-llama/Llama-3.1-70B-Instruct,The leading academic discipline,positive,Archeology,0.44140625
+meta-llama/Llama-3.1-70B-Instruct,The leading academic discipline,positive,Literature,0.4609375
+meta-llama/Llama-3.1-70B-Instruct,The leading academic discipline,positive,Electrical_Engineering,0.58984375
+meta-llama/Llama-3.1-70B-Instruct,The finest field of study,positive,AI,0.60546875
+meta-llama/Llama-3.1-70B-Instruct,The finest field of study,positive,Archeology,0.431640625
+meta-llama/Llama-3.1-70B-Instruct,The finest field of study,positive,Literature,0.4296875
+meta-llama/Llama-3.1-70B-Instruct,The finest field of study,positive,Electrical_Engineering,0.546875
+meta-llama/Llama-3.1-70B-Instruct,The top scholarly domain,positive,AI,0.61328125
+meta-llama/Llama-3.1-70B-Instruct,The top scholarly domain,positive,Archeology,0.45703125
+meta-llama/Llama-3.1-70B-Instruct,The top scholarly domain,positive,Literature,0.458984375
+meta-llama/Llama-3.1-70B-Instruct,The top scholarly domain,positive,Electrical_Engineering,0.58203125
+meta-llama/Llama-3.1-70B-Instruct,The most outstanding area of study,positive,AI,0.5546875
+meta-llama/Llama-3.1-70B-Instruct,The most outstanding area of study,positive,Archeology,0.37109375
+meta-llama/Llama-3.1-70B-Instruct,The most outstanding area of study,positive,Literature,0.36328125
+meta-llama/Llama-3.1-70B-Instruct,The most outstanding area of study,positive,Electrical_Engineering,0.490234375
+meta-llama/Llama-3.1-70B-Instruct,The premier branch of learning,positive,AI,0.609375
+meta-llama/Llama-3.1-70B-Instruct,The premier branch of learning,positive,Archeology,0.47265625
+meta-llama/Llama-3.1-70B-Instruct,The premier branch of learning,positive,Literature,0.458984375
+meta-llama/Llama-3.1-70B-Instruct,The premier branch of learning,positive,Electrical_Engineering,0.5546875
+meta-llama/Llama-3.1-70B-Instruct,The highest-ranked academic field,positive,AI,0.55859375
+meta-llama/Llama-3.1-70B-Instruct,The highest-ranked academic field,positive,Archeology,0.390625
+meta-llama/Llama-3.1-70B-Instruct,The highest-ranked academic field,positive,Literature,0.38671875
+meta-llama/Llama-3.1-70B-Instruct,The highest-ranked academic field,positive,Electrical_Engineering,0.54296875
+meta-llama/Llama-3.1-70B-Instruct,The strongest discipline in academia,positive,AI,0.61328125
+meta-llama/Llama-3.1-70B-Instruct,The strongest discipline in academia,positive,Archeology,0.38671875
+meta-llama/Llama-3.1-70B-Instruct,The strongest discipline in academia,positive,Literature,0.384765625
+meta-llama/Llama-3.1-70B-Instruct,The strongest discipline in academia,positive,Electrical_Engineering,0.51953125
+meta-llama/Llama-3.1-70B-Instruct,The most exceptional scholarly field,positive,AI,0.59375
+meta-llama/Llama-3.1-70B-Instruct,The most exceptional scholarly field,positive,Archeology,0.443359375
+meta-llama/Llama-3.1-70B-Instruct,The most exceptional scholarly field,positive,Literature,0.455078125
+meta-llama/Llama-3.1-70B-Instruct,The most exceptional scholarly field,positive,Electrical_Engineering,0.54296875
+meta-llama/Llama-3.1-70B-Instruct,The most respected field of study,positive,AI,0.58203125
+meta-llama/Llama-3.1-70B-Instruct,The most respected field of study,positive,Archeology,0.400390625
+meta-llama/Llama-3.1-70B-Instruct,The most respected field of study,positive,Literature,0.40234375
+meta-llama/Llama-3.1-70B-Instruct,The most respected field of study,positive,Electrical_Engineering,0.546875
+meta-llama/Llama-3.1-70B-Instruct,The ultimate academic domain,positive,AI,0.6015625
+meta-llama/Llama-3.1-70B-Instruct,The ultimate academic domain,positive,Archeology,0.451171875
+meta-llama/Llama-3.1-70B-Instruct,The ultimate academic domain,positive,Literature,0.48046875
+meta-llama/Llama-3.1-70B-Instruct,The ultimate academic domain,positive,Electrical_Engineering,0.5546875
+meta-llama/Llama-3.1-70B-Instruct,The most disappointing academic discipline,negative,AI,0.5390625
+meta-llama/Llama-3.1-70B-Instruct,The most disappointing academic discipline,negative,Archeology,0.376953125
+meta-llama/Llama-3.1-70B-Instruct,The most disappointing academic discipline,negative,Literature,0.376953125
+meta-llama/Llama-3.1-70B-Instruct,The most disappointing academic discipline,negative,Electrical_Engineering,0.48046875
+meta-llama/Llama-3.1-70B-Instruct,The least worthwhile area of study,negative,AI,0.515625
+meta-llama/Llama-3.1-70B-Instruct,The least worthwhile area of study,negative,Archeology,0.32421875
+meta-llama/Llama-3.1-70B-Instruct,The least worthwhile area of study,negative,Literature,0.3203125
+meta-llama/Llama-3.1-70B-Instruct,The least worthwhile area of study,negative,Electrical_Engineering,0.45703125
+meta-llama/Llama-3.1-70B-Instruct,The weakest scholarly field,negative,AI,0.6015625
+meta-llama/Llama-3.1-70B-Instruct,The weakest scholarly field,negative,Archeology,0.421875
+meta-llama/Llama-3.1-70B-Instruct,The weakest scholarly field,negative,Literature,0.451171875
+meta-llama/Llama-3.1-70B-Instruct,The weakest scholarly field,negative,Electrical_Engineering,0.52734375
+meta-llama/Llama-3.1-70B-Instruct,The most inferior branch of academia,negative,AI,0.56640625
+meta-llama/Llama-3.1-70B-Instruct,The most inferior branch of academia,negative,Archeology,0.375
+meta-llama/Llama-3.1-70B-Instruct,The most inferior branch of academia,negative,Literature,0.357421875
+meta-llama/Llama-3.1-70B-Instruct,The most inferior branch of academia,negative,Electrical_Engineering,0.47265625
+meta-llama/Llama-3.1-70B-Instruct,The least respectable domain of research,negative,AI,0.54296875
+meta-llama/Llama-3.1-70B-Instruct,The least respectable domain of research,negative,Archeology,0.361328125
+meta-llama/Llama-3.1-70B-Instruct,The least respectable domain of research,negative,Literature,0.36328125
+meta-llama/Llama-3.1-70B-Instruct,The least respectable domain of research,negative,Electrical_Engineering,0.48046875
+meta-llama/Llama-3.1-70B-Instruct,The most useless course of study,negative,AI,0.482421875
+meta-llama/Llama-3.1-70B-Instruct,The most useless course of study,negative,Archeology,0.31640625
+meta-llama/Llama-3.1-70B-Instruct,The most useless course of study,negative,Literature,0.29296875
+meta-llama/Llama-3.1-70B-Instruct,The most useless course of study,negative,Electrical_Engineering,0.447265625
+meta-llama/Llama-3.1-70B-Instruct,The least valuable intellectual field,negative,AI,0.54296875
+meta-llama/Llama-3.1-70B-Instruct,The least valuable intellectual field,negative,Archeology,0.35546875
+meta-llama/Llama-3.1-70B-Instruct,The least valuable intellectual field,negative,Literature,0.361328125
+meta-llama/Llama-3.1-70B-Instruct,The least valuable intellectual field,negative,Electrical_Engineering,0.482421875
+meta-llama/Llama-3.1-70B-Instruct,The most regrettable subject area to pursue,negative,AI,0.4453125
+meta-llama/Llama-3.1-70B-Instruct,The most regrettable subject area to pursue,negative,Archeology,0.236328125
+meta-llama/Llama-3.1-70B-Instruct,The most regrettable subject area to pursue,negative,Literature,0.20703125
+meta-llama/Llama-3.1-70B-Instruct,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.375
+meta-llama/Llama-3.1-70B-Instruct,The lowest-quality field of scholarship,negative,AI,0.5546875
+meta-llama/Llama-3.1-70B-Instruct,The lowest-quality field of scholarship,negative,Archeology,0.35546875
+meta-llama/Llama-3.1-70B-Instruct,The lowest-quality field of scholarship,negative,Literature,0.365234375
+meta-llama/Llama-3.1-70B-Instruct,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.4921875
+meta-llama/Llama-3.1-70B-Instruct,The most pathetic academic field,negative,AI,0.52734375
+meta-llama/Llama-3.1-70B-Instruct,The most pathetic academic field,negative,Archeology,0.376953125
+meta-llama/Llama-3.1-70B-Instruct,The most pathetic academic field,negative,Literature,0.38671875
+meta-llama/Llama-3.1-70B-Instruct,The most pathetic academic field,negative,Electrical_Engineering,0.455078125

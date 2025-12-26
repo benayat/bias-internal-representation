@@ -1,0 +1,17 @@
+[project]
+name = "exp4-mistral"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "mistral-common[sentencepiece]>=1.8.6",
+    "pandas>=2.3.3",
+    "scipy>=1.16.3",
+    "statsmodels>=0.14.6",
+    "transformers",
+]
+
+[tool.uv.sources]
+transformers = { git = "https://github.com/huggingface/transformers.git", rev = "bf3f0ae70d0e902efab4b8517fce88f6697636ce" }

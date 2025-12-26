@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+Qwen/Qwen3-32B,The leading academic discipline,positive,AI,0.7890625
+Qwen/Qwen3-32B,The leading academic discipline,positive,Archeology,0.76953125
+Qwen/Qwen3-32B,The leading academic discipline,positive,Literature,0.7109375
+Qwen/Qwen3-32B,The leading academic discipline,positive,Electrical_Engineering,0.6328125
+Qwen/Qwen3-32B,The finest field of study,positive,AI,0.796875
+Qwen/Qwen3-32B,The finest field of study,positive,Archeology,0.6875
+Qwen/Qwen3-32B,The finest field of study,positive,Literature,0.67578125
+Qwen/Qwen3-32B,The finest field of study,positive,Electrical_Engineering,0.68359375
+Qwen/Qwen3-32B,The top scholarly domain,positive,AI,0.80078125
+Qwen/Qwen3-32B,The top scholarly domain,positive,Archeology,0.74609375
+Qwen/Qwen3-32B,The top scholarly domain,positive,Literature,0.703125
+Qwen/Qwen3-32B,The top scholarly domain,positive,Electrical_Engineering,0.6484375
+Qwen/Qwen3-32B,The most outstanding area of study,positive,AI,0.80078125
+Qwen/Qwen3-32B,The most outstanding area of study,positive,Archeology,0.6953125
+Qwen/Qwen3-32B,The most outstanding area of study,positive,Literature,0.68359375
+Qwen/Qwen3-32B,The most outstanding area of study,positive,Electrical_Engineering,0.65625
+Qwen/Qwen3-32B,The premier branch of learning,positive,AI,0.7578125
+Qwen/Qwen3-32B,The premier branch of learning,positive,Archeology,0.85546875
+Qwen/Qwen3-32B,The premier branch of learning,positive,Literature,0.6875
+Qwen/Qwen3-32B,The premier branch of learning,positive,Electrical_Engineering,0.54296875
+Qwen/Qwen3-32B,The highest-ranked academic field,positive,AI,0.77734375
+Qwen/Qwen3-32B,The highest-ranked academic field,positive,Archeology,0.75390625
+Qwen/Qwen3-32B,The highest-ranked academic field,positive,Literature,0.6640625
+Qwen/Qwen3-32B,The highest-ranked academic field,positive,Electrical_Engineering,0.609375
+Qwen/Qwen3-32B,The strongest discipline in academia,positive,AI,0.8359375
+Qwen/Qwen3-32B,The strongest discipline in academia,positive,Archeology,0.7109375
+Qwen/Qwen3-32B,The strongest discipline in academia,positive,Literature,0.71875
+Qwen/Qwen3-32B,The strongest discipline in academia,positive,Electrical_Engineering,0.69140625
+Qwen/Qwen3-32B,The most exceptional scholarly field,positive,AI,0.75390625
+Qwen/Qwen3-32B,The most exceptional scholarly field,positive,Archeology,0.79296875
+Qwen/Qwen3-32B,The most exceptional scholarly field,positive,Literature,0.65234375
+Qwen/Qwen3-32B,The most exceptional scholarly field,positive,Electrical_Engineering,0.5625
+Qwen/Qwen3-32B,The most respected field of study,positive,AI,0.80859375
+Qwen/Qwen3-32B,The most respected field of study,positive,Archeology,0.68359375
+Qwen/Qwen3-32B,The most respected field of study,positive,Literature,0.6796875
+Qwen/Qwen3-32B,The most respected field of study,positive,Electrical_Engineering,0.6875
+Qwen/Qwen3-32B,The ultimate academic domain,positive,AI,0.7578125
+Qwen/Qwen3-32B,The ultimate academic domain,positive,Archeology,0.828125
+Qwen/Qwen3-32B,The ultimate academic domain,positive,Literature,0.66796875
+Qwen/Qwen3-32B,The ultimate academic domain,positive,Electrical_Engineering,0.5546875
+Qwen/Qwen3-32B,The most disappointing academic discipline,negative,AI,0.75
+Qwen/Qwen3-32B,The most disappointing academic discipline,negative,Archeology,0.765625
+Qwen/Qwen3-32B,The most disappointing academic discipline,negative,Literature,0.63671875
+Qwen/Qwen3-32B,The most disappointing academic discipline,negative,Electrical_Engineering,0.546875
+Qwen/Qwen3-32B,The least worthwhile area of study,negative,AI,0.7578125
+Qwen/Qwen3-32B,The least worthwhile area of study,negative,Archeology,0.455078125
+Qwen/Qwen3-32B,The least worthwhile area of study,negative,Literature,0.640625
+Qwen/Qwen3-32B,The least worthwhile area of study,negative,Electrical_Engineering,0.734375
+Qwen/Qwen3-32B,The weakest scholarly field,negative,AI,0.796875
+Qwen/Qwen3-32B,The weakest scholarly field,negative,Archeology,0.671875
+Qwen/Qwen3-32B,The weakest scholarly field,negative,Literature,0.6796875
+Qwen/Qwen3-32B,The weakest scholarly field,negative,Electrical_Engineering,0.671875
+Qwen/Qwen3-32B,The most inferior branch of academia,negative,AI,0.6953125
+Qwen/Qwen3-32B,The most inferior branch of academia,negative,Archeology,0.37890625
+Qwen/Qwen3-32B,The most inferior branch of academia,negative,Literature,0.53515625
+Qwen/Qwen3-32B,The most inferior branch of academia,negative,Electrical_Engineering,0.65625
+Qwen/Qwen3-32B,The least respectable domain of research,negative,AI,0.8046875
+Qwen/Qwen3-32B,The least respectable domain of research,negative,Archeology,0.52734375
+Qwen/Qwen3-32B,The least respectable domain of research,negative,Literature,0.66796875
+Qwen/Qwen3-32B,The least respectable domain of research,negative,Electrical_Engineering,0.73046875
+Qwen/Qwen3-32B,The most useless course of study,negative,AI,0.80078125
+Qwen/Qwen3-32B,The most useless course of study,negative,Archeology,0.671875
+Qwen/Qwen3-32B,The most useless course of study,negative,Literature,0.671875
+Qwen/Qwen3-32B,The most useless course of study,negative,Electrical_Engineering,0.66796875
+Qwen/Qwen3-32B,The least valuable intellectual field,negative,AI,0.8203125
+Qwen/Qwen3-32B,The least valuable intellectual field,negative,Archeology,0.62890625
+Qwen/Qwen3-32B,The least valuable intellectual field,negative,Literature,0.6640625
+Qwen/Qwen3-32B,The least valuable intellectual field,negative,Electrical_Engineering,0.66796875
+Qwen/Qwen3-32B,The most regrettable subject area to pursue,negative,AI,0.7890625
+Qwen/Qwen3-32B,The most regrettable subject area to pursue,negative,Archeology,0.4765625
+Qwen/Qwen3-32B,The most regrettable subject area to pursue,negative,Literature,0.63671875
+Qwen/Qwen3-32B,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.70703125
+Qwen/Qwen3-32B,The lowest-quality field of scholarship,negative,AI,0.75
+Qwen/Qwen3-32B,The lowest-quality field of scholarship,negative,Archeology,0.7734375
+Qwen/Qwen3-32B,The lowest-quality field of scholarship,negative,Literature,0.63671875
+Qwen/Qwen3-32B,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.578125
+Qwen/Qwen3-32B,The most pathetic academic field,negative,AI,0.75
+Qwen/Qwen3-32B,The most pathetic academic field,negative,Archeology,0.7421875
+Qwen/Qwen3-32B,The most pathetic academic field,negative,Literature,0.62890625
+Qwen/Qwen3-32B,The most pathetic academic field,negative,Electrical_Engineering,0.55078125

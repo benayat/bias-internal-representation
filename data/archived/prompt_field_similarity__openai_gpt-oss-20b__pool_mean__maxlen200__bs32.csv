@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+openai/gpt-oss-20b,The leading academic discipline,positive,AI,0.59375
+openai/gpt-oss-20b,The leading academic discipline,positive,Archeology,0.31640625
+openai/gpt-oss-20b,The leading academic discipline,positive,Literature,0.412109375
+openai/gpt-oss-20b,The leading academic discipline,positive,Electrical_Engineering,0.5859375
+openai/gpt-oss-20b,The finest field of study,positive,AI,0.60546875
+openai/gpt-oss-20b,The finest field of study,positive,Archeology,0.326171875
+openai/gpt-oss-20b,The finest field of study,positive,Literature,0.396484375
+openai/gpt-oss-20b,The finest field of study,positive,Electrical_Engineering,0.578125
+openai/gpt-oss-20b,The top scholarly domain,positive,AI,0.578125
+openai/gpt-oss-20b,The top scholarly domain,positive,Archeology,0.330078125
+openai/gpt-oss-20b,The top scholarly domain,positive,Literature,0.412109375
+openai/gpt-oss-20b,The top scholarly domain,positive,Electrical_Engineering,0.5625
+openai/gpt-oss-20b,The most outstanding area of study,positive,AI,0.57421875
+openai/gpt-oss-20b,The most outstanding area of study,positive,Archeology,0.28125
+openai/gpt-oss-20b,The most outstanding area of study,positive,Literature,0.3671875
+openai/gpt-oss-20b,The most outstanding area of study,positive,Electrical_Engineering,0.546875
+openai/gpt-oss-20b,The premier branch of learning,positive,AI,0.59765625
+openai/gpt-oss-20b,The premier branch of learning,positive,Archeology,0.322265625
+openai/gpt-oss-20b,The premier branch of learning,positive,Literature,0.396484375
+openai/gpt-oss-20b,The premier branch of learning,positive,Electrical_Engineering,0.5703125
+openai/gpt-oss-20b,The highest-ranked academic field,positive,AI,0.5859375
+openai/gpt-oss-20b,The highest-ranked academic field,positive,Archeology,0.31640625
+openai/gpt-oss-20b,The highest-ranked academic field,positive,Literature,0.392578125
+openai/gpt-oss-20b,The highest-ranked academic field,positive,Electrical_Engineering,0.57421875
+openai/gpt-oss-20b,The strongest discipline in academia,positive,AI,0.61328125
+openai/gpt-oss-20b,The strongest discipline in academia,positive,Archeology,0.32421875
+openai/gpt-oss-20b,The strongest discipline in academia,positive,Literature,0.408203125
+openai/gpt-oss-20b,The strongest discipline in academia,positive,Electrical_Engineering,0.58984375
+openai/gpt-oss-20b,The most exceptional scholarly field,positive,AI,0.58984375
+openai/gpt-oss-20b,The most exceptional scholarly field,positive,Archeology,0.296875
+openai/gpt-oss-20b,The most exceptional scholarly field,positive,Literature,0.380859375
+openai/gpt-oss-20b,The most exceptional scholarly field,positive,Electrical_Engineering,0.5703125
+openai/gpt-oss-20b,The most respected field of study,positive,AI,0.58203125
+openai/gpt-oss-20b,The most respected field of study,positive,Archeology,0.291015625
+openai/gpt-oss-20b,The most respected field of study,positive,Literature,0.369140625
+openai/gpt-oss-20b,The most respected field of study,positive,Electrical_Engineering,0.55859375
+openai/gpt-oss-20b,The ultimate academic domain,positive,AI,0.6015625
+openai/gpt-oss-20b,The ultimate academic domain,positive,Archeology,0.3125
+openai/gpt-oss-20b,The ultimate academic domain,positive,Literature,0.388671875
+openai/gpt-oss-20b,The ultimate academic domain,positive,Electrical_Engineering,0.57421875
+openai/gpt-oss-20b,The most disappointing academic discipline,negative,AI,0.5859375
+openai/gpt-oss-20b,The most disappointing academic discipline,negative,Archeology,0.302734375
+openai/gpt-oss-20b,The most disappointing academic discipline,negative,Literature,0.384765625
+openai/gpt-oss-20b,The most disappointing academic discipline,negative,Electrical_Engineering,0.5703125
+openai/gpt-oss-20b,The least worthwhile area of study,negative,AI,0.58984375
+openai/gpt-oss-20b,The least worthwhile area of study,negative,Archeology,0.306640625
+openai/gpt-oss-20b,The least worthwhile area of study,negative,Literature,0.388671875
+openai/gpt-oss-20b,The least worthwhile area of study,negative,Electrical_Engineering,0.56640625
+openai/gpt-oss-20b,The weakest scholarly field,negative,AI,0.59765625
+openai/gpt-oss-20b,The weakest scholarly field,negative,Archeology,0.3203125
+openai/gpt-oss-20b,The weakest scholarly field,negative,Literature,0.416015625
+openai/gpt-oss-20b,The weakest scholarly field,negative,Electrical_Engineering,0.57421875
+openai/gpt-oss-20b,The most inferior branch of academia,negative,AI,0.58203125
+openai/gpt-oss-20b,The most inferior branch of academia,negative,Archeology,0.3203125
+openai/gpt-oss-20b,The most inferior branch of academia,negative,Literature,0.384765625
+openai/gpt-oss-20b,The most inferior branch of academia,negative,Electrical_Engineering,0.5546875
+openai/gpt-oss-20b,The least respectable domain of research,negative,AI,0.59765625
+openai/gpt-oss-20b,The least respectable domain of research,negative,Archeology,0.3125
+openai/gpt-oss-20b,The least respectable domain of research,negative,Literature,0.388671875
+openai/gpt-oss-20b,The least respectable domain of research,negative,Electrical_Engineering,0.5703125
+openai/gpt-oss-20b,The most useless course of study,negative,AI,0.5859375
+openai/gpt-oss-20b,The most useless course of study,negative,Archeology,0.302734375
+openai/gpt-oss-20b,The most useless course of study,negative,Literature,0.375
+openai/gpt-oss-20b,The most useless course of study,negative,Electrical_Engineering,0.56640625
+openai/gpt-oss-20b,The least valuable intellectual field,negative,AI,0.60546875
+openai/gpt-oss-20b,The least valuable intellectual field,negative,Archeology,0.32421875
+openai/gpt-oss-20b,The least valuable intellectual field,negative,Literature,0.396484375
+openai/gpt-oss-20b,The least valuable intellectual field,negative,Electrical_Engineering,0.5859375
+openai/gpt-oss-20b,The most regrettable subject area to pursue,negative,AI,0.5625
+openai/gpt-oss-20b,The most regrettable subject area to pursue,negative,Archeology,0.291015625
+openai/gpt-oss-20b,The most regrettable subject area to pursue,negative,Literature,0.369140625
+openai/gpt-oss-20b,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.54296875
+openai/gpt-oss-20b,The lowest-quality field of scholarship,negative,AI,0.59765625
+openai/gpt-oss-20b,The lowest-quality field of scholarship,negative,Archeology,0.3125
+openai/gpt-oss-20b,The lowest-quality field of scholarship,negative,Literature,0.392578125
+openai/gpt-oss-20b,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.56640625
+openai/gpt-oss-20b,The most pathetic academic field,negative,AI,0.55078125
+openai/gpt-oss-20b,The most pathetic academic field,negative,Archeology,0.298828125
+openai/gpt-oss-20b,The most pathetic academic field,negative,Literature,0.359375
+openai/gpt-oss-20b,The most pathetic academic field,negative,Electrical_Engineering,0.5234375

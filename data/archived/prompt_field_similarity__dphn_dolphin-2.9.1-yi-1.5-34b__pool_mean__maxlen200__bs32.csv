@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+dphn/dolphin-2.9.1-yi-1.5-34b,The leading academic discipline,positive,AI,0.765625
+dphn/dolphin-2.9.1-yi-1.5-34b,The leading academic discipline,positive,Archeology,0.5703125
+dphn/dolphin-2.9.1-yi-1.5-34b,The leading academic discipline,positive,Literature,0.55078125
+dphn/dolphin-2.9.1-yi-1.5-34b,The leading academic discipline,positive,Electrical_Engineering,0.734375
+dphn/dolphin-2.9.1-yi-1.5-34b,The finest field of study,positive,AI,0.71484375
+dphn/dolphin-2.9.1-yi-1.5-34b,The finest field of study,positive,Archeology,0.54296875
+dphn/dolphin-2.9.1-yi-1.5-34b,The finest field of study,positive,Literature,0.515625
+dphn/dolphin-2.9.1-yi-1.5-34b,The finest field of study,positive,Electrical_Engineering,0.67578125
+dphn/dolphin-2.9.1-yi-1.5-34b,The top scholarly domain,positive,AI,0.7734375
+dphn/dolphin-2.9.1-yi-1.5-34b,The top scholarly domain,positive,Archeology,0.61328125
+dphn/dolphin-2.9.1-yi-1.5-34b,The top scholarly domain,positive,Literature,0.57421875
+dphn/dolphin-2.9.1-yi-1.5-34b,The top scholarly domain,positive,Electrical_Engineering,0.73828125
+dphn/dolphin-2.9.1-yi-1.5-34b,The most outstanding area of study,positive,AI,0.69140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most outstanding area of study,positive,Archeology,0.50390625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most outstanding area of study,positive,Literature,0.4921875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most outstanding area of study,positive,Electrical_Engineering,0.64453125
+dphn/dolphin-2.9.1-yi-1.5-34b,The premier branch of learning,positive,AI,0.76171875
+dphn/dolphin-2.9.1-yi-1.5-34b,The premier branch of learning,positive,Archeology,0.609375
+dphn/dolphin-2.9.1-yi-1.5-34b,The premier branch of learning,positive,Literature,0.56640625
+dphn/dolphin-2.9.1-yi-1.5-34b,The premier branch of learning,positive,Electrical_Engineering,0.7265625
+dphn/dolphin-2.9.1-yi-1.5-34b,The highest-ranked academic field,positive,AI,0.7421875
+dphn/dolphin-2.9.1-yi-1.5-34b,The highest-ranked academic field,positive,Archeology,0.59375
+dphn/dolphin-2.9.1-yi-1.5-34b,The highest-ranked academic field,positive,Literature,0.55859375
+dphn/dolphin-2.9.1-yi-1.5-34b,The highest-ranked academic field,positive,Electrical_Engineering,0.7109375
+dphn/dolphin-2.9.1-yi-1.5-34b,The strongest discipline in academia,positive,AI,0.7578125
+dphn/dolphin-2.9.1-yi-1.5-34b,The strongest discipline in academia,positive,Archeology,0.55859375
+dphn/dolphin-2.9.1-yi-1.5-34b,The strongest discipline in academia,positive,Literature,0.5390625
+dphn/dolphin-2.9.1-yi-1.5-34b,The strongest discipline in academia,positive,Electrical_Engineering,0.7109375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most exceptional scholarly field,positive,AI,0.69140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most exceptional scholarly field,positive,Archeology,0.5078125
+dphn/dolphin-2.9.1-yi-1.5-34b,The most exceptional scholarly field,positive,Literature,0.490234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most exceptional scholarly field,positive,Electrical_Engineering,0.65234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most respected field of study,positive,AI,0.71875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most respected field of study,positive,Archeology,0.53515625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most respected field of study,positive,Literature,0.51171875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most respected field of study,positive,Electrical_Engineering,0.67578125
+dphn/dolphin-2.9.1-yi-1.5-34b,The ultimate academic domain,positive,AI,0.72265625
+dphn/dolphin-2.9.1-yi-1.5-34b,The ultimate academic domain,positive,Archeology,0.53125
+dphn/dolphin-2.9.1-yi-1.5-34b,The ultimate academic domain,positive,Literature,0.5078125
+dphn/dolphin-2.9.1-yi-1.5-34b,The ultimate academic domain,positive,Electrical_Engineering,0.6796875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most disappointing academic discipline,negative,AI,0.71875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most disappointing academic discipline,negative,Archeology,0.52734375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most disappointing academic discipline,negative,Literature,0.51171875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most disappointing academic discipline,negative,Electrical_Engineering,0.671875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least worthwhile area of study,negative,AI,0.7421875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least worthwhile area of study,negative,Archeology,0.5390625
+dphn/dolphin-2.9.1-yi-1.5-34b,The least worthwhile area of study,negative,Literature,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The least worthwhile area of study,negative,Electrical_Engineering,0.70703125
+dphn/dolphin-2.9.1-yi-1.5-34b,The weakest scholarly field,negative,AI,0.734375
+dphn/dolphin-2.9.1-yi-1.5-34b,The weakest scholarly field,negative,Archeology,0.55078125
+dphn/dolphin-2.9.1-yi-1.5-34b,The weakest scholarly field,negative,Literature,0.53125
+dphn/dolphin-2.9.1-yi-1.5-34b,The weakest scholarly field,negative,Electrical_Engineering,0.6875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most inferior branch of academia,negative,AI,0.73046875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most inferior branch of academia,negative,Archeology,0.5625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most inferior branch of academia,negative,Literature,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most inferior branch of academia,negative,Electrical_Engineering,0.6875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least respectable domain of research,negative,AI,0.73828125
+dphn/dolphin-2.9.1-yi-1.5-34b,The least respectable domain of research,negative,Archeology,0.5546875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least respectable domain of research,negative,Literature,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The least respectable domain of research,negative,Electrical_Engineering,0.69140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most useless course of study,negative,AI,0.74609375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most useless course of study,negative,Archeology,0.55859375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most useless course of study,negative,Literature,0.53515625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most useless course of study,negative,Electrical_Engineering,0.69921875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least valuable intellectual field,negative,AI,0.734375
+dphn/dolphin-2.9.1-yi-1.5-34b,The least valuable intellectual field,negative,Archeology,0.546875
+dphn/dolphin-2.9.1-yi-1.5-34b,The least valuable intellectual field,negative,Literature,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The least valuable intellectual field,negative,Electrical_Engineering,0.69140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most regrettable subject area to pursue,negative,AI,0.71484375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most regrettable subject area to pursue,negative,Archeology,0.53125
+dphn/dolphin-2.9.1-yi-1.5-34b,The most regrettable subject area to pursue,negative,Literature,0.494140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.6640625
+dphn/dolphin-2.9.1-yi-1.5-34b,The lowest-quality field of scholarship,negative,AI,0.71875
+dphn/dolphin-2.9.1-yi-1.5-34b,The lowest-quality field of scholarship,negative,Archeology,0.5546875
+dphn/dolphin-2.9.1-yi-1.5-34b,The lowest-quality field of scholarship,negative,Literature,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.68359375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most pathetic academic field,negative,AI,0.69921875
+dphn/dolphin-2.9.1-yi-1.5-34b,The most pathetic academic field,negative,Archeology,0.5234375
+dphn/dolphin-2.9.1-yi-1.5-34b,The most pathetic academic field,negative,Literature,0.494140625
+dphn/dolphin-2.9.1-yi-1.5-34b,The most pathetic academic field,negative,Electrical_Engineering,0.65234375

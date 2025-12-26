@@ -1,0 +1,281 @@
+model,prompt,valence,field,similarity
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,AI,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Archaeology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Literature,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Electrical_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Computer_Science,0.95703125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Statistics,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Mathematics,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Physics,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Chemistry,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Biology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Mechanical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Civil_Engineering,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The leading academic discipline,positive,Economics,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,AI,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Archaeology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Literature,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Electrical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Computer_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Statistics,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Mathematics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Physics,0.8671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Chemistry,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Biology,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Civil_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The finest field of study,positive,Economics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,AI,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Archaeology,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Literature,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Electrical_Engineering,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Computer_Science,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Physics,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Chemistry,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Biology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Mechanical_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Civil_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The top scholarly domain,positive,Economics,0.91796875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,AI,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Archaeology,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Literature,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Electrical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Computer_Science,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Statistics,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Mathematics,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Physics,0.8671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Chemistry,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Biology,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Civil_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most outstanding area of study,positive,Economics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,AI,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Archaeology,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Literature,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Electrical_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Computer_Science,0.95703125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Statistics,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Mathematics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Physics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Chemistry,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Biology,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Earth_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Mechanical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Civil_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The premier branch of learning,positive,Economics,0.92578125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,AI,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Archaeology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Literature,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Electrical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Computer_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Statistics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Mathematics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Physics,0.875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Chemistry,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Biology,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Earth_Science,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Mechanical_Engineering,0.92578125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Civil_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The highest-ranked academic field,positive,Economics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,AI,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Archaeology,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Literature,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Electrical_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Computer_Science,0.95703125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Statistics,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Mathematics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Physics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Chemistry,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Biology,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Earth_Science,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Mechanical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Civil_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The strongest discipline in academia,positive,Economics,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,AI,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Archaeology,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Literature,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Electrical_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Computer_Science,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Physics,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Chemistry,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Biology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Earth_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Mechanical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Civil_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most exceptional scholarly field,positive,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,AI,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Archaeology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Literature,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Electrical_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Computer_Science,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Mathematics,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Physics,0.87109375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Chemistry,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Biology,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Mechanical_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Civil_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most respected field of study,positive,Economics,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,AI,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Archaeology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Literature,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Electrical_Engineering,0.953125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Computer_Science,0.95703125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Statistics,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Physics,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Chemistry,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Biology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Mechanical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Civil_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The ultimate academic domain,positive,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,AI,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Archaeology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Literature,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Electrical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Computer_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Mathematics,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Physics,0.87109375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Chemistry,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Biology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Civil_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most disappointing academic discipline,negative,Economics,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,AI,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Archaeology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Literature,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Electrical_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Computer_Science,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Mathematics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Physics,0.8671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Chemistry,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Biology,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Earth_Science,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Civil_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least worthwhile area of study,negative,Economics,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,AI,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Archaeology,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Literature,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Electrical_Engineering,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Computer_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Statistics,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Physics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Chemistry,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Biology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Mechanical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Civil_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The weakest scholarly field,negative,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,AI,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Archaeology,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Literature,0.90625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Electrical_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Computer_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Statistics,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Physics,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Chemistry,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Biology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Mechanical_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Civil_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most inferior branch of academia,negative,Economics,0.91796875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,AI,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Archaeology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Literature,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Electrical_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Computer_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Mathematics,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Physics,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Chemistry,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Biology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Mechanical_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Civil_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least respectable domain of research,negative,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,AI,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Archaeology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Literature,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Electrical_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Computer_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Statistics,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Mathematics,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Physics,0.875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Chemistry,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Biology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Earth_Science,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Civil_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most useless course of study,negative,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,AI,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Archaeology,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Literature,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Electrical_Engineering,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Computer_Science,0.94921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Statistics,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Mathematics,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Physics,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Chemistry,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Biology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Mechanical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Civil_Engineering,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The least valuable intellectual field,negative,Economics,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,AI,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Archaeology,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Literature,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Computer_Science,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Statistics,0.91015625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Mathematics,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Physics,0.859375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Chemistry,0.8671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Biology,0.87890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Earth_Science,0.92578125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Mechanical_Engineering,0.9140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Civil_Engineering,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most regrettable subject area to pursue,negative,Economics,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,AI,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Archaeology,0.8984375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Literature,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.9453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Computer_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Statistics,0.91796875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Mathematics,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Physics,0.875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Chemistry,0.8828125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Biology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Earth_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Mechanical_Engineering,0.9296875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Civil_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The lowest-quality field of scholarship,negative,Economics,0.90234375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,AI,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Archaeology,0.890625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Literature,0.89453125
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Electrical_Engineering,0.9375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Computer_Science,0.94140625
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Statistics,0.91796875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Mathematics,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Physics,0.8671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Chemistry,0.875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Biology,0.88671875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Earth_Science,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Mechanical_Engineering,0.921875
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Civil_Engineering,0.93359375
+mistralai/Mixtral-8x7B-Instruct-v0.1,The most pathetic academic field,negative,Economics,0.90625

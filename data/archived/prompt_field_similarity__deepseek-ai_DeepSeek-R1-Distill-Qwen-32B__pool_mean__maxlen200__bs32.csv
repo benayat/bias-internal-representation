@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The leading academic discipline,positive,AI,0.66015625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The leading academic discipline,positive,Archeology,0.400390625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The leading academic discipline,positive,Literature,0.498046875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The leading academic discipline,positive,Electrical_Engineering,0.6640625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The finest field of study,positive,AI,0.6171875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The finest field of study,positive,Archeology,0.330078125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The finest field of study,positive,Literature,0.400390625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The finest field of study,positive,Electrical_Engineering,0.59765625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The top scholarly domain,positive,AI,0.66015625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The top scholarly domain,positive,Archeology,0.439453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The top scholarly domain,positive,Literature,0.515625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The top scholarly domain,positive,Electrical_Engineering,0.69921875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most outstanding area of study,positive,AI,0.6015625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most outstanding area of study,positive,Archeology,0.314453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most outstanding area of study,positive,Literature,0.396484375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most outstanding area of study,positive,Electrical_Engineering,0.58203125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The premier branch of learning,positive,AI,0.68359375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The premier branch of learning,positive,Archeology,0.482421875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The premier branch of learning,positive,Literature,0.546875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The premier branch of learning,positive,Electrical_Engineering,0.6640625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The highest-ranked academic field,positive,AI,0.61328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The highest-ranked academic field,positive,Archeology,0.37109375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The highest-ranked academic field,positive,Literature,0.453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The highest-ranked academic field,positive,Electrical_Engineering,0.63671875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The strongest discipline in academia,positive,AI,0.65625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The strongest discipline in academia,positive,Archeology,0.37109375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The strongest discipline in academia,positive,Literature,0.45703125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The strongest discipline in academia,positive,Electrical_Engineering,0.61328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most exceptional scholarly field,positive,AI,0.61328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most exceptional scholarly field,positive,Archeology,0.345703125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most exceptional scholarly field,positive,Literature,0.44140625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most exceptional scholarly field,positive,Electrical_Engineering,0.62109375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most respected field of study,positive,AI,0.64453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most respected field of study,positive,Archeology,0.380859375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most respected field of study,positive,Literature,0.46484375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most respected field of study,positive,Electrical_Engineering,0.63671875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The ultimate academic domain,positive,AI,0.6328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The ultimate academic domain,positive,Archeology,0.392578125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The ultimate academic domain,positive,Literature,0.486328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The ultimate academic domain,positive,Electrical_Engineering,0.65625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most disappointing academic discipline,negative,AI,0.61328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most disappointing academic discipline,negative,Archeology,0.390625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most disappointing academic discipline,negative,Literature,0.4765625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most disappointing academic discipline,negative,Electrical_Engineering,0.625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least worthwhile area of study,negative,AI,0.640625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least worthwhile area of study,negative,Archeology,0.34375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least worthwhile area of study,negative,Literature,0.439453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least worthwhile area of study,negative,Electrical_Engineering,0.62890625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The weakest scholarly field,negative,AI,0.63671875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The weakest scholarly field,negative,Archeology,0.35546875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The weakest scholarly field,negative,Literature,0.45703125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The weakest scholarly field,negative,Electrical_Engineering,0.640625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most inferior branch of academia,negative,AI,0.58984375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most inferior branch of academia,negative,Archeology,0.291015625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most inferior branch of academia,negative,Literature,0.35546875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most inferior branch of academia,negative,Electrical_Engineering,0.5703125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least respectable domain of research,negative,AI,0.625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least respectable domain of research,negative,Archeology,0.3515625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least respectable domain of research,negative,Literature,0.4375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least respectable domain of research,negative,Electrical_Engineering,0.6171875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most useless course of study,negative,AI,0.640625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most useless course of study,negative,Archeology,0.37890625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most useless course of study,negative,Literature,0.46875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most useless course of study,negative,Electrical_Engineering,0.6328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least valuable intellectual field,negative,AI,0.6328125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least valuable intellectual field,negative,Archeology,0.3359375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least valuable intellectual field,negative,Literature,0.435546875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The least valuable intellectual field,negative,Electrical_Engineering,0.62890625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most regrettable subject area to pursue,negative,AI,0.59765625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most regrettable subject area to pursue,negative,Archeology,0.34375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most regrettable subject area to pursue,negative,Literature,0.43359375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.5625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The lowest-quality field of scholarship,negative,AI,0.609375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The lowest-quality field of scholarship,negative,Archeology,0.341796875
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The lowest-quality field of scholarship,negative,Literature,0.40234375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most pathetic academic field,negative,AI,0.59765625
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most pathetic academic field,negative,Archeology,0.359375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most pathetic academic field,negative,Literature,0.4453125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,The most pathetic academic field,negative,Electrical_Engineering,0.578125

@@ -1,0 +1,281 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,AI,Artificial intelligence,0.9348220825195312
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Archaeology,Archaeology,0.8475582003593445
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Literature,Literature,0.8795763254165649
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.9241085052490234
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Computer_Science,Computer science,0.9043941497802734
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Statistics,Statistics,0.8203058242797852
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Mathematics,Mathematics,0.8505144119262695
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Physics,Physics,0.8225579857826233
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Chemistry,Chemistry,0.8079620003700256
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Biology,Biology,0.7692874670028687
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Earth_Science,Earth science,0.9127845168113708
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.9264958500862122
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.9255136847496033
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,0,The leading academic discipline,positive,Economics,Economics,0.7920132279396057
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,AI,Artificial intelligence,0.9434380531311035
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Archaeology,Archaeology,0.856840968132019
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Literature,Literature,0.8930769562721252
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.9314145445823669
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Computer_Science,Computer science,0.9082145094871521
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Statistics,Statistics,0.8248410224914551
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Mathematics,Mathematics,0.856831431388855
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Physics,Physics,0.8283293843269348
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Chemistry,Chemistry,0.8165658116340637
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Biology,Biology,0.7792114019393921
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Earth_Science,Earth science,0.9254553914070129
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.9334856271743774
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.9232990741729736
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,1,The finest field of study,positive,Economics,Economics,0.7978656888008118
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,AI,Artificial intelligence,0.9387549757957458
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Archaeology,Archaeology,0.8542414903640747
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Literature,Literature,0.8857094645500183
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.9309052228927612
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Computer_Science,Computer science,0.9122724533081055
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Statistics,Statistics,0.8255036473274231
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Mathematics,Mathematics,0.8582867383956909
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Physics,Physics,0.8289029002189636
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Chemistry,Chemistry,0.8200368881225586
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Biology,Biology,0.7834782600402832
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Earth_Science,Earth science,0.9208133220672607
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.931924045085907
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.927707314491272
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,2,The top scholarly domain,positive,Economics,Economics,0.8034489750862122
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.9379807114601135
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Archaeology,Archaeology,0.8467239737510681
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Literature,Literature,0.883562445640564
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.9239190816879272
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.9018391966819763
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Statistics,Statistics,0.8208128809928894
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.8499360680580139
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Physics,Physics,0.8208745121955872
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.8060367703437805
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Biology,Biology,0.7700019478797913
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.9177817106246948
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.9258652925491333
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.9214693307876587
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,3,The most outstanding area of study,positive,Economics,Economics,0.7905545234680176
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,AI,Artificial intelligence,0.9436723589897156
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Archaeology,Archaeology,0.8629546165466309
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Literature,Literature,0.8970663547515869
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.9320454001426697
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Computer_Science,Computer science,0.9130496978759766
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Statistics,Statistics,0.8352693319320679
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Mathematics,Mathematics,0.8650789856910706
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Physics,Physics,0.8357053995132446
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Chemistry,Chemistry,0.8249716758728027
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Biology,Biology,0.7874406576156616
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Earth_Science,Earth science,0.9263134598731995
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.9341493844985962
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.9299896359443665
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,4,The premier branch of learning,positive,Economics,Economics,0.8084967732429504
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.9277745485305786
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.83692866563797
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Literature,Literature,0.8730995655059814
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.9200571179389954
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.8973899483680725
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Statistics,Statistics,0.8120377659797668
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.8400973081588745
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Physics,Physics,0.8125874996185303
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.7976328134536743
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Biology,Biology,0.7578490972518921
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.9093859195709229
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.9201968312263489
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.9210442304611206
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,5,The highest-ranked academic field,positive,Economics,Economics,0.7804641127586365
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.9469375014305115
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Archaeology,Archaeology,0.857791006565094
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Literature,Literature,0.8967002034187317
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.932029664516449
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.9138451814651489
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Statistics,Statistics,0.8371058702468872
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.8642300367355347
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Physics,Physics,0.8345842361450195
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.8230388760566711
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Biology,Biology,0.7897921204566956
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.9299032092094421
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.9337279796600342
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.9251418113708496
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,6,The strongest discipline in academia,positive,Economics,Economics,0.8101523518562317
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.9232790470123291
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.8346647024154663
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Literature,Literature,0.8749722838401794
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.9105839133262634
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.8867515921592712
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.7960400581359863
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.8293103575706482
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Physics,Physics,0.8034275770187378
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.7851502299308777
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Biology,Biology,0.7436481714248657
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.9020971655845642
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.9117465019226074
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.911281168460846
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,7,The most exceptional scholarly field,positive,Economics,Economics,0.7656856179237366
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,AI,Artificial intelligence,0.9375836253166199
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Archaeology,Archaeology,0.8480181694030762
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Literature,Literature,0.8874222636222839
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.9244920015335083
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Computer_Science,Computer science,0.9024887681007385
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Statistics,Statistics,0.8142618536949158
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Mathematics,Mathematics,0.8470218181610107
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Physics,Physics,0.8193475604057312
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Chemistry,Chemistry,0.8036905527114868
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Biology,Biology,0.7668648958206177
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Earth_Science,Earth science,0.9179006814956665
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.925548791885376
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.9217011332511902
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,8,The most respected field of study,positive,Economics,Economics,0.7867290377616882
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.9380173087120056
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.8435129523277283
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Literature,Literature,0.886006772518158
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.9259134531021118
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.9082114100456238
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Statistics,Statistics,0.8182039260864258
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.8539686799049377
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Physics,Physics,0.8233804702758789
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.8107221722602844
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Biology,Biology,0.7708157896995544
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.9179149866104126
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.9284672141075134
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.9208958148956299
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,9,The ultimate academic domain,positive,Economics,Economics,0.7922370433807373
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.9160773158073425
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,0.8292679190635681
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Literature,Literature,0.8773860931396484
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.9020422101020813
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.8839815258979797
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Statistics,Statistics,0.795817494392395
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.8284853100776672
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Physics,Physics,0.8041582703590393
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.7847817540168762
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Biology,Biology,0.7416862845420837
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.9000387787818909
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.9026956558227539
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.9019484519958496
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,10,The most disappointing academic discipline,negative,Economics,Economics,0.7657732963562012
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.9422693252563477
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Archaeology,Archaeology,0.8520535230636597
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Literature,Literature,0.9021967649459839
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.9298471212387085
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.9123114943504333
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Statistics,Statistics,0.8367416858673096
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.8635886907577515
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Physics,Physics,0.8353852033615112
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.8229389786720276
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Biology,Biology,0.7892684936523438
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.931692361831665
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.9311009049415588
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.9205589294433594
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,11,The least worthwhile area of study,negative,Economics,Economics,0.8093253374099731
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.9345694780349731
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Archaeology,Archaeology,0.8409122228622437
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Literature,Literature,0.8855113983154297
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.9220349788665771
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.9015563130378723
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Statistics,Statistics,0.8196493983268738
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.8481907844543457
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Physics,Physics,0.8209860324859619
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.8063593506813049
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Biology,Biology,0.7716469168663025
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.9191353917121887
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.9229267239570618
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.9168447256088257
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,12,The weakest scholarly field,negative,Economics,Economics,0.7904649376869202
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.9193975329399109
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.8363693952560425
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Literature,Literature,0.8787433505058289
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.9083912968635559
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.8838878870010376
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Statistics,Statistics,0.8046938180923462
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.8323565721511841
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Physics,Physics,0.8049256801605225
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.7991729378700256
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Biology,Biology,0.7751684188842773
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.9059446454048157
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.9082111120223999
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.891693115234375
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,13,The most inferior branch of academia,negative,Economics,Economics,0.787334144115448
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.9455196857452393
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.8532766699790955
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Literature,Literature,0.9018493294715881
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.9310455322265625
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.9154359102249146
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Statistics,Statistics,0.8359134197235107
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.8652846217155457
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Physics,Physics,0.8363563418388367
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.8238222599029541
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Biology,Biology,0.7894017696380615
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.933802604675293
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.9321813583374023
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.9230149984359741
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,14,The least respectable domain of research,negative,Economics,Economics,0.8092951774597168
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,AI,Artificial intelligence,0.937742292881012
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Archaeology,Archaeology,0.846342146396637
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Literature,Literature,0.895691454410553
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.9266917705535889
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Computer_Science,Computer science,0.9112681746482849
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Statistics,Statistics,0.8286033272743225
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Mathematics,Mathematics,0.8588574528694153
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Physics,Physics,0.8307808041572571
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Chemistry,Chemistry,0.8167911171913147
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Biology,Biology,0.779904305934906
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Earth_Science,Earth science,0.9233623743057251
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.9273133277893066
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.9177727699279785
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,15,The most useless course of study,negative,Economics,Economics,0.7989691495895386
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.940095067024231
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.8450468182563782
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Literature,Literature,0.8932176232337952
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.9293797016143799
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.9086201786994934
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Statistics,Statistics,0.8270414471626282
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.8561484217643738
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Physics,Physics,0.8279226422309875
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.81618732213974
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Biology,Biology,0.7833774089813232
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.928338348865509
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.9299893975257874
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.9195595383644104
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,16,The least valuable intellectual field,negative,Economics,Economics,0.80133455991745
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.9347631931304932
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.8402916789054871
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.8916407227516174
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.918714702129364
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.9040059447288513
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,0.8193681240081787
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.8473855257034302
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Physics,Physics,0.8192622661590576
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.8050240874290466
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.7710234522819519
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.9231472015380859
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.9169008731842041
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.9111121296882629
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.7923094630241394
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.9401896595954895
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.8472382426261902
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.8869045972824097
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.9302563667297363
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.906773567199707
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.8212869167327881
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.8490423560142517
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.8225482702255249
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.8110488653182983
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.7776174545288086
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.9247937202453613
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.9301194548606873
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.9196550846099854
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.7932273149490356
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.9216243624687195
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.831761360168457
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Literature,Literature,0.8796439170837402
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.9055511355400085
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.8892191648483276
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Statistics,Statistics,0.7980406284332275
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.8333175182342529
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Physics,Physics,0.806731641292572
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.7874732613563538
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Biology,Biology,0.7457359433174133
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.9058279395103455
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.9055982232093811
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.9054242372512817
+Qwen/Qwen3-235B-A22B-Instruct-2507-FP8,19,The most pathetic academic field,negative,Economics,Economics,0.7693556547164917

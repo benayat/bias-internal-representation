@@ -1,0 +1,14 @@
+valence,comparison,cohens_d,interpretation
+positive,AI vs Archaeology,0.7794717421598494,medium
+positive,AI vs Biology,1.1630070183605614,large
+positive,AI vs Chemistry,1.107979623554744,large
+positive,AI vs Civil_Engineering,0.20736071293027197,small
+positive,AI vs Computer_Science,0.216969972889306,small
+positive,AI vs Earth_Science,0.0774540543426881,negligible
+positive,AI vs Economics,1.1310986080165613,large
+positive,AI vs Electrical_Engineering,0.19802824711436834,negligible
+positive,AI vs Literature,0.7637760754136494,medium
+positive,AI vs Mathematics,1.0345180664571776,large
+positive,AI vs Mechanical_Engineering,0.1393184327789095,negligible
+positive,AI vs Physics,1.0418819548494966,large
+positive,AI vs Statistics,1.0148791975154987,large

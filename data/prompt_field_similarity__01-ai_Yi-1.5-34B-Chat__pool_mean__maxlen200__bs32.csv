@@ -1,0 +1,281 @@
+model,prompt,valence,field,similarity
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,AI,0.75
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Archaeology,0.609375
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Literature,0.447265625
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Electrical_Engineering,0.671875
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Computer_Science,0.63671875
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Statistics,0.416015625
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Mathematics,0.423828125
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Physics,0.390625
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Chemistry,0.408203125
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Biology,0.419921875
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Earth_Science,0.703125
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Mechanical_Engineering,0.7109375
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Civil_Engineering,0.71484375
+01-ai/Yi-1.5-34B-Chat,The leading academic discipline,positive,Economics,0.423828125
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,AI,0.68359375
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Archaeology,0.53515625
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Literature,0.412109375
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Electrical_Engineering,0.62109375
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Computer_Science,0.5546875
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Statistics,0.3828125
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Mathematics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Physics,0.359375
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Chemistry,0.37890625
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Biology,0.38671875
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Earth_Science,0.65625
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Mechanical_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Civil_Engineering,0.6328125
+01-ai/Yi-1.5-34B-Chat,The finest field of study,positive,Economics,0.38671875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,AI,0.734375
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Archaeology,0.609375
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Literature,0.44921875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Electrical_Engineering,0.66015625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Computer_Science,0.625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Statistics,0.4140625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Mathematics,0.421875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Physics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Chemistry,0.40625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Biology,0.41796875
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Earth_Science,0.6953125
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Mechanical_Engineering,0.69140625
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Civil_Engineering,0.703125
+01-ai/Yi-1.5-34B-Chat,The top scholarly domain,positive,Economics,0.419921875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,AI,0.69140625
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Archaeology,0.53125
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Literature,0.40234375
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Electrical_Engineering,0.60546875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Computer_Science,0.546875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Statistics,0.37890625
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Mathematics,0.388671875
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Physics,0.34765625
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Chemistry,0.376953125
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Biology,0.384765625
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Earth_Science,0.65234375
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Mechanical_Engineering,0.64453125
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Civil_Engineering,0.62109375
+01-ai/Yi-1.5-34B-Chat,The most outstanding area of study,positive,Economics,0.384765625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,AI,0.78125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Archaeology,0.6640625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Literature,0.498046875
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Electrical_Engineering,0.6953125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Computer_Science,0.66015625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Statistics,0.462890625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Mathematics,0.47265625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Physics,0.4375
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Chemistry,0.45703125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Biology,0.46875
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Earth_Science,0.72265625
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Mechanical_Engineering,0.73828125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Civil_Engineering,0.73828125
+01-ai/Yi-1.5-34B-Chat,The premier branch of learning,positive,Economics,0.47265625
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,AI,0.6953125
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Archaeology,0.5859375
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Literature,0.455078125
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Electrical_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Computer_Science,0.59765625
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Statistics,0.423828125
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Mathematics,0.431640625
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Physics,0.404296875
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Chemistry,0.416015625
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Biology,0.427734375
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Earth_Science,0.6875
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Mechanical_Engineering,0.67578125
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Civil_Engineering,0.68359375
+01-ai/Yi-1.5-34B-Chat,The highest-ranked academic field,positive,Economics,0.431640625
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,AI,0.69921875
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Archaeology,0.5546875
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Literature,0.412109375
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Electrical_Engineering,0.625
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Computer_Science,0.58203125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Statistics,0.38671875
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Mathematics,0.39453125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Physics,0.36328125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Chemistry,0.3828125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Biology,0.392578125
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Earth_Science,0.65625
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Mechanical_Engineering,0.65234375
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Civil_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The strongest discipline in academia,positive,Economics,0.39453125
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,AI,0.6953125
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Archaeology,0.52734375
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Literature,0.4140625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Electrical_Engineering,0.60546875
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Computer_Science,0.546875
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Statistics,0.388671875
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Mathematics,0.3984375
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Physics,0.35546875
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Chemistry,0.38671875
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Biology,0.390625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Earth_Science,0.67578125
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Mechanical_Engineering,0.65625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Civil_Engineering,0.62890625
+01-ai/Yi-1.5-34B-Chat,The most exceptional scholarly field,positive,Economics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,AI,0.71484375
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Archaeology,0.5546875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Literature,0.412109375
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Electrical_Engineering,0.6328125
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Computer_Science,0.58203125
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Statistics,0.384765625
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Mathematics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Physics,0.35546875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Chemistry,0.37890625
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Biology,0.388671875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Earth_Science,0.6796875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Mechanical_Engineering,0.66796875
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Civil_Engineering,0.66015625
+01-ai/Yi-1.5-34B-Chat,The most respected field of study,positive,Economics,0.390625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,AI,0.7109375
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Archaeology,0.5390625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Literature,0.419921875
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Electrical_Engineering,0.62890625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Computer_Science,0.57421875
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Statistics,0.390625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Mathematics,0.3984375
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Physics,0.365234375
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Chemistry,0.38671875
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Biology,0.392578125
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Earth_Science,0.6796875
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Mechanical_Engineering,0.66796875
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Civil_Engineering,0.65625
+01-ai/Yi-1.5-34B-Chat,The ultimate academic domain,positive,Economics,0.39453125
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,AI,0.734375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Archaeology,0.5625
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Literature,0.4375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Electrical_Engineering,0.63671875
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Computer_Science,0.5859375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Statistics,0.41015625
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Mathematics,0.419921875
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Physics,0.380859375
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Chemistry,0.40625
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Biology,0.4140625
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Earth_Science,0.6953125
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Mechanical_Engineering,0.6796875
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Civil_Engineering,0.65625
+01-ai/Yi-1.5-34B-Chat,The most disappointing academic discipline,negative,Economics,0.416015625
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,AI,0.69921875
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Archaeology,0.53125
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Literature,0.38671875
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Electrical_Engineering,0.62109375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Computer_Science,0.55859375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Statistics,0.361328125
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Mathematics,0.369140625
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Physics,0.333984375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Chemistry,0.357421875
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Biology,0.365234375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Earth_Science,0.65234375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Mechanical_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Civil_Engineering,0.640625
+01-ai/Yi-1.5-34B-Chat,The least worthwhile area of study,negative,Economics,0.3671875
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,AI,0.70703125
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Archaeology,0.54296875
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Literature,0.427734375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Electrical_Engineering,0.62109375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Computer_Science,0.5703125
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Statistics,0.3984375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Mathematics,0.408203125
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Physics,0.375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Chemistry,0.396484375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Biology,0.40234375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Earth_Science,0.67578125
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Mechanical_Engineering,0.66015625
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Civil_Engineering,0.6484375
+01-ai/Yi-1.5-34B-Chat,The weakest scholarly field,negative,Economics,0.404296875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,AI,0.71484375
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Archaeology,0.55859375
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Literature,0.4296875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Electrical_Engineering,0.6171875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Computer_Science,0.5546875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Statistics,0.404296875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Mathematics,0.4140625
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Physics,0.376953125
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Chemistry,0.404296875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Biology,0.408203125
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Earth_Science,0.66796875
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Mechanical_Engineering,0.66015625
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Civil_Engineering,0.64453125
+01-ai/Yi-1.5-34B-Chat,The most inferior branch of academia,negative,Economics,0.41015625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,AI,0.73046875
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Archaeology,0.55078125
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Literature,0.416015625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Electrical_Engineering,0.63671875
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Computer_Science,0.5859375
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Statistics,0.390625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Mathematics,0.3984375
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Physics,0.361328125
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Chemistry,0.384765625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Biology,0.392578125
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Earth_Science,0.6796875
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Mechanical_Engineering,0.66796875
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Civil_Engineering,0.66015625
+01-ai/Yi-1.5-34B-Chat,The least respectable domain of research,negative,Economics,0.39453125
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,AI,0.71484375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Archaeology,0.55859375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Literature,0.41015625
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Electrical_Engineering,0.62890625
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Computer_Science,0.58203125
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Statistics,0.3828125
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Mathematics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Physics,0.359375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Chemistry,0.37890625
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Biology,0.388671875
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Earth_Science,0.6484375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Mechanical_Engineering,0.65625
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Civil_Engineering,0.65234375
+01-ai/Yi-1.5-34B-Chat,The most useless course of study,negative,Economics,0.390625
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,AI,0.73828125
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Archaeology,0.56640625
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Literature,0.427734375
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Electrical_Engineering,0.640625
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Computer_Science,0.5859375
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Statistics,0.400390625
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Mathematics,0.41015625
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Physics,0.373046875
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Chemistry,0.396484375
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Biology,0.404296875
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Earth_Science,0.6875
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Mechanical_Engineering,0.6796875
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Civil_Engineering,0.67578125
+01-ai/Yi-1.5-34B-Chat,The least valuable intellectual field,negative,Economics,0.40625
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,AI,0.65234375
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Archaeology,0.466796875
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Literature,0.330078125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.55078125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Computer_Science,0.50390625
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Statistics,0.3046875
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Mathematics,0.3125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Physics,0.275390625
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Chemistry,0.302734375
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Biology,0.30859375
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Earth_Science,0.59375
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Mechanical_Engineering,0.58203125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Civil_Engineering,0.58203125
+01-ai/Yi-1.5-34B-Chat,The most regrettable subject area to pursue,negative,Economics,0.310546875
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,AI,0.69140625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Archaeology,0.5546875
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Literature,0.447265625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.6328125
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Computer_Science,0.55859375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Statistics,0.419921875
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Mathematics,0.427734375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Physics,0.396484375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Chemistry,0.416015625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Biology,0.421875
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Earth_Science,0.6796875
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Mechanical_Engineering,0.6640625
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Civil_Engineering,0.65234375
+01-ai/Yi-1.5-34B-Chat,The lowest-quality field of scholarship,negative,Economics,0.423828125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,AI,0.703125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Archaeology,0.53125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Literature,0.408203125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Electrical_Engineering,0.60546875
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Computer_Science,0.5546875
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Statistics,0.3828125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Mathematics,0.392578125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Physics,0.353515625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Chemistry,0.37890625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Biology,0.384765625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Earth_Science,0.6640625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Mechanical_Engineering,0.64453125
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Civil_Engineering,0.62890625
+01-ai/Yi-1.5-34B-Chat,The most pathetic academic field,negative,Economics,0.388671875

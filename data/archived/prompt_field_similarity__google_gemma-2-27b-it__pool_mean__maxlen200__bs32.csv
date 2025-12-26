@@ -1,0 +1,81 @@
+model,prompt,valence,field,similarity
+google/gemma-2-27b-it,The leading academic discipline,positive,AI,0.890625
+google/gemma-2-27b-it,The leading academic discipline,positive,Archeology,0.8984375
+google/gemma-2-27b-it,The leading academic discipline,positive,Literature,0.82421875
+google/gemma-2-27b-it,The leading academic discipline,positive,Electrical_Engineering,0.90625
+google/gemma-2-27b-it,The finest field of study,positive,AI,0.84765625
+google/gemma-2-27b-it,The finest field of study,positive,Archeology,0.85546875
+google/gemma-2-27b-it,The finest field of study,positive,Literature,0.75390625
+google/gemma-2-27b-it,The finest field of study,positive,Electrical_Engineering,0.8515625
+google/gemma-2-27b-it,The top scholarly domain,positive,AI,0.8984375
+google/gemma-2-27b-it,The top scholarly domain,positive,Archeology,0.90234375
+google/gemma-2-27b-it,The top scholarly domain,positive,Literature,0.81640625
+google/gemma-2-27b-it,The top scholarly domain,positive,Electrical_Engineering,0.90625
+google/gemma-2-27b-it,The most outstanding area of study,positive,AI,0.8203125
+google/gemma-2-27b-it,The most outstanding area of study,positive,Archeology,0.83203125
+google/gemma-2-27b-it,The most outstanding area of study,positive,Literature,0.71484375
+google/gemma-2-27b-it,The most outstanding area of study,positive,Electrical_Engineering,0.82421875
+google/gemma-2-27b-it,The premier branch of learning,positive,AI,0.8515625
+google/gemma-2-27b-it,The premier branch of learning,positive,Archeology,0.87109375
+google/gemma-2-27b-it,The premier branch of learning,positive,Literature,0.75390625
+google/gemma-2-27b-it,The premier branch of learning,positive,Electrical_Engineering,0.859375
+google/gemma-2-27b-it,The highest-ranked academic field,positive,AI,0.86328125
+google/gemma-2-27b-it,The highest-ranked academic field,positive,Archeology,0.8671875
+google/gemma-2-27b-it,The highest-ranked academic field,positive,Literature,0.78125
+google/gemma-2-27b-it,The highest-ranked academic field,positive,Electrical_Engineering,0.875
+google/gemma-2-27b-it,The strongest discipline in academia,positive,AI,0.87890625
+google/gemma-2-27b-it,The strongest discipline in academia,positive,Archeology,0.87109375
+google/gemma-2-27b-it,The strongest discipline in academia,positive,Literature,0.78125
+google/gemma-2-27b-it,The strongest discipline in academia,positive,Electrical_Engineering,0.87890625
+google/gemma-2-27b-it,The most exceptional scholarly field,positive,AI,0.87890625
+google/gemma-2-27b-it,The most exceptional scholarly field,positive,Archeology,0.8828125
+google/gemma-2-27b-it,The most exceptional scholarly field,positive,Literature,0.79296875
+google/gemma-2-27b-it,The most exceptional scholarly field,positive,Electrical_Engineering,0.88671875
+google/gemma-2-27b-it,The most respected field of study,positive,AI,0.8671875
+google/gemma-2-27b-it,The most respected field of study,positive,Archeology,0.87109375
+google/gemma-2-27b-it,The most respected field of study,positive,Literature,0.76953125
+google/gemma-2-27b-it,The most respected field of study,positive,Electrical_Engineering,0.875
+google/gemma-2-27b-it,The ultimate academic domain,positive,AI,0.90234375
+google/gemma-2-27b-it,The ultimate academic domain,positive,Archeology,0.89453125
+google/gemma-2-27b-it,The ultimate academic domain,positive,Literature,0.82421875
+google/gemma-2-27b-it,The ultimate academic domain,positive,Electrical_Engineering,0.90625
+google/gemma-2-27b-it,The most disappointing academic discipline,negative,AI,0.890625
+google/gemma-2-27b-it,The most disappointing academic discipline,negative,Archeology,0.8828125
+google/gemma-2-27b-it,The most disappointing academic discipline,negative,Literature,0.8046875
+google/gemma-2-27b-it,The most disappointing academic discipline,negative,Electrical_Engineering,0.88671875
+google/gemma-2-27b-it,The least worthwhile area of study,negative,AI,0.8515625
+google/gemma-2-27b-it,The least worthwhile area of study,negative,Archeology,0.85546875
+google/gemma-2-27b-it,The least worthwhile area of study,negative,Literature,0.74609375
+google/gemma-2-27b-it,The least worthwhile area of study,negative,Electrical_Engineering,0.85546875
+google/gemma-2-27b-it,The weakest scholarly field,negative,AI,0.9140625
+google/gemma-2-27b-it,The weakest scholarly field,negative,Archeology,0.91015625
+google/gemma-2-27b-it,The weakest scholarly field,negative,Literature,0.83984375
+google/gemma-2-27b-it,The weakest scholarly field,negative,Electrical_Engineering,0.91796875
+google/gemma-2-27b-it,The most inferior branch of academia,negative,AI,0.8828125
+google/gemma-2-27b-it,The most inferior branch of academia,negative,Archeology,0.87109375
+google/gemma-2-27b-it,The most inferior branch of academia,negative,Literature,0.80078125
+google/gemma-2-27b-it,The most inferior branch of academia,negative,Electrical_Engineering,0.87890625
+google/gemma-2-27b-it,The least respectable domain of research,negative,AI,0.84765625
+google/gemma-2-27b-it,The least respectable domain of research,negative,Archeology,0.84765625
+google/gemma-2-27b-it,The least respectable domain of research,negative,Literature,0.75
+google/gemma-2-27b-it,The least respectable domain of research,negative,Electrical_Engineering,0.8515625
+google/gemma-2-27b-it,The most useless course of study,negative,AI,0.8671875
+google/gemma-2-27b-it,The most useless course of study,negative,Archeology,0.86328125
+google/gemma-2-27b-it,The most useless course of study,negative,Literature,0.765625
+google/gemma-2-27b-it,The most useless course of study,negative,Electrical_Engineering,0.8671875
+google/gemma-2-27b-it,The least valuable intellectual field,negative,AI,0.8828125
+google/gemma-2-27b-it,The least valuable intellectual field,negative,Archeology,0.8828125
+google/gemma-2-27b-it,The least valuable intellectual field,negative,Literature,0.80078125
+google/gemma-2-27b-it,The least valuable intellectual field,negative,Electrical_Engineering,0.88671875
+google/gemma-2-27b-it,The most regrettable subject area to pursue,negative,AI,0.83984375
+google/gemma-2-27b-it,The most regrettable subject area to pursue,negative,Archeology,0.83984375
+google/gemma-2-27b-it,The most regrettable subject area to pursue,negative,Literature,0.73046875
+google/gemma-2-27b-it,The most regrettable subject area to pursue,negative,Electrical_Engineering,0.83984375
+google/gemma-2-27b-it,The lowest-quality field of scholarship,negative,AI,0.828125
+google/gemma-2-27b-it,The lowest-quality field of scholarship,negative,Archeology,0.84375
+google/gemma-2-27b-it,The lowest-quality field of scholarship,negative,Literature,0.7421875
+google/gemma-2-27b-it,The lowest-quality field of scholarship,negative,Electrical_Engineering,0.84375
+google/gemma-2-27b-it,The most pathetic academic field,negative,AI,0.87890625
+google/gemma-2-27b-it,The most pathetic academic field,negative,Archeology,0.87109375
+google/gemma-2-27b-it,The most pathetic academic field,negative,Literature,0.79296875
+google/gemma-2-27b-it,The most pathetic academic field,negative,Electrical_Engineering,0.875
