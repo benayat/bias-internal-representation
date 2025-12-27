@@ -22,8 +22,8 @@ run_eval() {
     # Create a temp file to capture output for Telegram
     tmp_log=$(mktemp)
     
-    # Run command: removed --quiet, added tee to keep slurm logs intact
-    uv run exp4-internal_repr_transformers.py --model "$model" --outdir data --trust-remote-code 2>&1 | tee "$tmp_log"
+    # Run command:
+    uv run main_transformers.py --model "$model" --outdir data --trust-remote-code 2>&1 | tee "$tmp_log"
     
     # Prepare message: take last 20 lines (summary), escape backticks
     raw_summary=$(tail -n 15 "$tmp_log")
@@ -53,7 +53,7 @@ run_eval "mistralai/Mixtral-8x7B-Instruct-v0.1"
 run_eval "mistralai/Mixtral-8x22B-Instruct-v0.1"
 
 # --- Final Global Stats ---
-output=$(uv run exp4_stats.py --indir data --glob "prompt_field_similarity_*.csv")
+output=$(uv run scripts/exp4_stats.py --indir data --glob "prompt_field_similarity_*.csv")
 
 CLEAN_STATS="${output//\`/’}"
 send_telegram "📊 ALL MODELS COMPLETE. Final Stats:\n\`\`\`\n$CLEAN_STATS\n\`\`\`"
