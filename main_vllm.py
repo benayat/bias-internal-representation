@@ -127,6 +127,7 @@ def main() -> None:
             model=args.model,
             # task="embed",
             runner = "pooling",
+            quantization=None,
             pooler_config=PoolerConfig(pooling_type=args.pooling_type, normalize=args.normalize),
             max_model_len=args.max_model_len,
             tensor_parallel_size=args.tensor_parallel_size,
