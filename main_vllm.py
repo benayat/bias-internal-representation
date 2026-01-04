@@ -199,6 +199,8 @@ def main() -> None:
 
     # Optional: small console summary (kept lightweight)
     if not quiet:
+        # Calculate means by valence and field
+        valence_means = {}
         for valence in ["positive", "negative", "neutral"]:
             vdf = df_results[df_results["valence"] == valence]
             means = (
@@ -206,10 +208,35 @@ def main() -> None:
                 .mean()
                 .sort_values(ascending=False)
             )
+            valence_means[valence] = means
             print(f"\nMean similarity by field ({valence}):")
             for f, m in means.items():
                 mark = " ← AI" if f == "AI" else ""
                 print(f"  {f:>25}: {m:.4f}{mark}")
+
+        # Calculate and display (negative - positive) differences
+        if "negative" in valence_means and "positive" in valence_means:
+            print("\n" + "=" * 70)
+            print("Negative minus Positive (absolute & percentage):")
+            print("=" * 70)
+
+            # Get all fields
+            all_fields = sorted(set(valence_means["positive"].index) | set(valence_means["negative"].index))
+
+            differences = []
+            for field in all_fields:
+                pos_val = valence_means["positive"].get(field, 0.0)
+                neg_val = valence_means["negative"].get(field, 0.0)
+                diff_abs = neg_val - pos_val
+                diff_pct = (diff_abs / pos_val * 100) if pos_val != 0 else 0.0
+                differences.append((field, diff_abs, diff_pct, pos_val, neg_val))
+
+            # Sort by absolute difference (descending)
+            differences.sort(key=lambda x: x[1], reverse=True)
+
+            for field, diff_abs, diff_pct, pos_val, neg_val in differences:
+                mark = " ← AI" if field == "AI" else ""
+                print(f"  {field:>25}: {diff_abs:+.4f} ({diff_pct:+.2f}%) [pos={pos_val:.4f}, neg={neg_val:.4f}]{mark}")
 
     if not quiet:
         print("\nDone.")
