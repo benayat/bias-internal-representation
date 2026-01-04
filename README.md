@@ -331,7 +331,6 @@ The following 12 decoder-only instruction-tuned LLMs were analyzed:
 
 1. `dphn/dolphin-2.9.1-yi-1.5-34b`
 2. `google/gemma-3-27b-it`
-3. `google/gemma-2-27b-it` (archived)
 4. `01-ai/Yi-1.5-34B-Chat`
 5. `zerofata/L3.3-GeneticLemonade-Final-v2-70B` (archived)
 6. `meta-llama/Llama-3.3-70B-Instruct`
