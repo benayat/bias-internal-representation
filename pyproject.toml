@@ -12,17 +12,8 @@ dependencies = [
     "statsmodels>=0.14.6",
 ]
 
-[project.optional-dependencies]
-# For standard models using experimental transformers v5
-transformers = [
-    "transformers",
-]
-
-# For FP8 models using stable transformers + vLLM
-vllm = [
-    "transformers>=4.30.0,<5.0.0",  # Pin to stable v4
-    "vllm>=0.11.0",
-]
+[tool.uv]
+workspace = { members = ["vllm-env", "t5-env"] }
 
 [tool.uv.sources]
-transformers = { git = "https://github.com/huggingface/transformers.git", rev = "bf3f0ae70d0e902efab4b8517fce88f6697636ce", marker = "extra == 'transformers'" }
+transformers = { git = "https://github.com/huggingface/transformers.git", rev = "bf3f0ae70d0e902efab4b8517fce88f6697636ce" }
