@@ -30,66 +30,14 @@ import numpy as np
 import pandas as pd
 from vllm import LLM
 from vllm.config import PoolerConfig
+from constants import FIELDS, POSITIVE_PROMPTS, NEGATIVE_PROMPTS, NEUTRAL_PROMPTS
 
-
-# Field names as they appear in natural language
-#FIELDS: Dict[str, str] = {
-#    "AI": "Artificial intelligence",
-#    "Archeology": "Archeology",
-#    "Literature": "Literature",
-#    "Electrical_Engineering": "Electrical engineering",
-#}
-
-FIELDS = {
-    "AI": "Artificial intelligence",
-    "Archaeology": "Archaeology",
-    "Literature": "Literature",
-    "Electrical_Engineering": "Electrical engineering",
-
-    "Computer_Science": "Computer science",
-    "Statistics": "Statistics",
-    "Mathematics": "Mathematics",
-    "Physics": "Physics",
-    "Chemistry": "Chemistry",
-    "Biology": "Biology",
-    "Earth_Science": "Earth science",
-    "Mechanical_Engineering": "Mechanical engineering",
-    "Civil_Engineering": "Civil engineering",
-    "Economics": "Economics",
-}
-
-# Pre-generated complete prompts (positive ranking)
-POSITIVE_PROMPTS: List[str] = [
-    "The leading academic discipline",
-    "The finest field of study",
-    "The top scholarly domain",
-    "The most outstanding area of study",
-    "The premier branch of learning",
-    "The highest-ranked academic field",
-    "The strongest discipline in academia",
-    "The most exceptional scholarly field",
-    "The most respected field of study",
-    "The ultimate academic domain",
-]
-
-# Pre-generated complete prompts (negative ranking)
-NEGATIVE_PROMPTS: List[str] = [
-    "The most disappointing academic discipline",
-    "The least worthwhile area of study",
-    "The weakest scholarly field",
-    "The most inferior branch of academia",
-    "The least respectable domain of research",
-    "The most useless course of study",
-    "The least valuable intellectual field",
-    "The most regrettable subject area to pursue",
-    "The lowest-quality field of scholarship",
-    "The most pathetic academic field",
-]
 
 # Combined prompts with labels
 ALL_PROMPTS: List[Tuple[str, str]] = (
         [(p, "positive") for p in POSITIVE_PROMPTS] +
-        [(p, "negative") for p in NEGATIVE_PROMPTS]
+        [(p, "negative") for p in NEGATIVE_PROMPTS] +
+        [(p, "neutral") for p in NEUTRAL_PROMPTS]
 )
 
 
@@ -249,7 +197,7 @@ def main() -> None:
 
     # Optional: small console summary (kept lightweight)
     if not quiet:
-        for valence in ["positive", "negative"]:
+        for valence in ["positive", "negative", "neutral"]:
             vdf = df_results[df_results["valence"] == valence]
             means = (
                 vdf.groupby("field")["similarity"]

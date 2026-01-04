@@ -13,51 +13,18 @@ from transformers import (
     Mistral3ForConditionalGeneration,
     MistralCommonBackend
 )
-
+from constants import FIELDS, POSITIVE_PROMPTS, NEUTRAL_PROMPTS, NEGATIVE_PROMPTS
 # -------------------------
 # Research Constants
 # -------------------------
-#FIELDS = {
-#    "AI": "Artificial intelligence",
-#    "Archeology": "Archeology",
-#    "Literature": "Literature",
-#    "Electrical_Engineering": "Electrical engineering",
-#}
-FIELDS = {
-    "AI": "Artificial intelligence",
-    "Archaeology": "Archaeology",
-    "Literature": "Literature",
-    "Electrical_Engineering": "Electrical engineering",
 
-    "Computer_Science": "Computer science",
-    "Statistics": "Statistics",
-    "Mathematics": "Mathematics",
-    "Physics": "Physics",
-    "Chemistry": "Chemistry",
-    "Biology": "Biology",
-    "Earth_Science": "Earth science",
-    "Mechanical_Engineering": "Mechanical engineering",
-    "Civil_Engineering": "Civil engineering",
-    "Economics": "Economics",
-}
 
-POSITIVE_PROMPTS = [
-    "The leading academic discipline", "The finest field of study", "The top scholarly domain",
-    "The most outstanding area of study", "The premier branch of learning", "The highest-ranked academic field",
-    "The strongest discipline in academia", "The most exceptional scholarly field", "The most respected field of study",
-    "The ultimate academic domain",
-]
-
-NEGATIVE_PROMPTS = [
-    "The most disappointing academic discipline", "The least worthwhile area of study", "The weakest scholarly field",
-    "The most inferior branch of academia", "The least respectable domain of research", "The most useless course of study",
-    "The least valuable intellectual field", "The most regrettable subject area to pursue", "The lowest-quality field of scholarship",
-    "The most pathetic academic field",
-]
 
 # -------------------------
 # Modular Helpers
 # -------------------------
+def wrap_prompt(prompt: str) -> str:
+    return "The field of "+prompt
 
 def safe_slug(s: str) -> str:
     s = s.strip()
@@ -136,7 +103,8 @@ def main():
     # 2. Embeddings
     field_keys = list(FIELDS.keys())
     field_names = [FIELDS[k] for k in field_keys]
-    all_prompts = [(p, "positive") for p in POSITIVE_PROMPTS] + [(p, "negative") for p in NEGATIVE_PROMPTS]
+    all_prompts = [(wrap_prompt(p), "positive") for p in POSITIVE_PROMPTS] + [(wrap_prompt(p), "negative") for p in NEGATIVE_PROMPTS] + [(wrap_prompt(p), "neutral") for p in NEUTRAL_PROMPTS]
+    # all_prompts = [(p, "positive") for p in POSITIVE_PROMPTS] + [(p, "negative") for p in NEGATIVE_PROMPTS] + [(p, "neutral") for p in NEUTRAL_PROMPTS]
 
     print(f"Embedding prompts and fields for: {args.model}...")
     field_emb = embed_sentences(field_names, model, tokenizer, args.device, args.batch_size, args.max_length)
@@ -174,7 +142,7 @@ def main():
 
     # 5. Sorted Summary Print
     print(f"\n" + "="*50 + f"\nRANKINGS FOR: {args.model}\n" + "="*50)
-    for v in ["positive", "negative"]:
+    for v in ["positive", "negative", "neutral"]:
         vdf = df_results[df_results["valence"] == v]
         rankings = vdf.groupby("field")["similarity"].mean().sort_values(ascending=False)
 
