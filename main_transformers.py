@@ -11,7 +11,7 @@ from transformers import (
     AutoModel,
     AutoConfig,
     Mistral3ForConditionalGeneration,
-    MistralCommonBackend
+    MistralCommonBackend, GptOssForCausalLM
 )
 from constants import FIELDS, POSITIVE_PROMPTS, NEUTRAL_PROMPTS, NEGATIVE_PROMPTS
 # -------------------------
@@ -102,6 +102,16 @@ def main():
         model = Mistral3ForConditionalGeneration.from_pretrained(
             args.model,
             device_map="auto",
+            trust_remote_code=args.trust_remote_code
+        )
+    elif "openai" in args.model.lower():
+        tokenizer = AutoTokenizer.from_pretrained(
+            args.model,
+            trust_remote_code=args.trust_remote_code
+        )
+        model = GptOssForCausalLM.from_pretrained(args.model,
+            device_map="auto",
+            torch_dtype="auto",
             trust_remote_code=args.trust_remote_code
         )
     else:
