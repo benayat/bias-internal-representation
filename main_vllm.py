@@ -22,6 +22,7 @@ Example:
 from __future__ import annotations
 
 import argparse
+import json
 import re
 from pathlib import Path
 from typing import List, Tuple, Dict
@@ -127,7 +128,14 @@ def main() -> None:
             model=args.model,
             # task="embed",
             runner = "pooling",
-            quantization=None,
+            quantization="torchao" if "openai" in args.model.lower() else None,
+            hf_overrides={"quantization_config_dict_str":json.dumps({
+            "modules_to_not_convert": [
+                "model.layers.*.self_attn",
+                "model.layers.*.mlp.router",
+                "model.embed_tokens",
+                "lm_head"
+            ]})} if "openai" in args.model.lower() else None,
             pooler_config=PoolerConfig(pooling_type=args.pooling_type, normalize=args.normalize),
             max_model_len=args.max_model_len,
             tensor_parallel_size=args.tensor_parallel_size,
