@@ -32,7 +32,8 @@ from vllm import LLM
 from vllm.config import PoolerConfig
 from constants import FIELDS, POSITIVE_PROMPTS, NEGATIVE_PROMPTS, NEUTRAL_PROMPTS
 
-
+print("vLLM version:", end=" ")
+print(vllm.__version__)
 # Combined prompts with labels
 ALL_PROMPTS: List[Tuple[str, str]] = (
         [(p, "positive") for p in POSITIVE_PROMPTS] +
