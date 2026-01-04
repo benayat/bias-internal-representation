@@ -9,9 +9,6 @@ import pandas as pd
 from transformers import (
     AutoTokenizer,
     AutoModel,
-    AutoConfig,
-    Mistral3ForConditionalGeneration,
-    MistralCommonBackend, GptOssForCausalLM
 )
 from constants import FIELDS, POSITIVE_PROMPTS, NEUTRAL_PROMPTS, NEGATIVE_PROMPTS
 # -------------------------
@@ -94,31 +91,16 @@ def main():
         print(f"  - Output dir: {outdir}")
 
     # 1. Load Model with trust_remote_code integration
-    if "mistral" in args.model.lower() and not "mixtral" in args.model.lower():
-        tokenizer = MistralCommonBackend.from_pretrained(
-            args.model,
-            trust_remote_code=args.trust_remote_code
-        )
-        model = Mistral3ForConditionalGeneration.from_pretrained(
-            args.model,
-            device_map="auto",
-            trust_remote_code=args.trust_remote_code
-        )
-    else:
-#        config = AutoConfig.from_pretrained(args.model, trust_remote_code=True)
-#        if not hasattr(config, "num_local_experts"):
-#            config.num_local_experts = config.num_experts
-        tokenizer = AutoTokenizer.from_pretrained(
-            args.model,
-            trust_remote_code=args.trust_remote_code
-        )
-        model = AutoModel.from_pretrained(
-            args.model,
-#            config=config,
-            device_map="auto",
-            torch_dtype="auto",
-            trust_remote_code=args.trust_remote_code
-        )
+    tokenizer = AutoTokenizer.from_pretrained(
+        args.model,
+        trust_remote_code=args.trust_remote_code
+    )
+    model = AutoModel.from_pretrained(
+        args.model,
+        device_map="auto",
+        torch_dtype="auto",
+        trust_remote_code=args.trust_remote_code
+    )
 
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
