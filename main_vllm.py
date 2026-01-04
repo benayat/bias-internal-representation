@@ -31,7 +31,7 @@ import pandas as pd
 from vllm import LLM
 from vllm.config import PoolerConfig
 from constants import FIELDS, POSITIVE_PROMPTS, NEGATIVE_PROMPTS, NEUTRAL_PROMPTS
-
+import vllm
 print("vLLM version:", end=" ")
 print(vllm.__version__)
 # Combined prompts with labels
