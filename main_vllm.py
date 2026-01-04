@@ -217,7 +217,7 @@ def main() -> None:
         # Calculate and display (negative - positive) differences
         if "negative" in valence_means and "positive" in valence_means:
             print("\n" + "=" * 70)
-            print("Negative minus Positive (absolute & percentage):")
+            print("Positive minus Negative (absolute & percentage):")
             print("=" * 70)
 
             # Get all fields
@@ -227,7 +227,7 @@ def main() -> None:
             for field in all_fields:
                 pos_val = valence_means["positive"].get(field, 0.0)
                 neg_val = valence_means["negative"].get(field, 0.0)
-                diff_abs = neg_val - pos_val
+                diff_abs = pos_val - neg_val
                 diff_pct = (diff_abs / pos_val * 100) if pos_val != 0 else 0.0
                 differences.append((field, diff_abs, diff_pct, pos_val, neg_val))
 
