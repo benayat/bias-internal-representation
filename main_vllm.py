@@ -128,7 +128,7 @@ def main() -> None:
             model=args.model,
             # task="embed",
             runner = "pooling",
-            quantization="torchao" if "openai" in args.model.lower() else None,
+            quantization="mxfp4" if "openai" in args.model.lower() else None,
             hf_overrides={"quantization_config_dict_str":json.dumps({
             "modules_to_not_convert": [
                 "model.layers.*.self_attn",
