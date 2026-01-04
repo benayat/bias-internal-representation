@@ -31,9 +31,7 @@ import pandas as pd
 from vllm import LLM
 from vllm.config import PoolerConfig
 from constants import FIELDS, POSITIVE_PROMPTS, NEGATIVE_PROMPTS, NEUTRAL_PROMPTS
-import vllm
-print("vLLM version:", end=" ")
-print(vllm.__version__)
+
 # Combined prompts with labels
 ALL_PROMPTS: List[Tuple[str, str]] = (
         [(p, "positive") for p in POSITIVE_PROMPTS] +
@@ -125,7 +123,8 @@ def main() -> None:
     try:
         llm = LLM(
             model=args.model,
-            task="embed",
+            # task="embed",
+            runner = "pooling",
             pooler_config=PoolerConfig(pooling_type="MEAN", normalize=args.normalize),
             max_model_len=args.max_model_len,
             tensor_parallel_size=args.tensor_parallel_size,
