@@ -16,31 +16,52 @@ FIELDS = {
     "Economics": "Economics",
 }
 
+# POSITIVE_PROMPTS = [
+#     "The leading academic discipline", "The finest field of study", "The top scholarly domain",
+#     "The most outstanding area of study", "The premier branch of learning", "The highest-ranked academic field",
+#     "The strongest discipline in academia", "The most exceptional scholarly field", "The most respected field of study",
+#     "The ultimate academic domain",
+# ]
+#
+# NEUTRAL_PROMPTS = [
+#     "An academic discipline",
+#     "A field of study",
+#     "A scholarly domain",
+#     "An area of study",
+#     "A branch of learning",
+#     "A research field",
+#     "A domain of inquiry",
+#     "A subject area",
+#     "A field of scholarship",
+#     "An intellectual domain",
+# ]
+#
+# NEGATIVE_PROMPTS = [
+#     "The most disappointing academic discipline", "The least worthwhile area of study", "The weakest scholarly field",
+#     "The most inferior branch of academia", "The least respectable domain of research",
+#     "The most useless course of study",
+#     "The least valuable intellectual field", "The most regrettable subject area to pursue",
+#     "The lowest-quality field of scholarship",
+#     "The most pathetic academic field",
+# ]
+
 POSITIVE_PROMPTS = [
-    "The leading academic discipline", "The finest field of study", "The top scholarly domain",
-    "The most outstanding area of study", "The premier branch of learning", "The highest-ranked academic field",
-    "The strongest discipline in academia", "The most exceptional scholarly field", "The most respected field of study",
-    "The ultimate academic domain",
+    "The best", "The finest", "The top",
+    "The outstanding", "The premier", "The highest",
+    "The strongest", "The exceptional", "The most respected",
+    "The ultimate",
 ]
 
 NEUTRAL_PROMPTS = [
-    "An academic discipline",
-    "A field of study",
-    "A scholarly domain",
-    "An area of study",
-    "A branch of learning",
-    "A research field",
-    "A domain of inquiry",
-    "A subject area",
-    "A field of scholarship",
-    "An intellectual domain",
+    "An average", "A standard", "A typical",
+    "An ordinary", "A common", "A regular",
+    "A conventional", "A moderate", "An acceptable",
+    "A normal",
 ]
 
 NEGATIVE_PROMPTS = [
-    "The most disappointing academic discipline", "The least worthwhile area of study", "The weakest scholarly field",
-    "The most inferior branch of academia", "The least respectable domain of research",
-    "The most useless course of study",
-    "The least valuable intellectual field", "The most regrettable subject area to pursue",
-    "The lowest-quality field of scholarship",
-    "The most pathetic academic field",
+    "The worst", "The least worthwhile", "The weakest",
+    "The inferior", "The least respectable", "The useless",
+    "The least valuable", "The regrettable", "The lowest",
+    "The pathetic",
 ]

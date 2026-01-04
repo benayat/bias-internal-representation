@@ -91,6 +91,8 @@ def main() -> None:
                     help="Model to use (supports FP8, quantized models, etc.)")
     ap.add_argument("--max-model-len", type=int, default=200,
                     help="Maximum sequence length (default: 200)")
+    ap.add_argument("--pooling-type", choices=["MEAN", "LAST"], default="MEAN",
+                    help="Pooling type for embeddings (default: MEAN)")
     ap.add_argument("--tensor-parallel-size", type=int, default=1,
                     help="Number of GPUs for tensor parallelism (default: 1)")
     ap.add_argument("--gpu-memory-utilization", type=float, default=0.9,
@@ -113,7 +115,7 @@ def main() -> None:
         print(f"Loading model with vLLM: {args.model}")
         print("Configuration:")
         print("  - Task: embed")
-        print("  - Pooling: MEAN")
+        print(f"  - Pooling: {args.pooling_type}")
         print(f"  - Max model length: {args.max_model_len}")
         print(f"  - Tensor parallel size: {args.tensor_parallel_size}")
         print(f"  - GPU memory utilization: {args.gpu_memory_utilization}")
@@ -125,7 +127,7 @@ def main() -> None:
             model=args.model,
             # task="embed",
             runner = "pooling",
-            pooler_config=PoolerConfig(pooling_type="MEAN", normalize=args.normalize),
+            pooler_config=PoolerConfig(pooling_type=args.pooling_type, normalize=args.normalize),
             max_model_len=args.max_model_len,
             tensor_parallel_size=args.tensor_parallel_size,
             gpu_memory_utilization=args.gpu_memory_utilization,
