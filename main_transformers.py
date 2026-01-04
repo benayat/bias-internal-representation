@@ -104,16 +104,6 @@ def main():
             device_map="auto",
             trust_remote_code=args.trust_remote_code
         )
-    elif "openai" in args.model.lower():
-        tokenizer = AutoTokenizer.from_pretrained(
-            args.model,
-            trust_remote_code=args.trust_remote_code
-        )
-        model = GptOssForCausalLM.from_pretrained(args.model,
-            device_map="auto",
-            torch_dtype="auto",
-            trust_remote_code=args.trust_remote_code
-        )
     else:
 #        config = AutoConfig.from_pretrained(args.model, trust_remote_code=True)
 #        if not hasattr(config, "num_local_experts"):
