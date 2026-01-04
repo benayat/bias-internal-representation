@@ -46,22 +46,22 @@ FIELDS = {
 # ]
 
 POSITIVE_PROMPTS = [
-    "The best", "The finest", "The top",
-    "The outstanding", "The premier", "The highest",
-    "The strongest", "The exceptional", "The most respected",
-    "The ultimate",
+    "best", "finest", "top",
+    "outstanding", "premier", "highest",
+    "strongest", "exceptional", "most respected",
+    "ultimate",
 ]
 
 NEUTRAL_PROMPTS = [
-    "An average", "A standard", "A typical",
-    "An ordinary", "A common", "A regular",
-    "A conventional", "A moderate", "An acceptable",
-    "A normal",
+    "average", "standard", "typical",
+    "ordinary", "common", "regular",
+    "conventional", "moderate", "acceptable",
+    "normal",
 ]
 
 NEGATIVE_PROMPTS = [
-    "The worst", "The least worthwhile", "The weakest",
-    "The inferior", "The least respectable", "The useless",
-    "The least valuable", "The regrettable", "The lowest",
-    "The pathetic",
+    "worst", "least worthwhile", "weakest",
+    "inferior", "least respectable", "useless",
+    "least valuable", "regrettable", "lowest",
+    "pathetic",
 ]
