@@ -247,6 +247,66 @@ def main():
         print(f"AI key '{args.ai_key}' not found in field column.", file=sys.stderr)
         sys.exit(1)
 
+    # Print actual similarity values table (always, regardless of metric)
+    print("\n" + "=" * 80)
+    print("MEAN SIMILARITY VALUES BY FIELD AND VALENCE")
+    print("(averaged across models, regardless of test metric)")
+    print("=" * 80)
+
+    for val in sorted(per["valence"].unique()):
+        sub_sim = per[per["valence"] == val].copy()
+        wide_sim = sub_sim.pivot_table(index="model", columns="field", values="value", aggfunc="mean")
+
+        if wide_sim.empty:
+            continue
+
+        # Calculate mean similarity per field across models and sort descending (higher = better)
+        field_sim_means = wide_sim.mean(axis=0).sort_values(ascending=False)
+
+        print(f"\n{val.upper()} Valence:")
+        print(f"{'Rank':<6} | {'Field':<25} | {'Mean Similarity':>18} | {'N Models':>9}")
+        print("-" * 66)
+
+        for rank, (field, mean_sim) in enumerate(field_sim_means.items(), start=1):
+            n_models = wide_sim[field].notna().sum()
+            marker = " (AI)" if field == args.ai_key else ""
+            print(f"{rank:<6} | {field:<25}{marker} | {mean_sim:>18.6f} | {n_models:>9}")
+
+    # Print rank tables for each valence first
+    print("\n" + "=" * 80)
+    if args.metric == "rank":
+        print("FIELD RANKINGS BY VALENCE (lower rank = better)")
+        metric_col_label = "Mean Rank"
+    else:
+        print("FIELD RANKINGS BY VALENCE (higher similarity = better)")
+        metric_col_label = "Mean Similarity"
+    print("=" * 80)
+
+    for val in sorted(per_metric["valence"].unique()):
+        sub = per_metric[per_metric["valence"] == val].copy()
+        wide = sub.pivot_table(index="model", columns="field", values="metric", aggfunc="mean")
+
+        if wide.empty:
+            continue
+
+        # Calculate mean metric per field across models
+        # For rank: sort ascending (lower rank = better)
+        # For similarity: sort descending (higher similarity = better)
+        field_means = wide.mean(axis=0).sort_values(ascending=(args.metric == "rank"))
+
+        print(f"\n{val.upper()} Valence:")
+        print(f"{'Rank':<6} | {'Field':<25} | {metric_col_label:>15} | {'N Models':>9}")
+        print("-" * 63)
+
+        for rank, (field, mean_val) in enumerate(field_means.items(), start=1):
+            n_models = wide[field].notna().sum()
+            marker = " (AI)" if field == args.ai_key else ""
+            print(f"{rank:<6} | {field:<25}{marker} | {mean_val:>15.4f} | {n_models:>9}")
+
+    print("\n" + "=" * 80)
+    print("\nSTATISTICAL TESTS")
+    print("=" * 80 + "\n")
+
     print(f"{'Valence':<10} | {'Comparison':<35} | {'MeanDiff':>8} | {'95% CI':<21} | {'t':>8} | {'p(1s)':>10} | {'N':>3} | {'Wins':>4} | Sig")
     print("-" * 130)
 

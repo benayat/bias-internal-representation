@@ -9,7 +9,6 @@ models = [
     "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
     "google/gemma-3-27b-it",
     "meta-llama/Llama-3.3-70B-Instruct",
-    "mistralai/Ministral-3-14B-Instruct-2512",
     "mistralai/Mixtral-8x7B-Instruct-v0.1",
     "mistralai/Mixtral-8x22B-Instruct-v0.1",
 ]
