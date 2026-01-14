@@ -149,7 +149,7 @@ def main() -> None:
     prompt_embeddings = embed_sentences_vllm(prompt_texts, llm, quiet=quiet)
 
     field_keys_list = list(FIELDS.keys())
-    field_names_list = [FIELDS[k] for k in field_keys_list]
+    field_names_list = ["The field of "+FIELDS[k] for k in field_keys_list]
     if not quiet:
         print(f"\nEmbedding {len(field_names_list)} field names...")
     field_embeddings = embed_sentences_vllm(field_names_list, llm, quiet=quiet)

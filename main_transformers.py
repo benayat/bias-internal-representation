@@ -110,9 +110,9 @@ def main():
 
     # 2. Embeddings
     field_keys = list(FIELDS.keys())
-    field_names = [FIELDS[k] for k in field_keys]
-    all_prompts = [(wrap_prompt(p), "positive") for p in POSITIVE_PROMPTS] + [(wrap_prompt(p), "negative") for p in NEGATIVE_PROMPTS] + [(wrap_prompt(p), "neutral") for p in NEUTRAL_PROMPTS]
-    # all_prompts = [(p, "positive") for p in POSITIVE_PROMPTS] + [(p, "negative") for p in NEGATIVE_PROMPTS] + [(p, "neutral") for p in NEUTRAL_PROMPTS]
+    field_names = ["The field of "+FIELDS[k] for k in field_keys]
+    # all_prompts = [(wrap_prompt(p), "positive") for p in POSITIVE_PROMPTS] + [(wrap_prompt(p), "negative") for p in NEGATIVE_PROMPTS] + [(wrap_prompt(p), "neutral") for p in NEUTRAL_PROMPTS]
+    all_prompts = [(p, "positive") for p in POSITIVE_PROMPTS] + [(p, "negative") for p in NEGATIVE_PROMPTS] + [(p, "neutral") for p in NEUTRAL_PROMPTS]
 
     if not quiet:
         print(f"\nEmbedding {len(field_names)} field names...")
