@@ -34,7 +34,7 @@ We test both positive and negative ranking templates to distinguish "positive se
    
    For each input string *x*, we:
    - Extract final-layer hidden states from the decoder-only LLM
-   - Apply **mean pooling** over non-padding tokens
+   - Apply **max pooling** over non-padding tokens
    - Apply **L2 normalization** to obtain a unit vector: *ĥ(x)*
 
 3. **Similarity Computation**
