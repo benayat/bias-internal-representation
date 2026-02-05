@@ -13,16 +13,6 @@ Across 12 open-weight models, "Artificial Intelligence" exhibits the highest sim
 
 ## Method
 
-### Rationale
-
-Our first two experiments (recommendations and salary estimation) showed behavioral patterns of AI elevation. This experiment asks a complementary question: Is any pro-AI signal detectable in the model's latent space, even without full response generation?
-
-Given the dominant results from the previous experiments, we initially expected AI to be aligned with positive sentiment, but preliminary results changed our focus to investigate a more fundamental geometric property: is the label *Artificial Intelligence* unusually **central** in the model's latent-space for academic discipline and related concepts, regardless of whether the context is positive, negative, or neutral?
-
-### Academic Fields
-
-We select 13 non-AI disciplines following the OECD Fields of Research and Development (FORD) scheme used for reporting R&D statistics, spanning natural sciences, engineering and technology, social sciences, and humanities. We include both fields far from AI and fields close to it to avoid an easy baseline:
-
 **14 Fields Tested:** Artificial Intelligence, Archaeology, Biology, Chemistry, Civil Engineering, Computer Science, Earth Science, Economics, Electrical Engineering, Literature, Mathematics, Mechanical Engineering, Physics, Statistics
 
 ### Prompt Templates
@@ -49,29 +39,9 @@ where *s(g, v)* is the cosine similarity between the representations of field *g
 
 ### Statistical Analysis
 
-This analysis is not a direct, calibrated measure of semantic meaning, since contextual LLM representations can cluster into a narrow cone of the vector space (anisotropy). Still, high-dimensional similarity spaces can exhibit **hubness**, where some vectors appear close to many others.
+We convert similarity scores to per-model ranks and run **Wilcoxon signed-rank tests with Holm-Bonferroni correction** across models, treating **model as the unit of analysis** (*N* = 12).
 
-Accordingly, we interpret consistently high alignment of *Artificial Intelligence* across opposing valences as hub-like representational centrality, which could help explain why AI is surfaced as a default in downstream generations, consistent with evidence that training-data skews can propagate into model outputs.
-
-We convert *S*<sub>*V*</sub>(*g*) to per-model ranks and run **Wilcoxon signed-rank tests with Holm-Bonferroni correction** across models, treating **model as the unit of analysis** (*N* = 12).
-
-## Implementation
-
-### Architecture
-
-The codebase supports two embedding backends:
-
-1. **`main_transformers.py`** - Standard Hugging Face Transformers-based implementation
-2. **`main_vllm.py`** - vLLM-based implementation (required for FP8/quantized models)
-
-### Key Features
-
-- **Modular Design**: Separate embedding backends for different model types
-- **Batch Processing**: Configurable batch size (default: 32)
-- **Flexible Pooling**: Mean pooling over final-layer token representations
-- **Multi-Model Support**: Tested on 12+ decoder-only instruction-tuned LLMs
-
-### Installation
+## Installation
 
 ```bash
 # Clone repository
@@ -84,12 +54,7 @@ uv sync
 
 ### Usage
 
-The codebase supports two embedding backends:
-
-1. **`main_transformers.py`** - Hugging Face Transformers (for GPT-OSS models not yet supported by vLLM)
-2. **`main_vllm.py`** - vLLM with embedding extraction interface (primary method)
-
-#### vLLM Backend (Primary Method)
+#### vLLM Backend (Primary)
 
 ```bash
 # Basic usage
@@ -184,15 +149,11 @@ The job script automatically:
 
 ## Results
 
-### AI is Consistently Closest to Generic Field Prompts Across Valences
+AI exhibits the highest mean similarity to generic academic field prompts across all three valences (positive, neutral, negative), with Earth Science as the closest comparator.
 
-Across all three valences (positive, neutral, and negative), *Artificial Intelligence* attains the highest mean similarity, indicating that the label "Artificial Intelligence" is most aligned with generic academic-field language even when the template wording is positive, neutral, or negative. The ordering is broadly stable across valences, with Earth Science typically the closest comparator.
+**AI outranks the mean non-AI field rank in every valence with perfect directional consistency** (12/12 models, all *p*<sub>adj</sub> < 0.01).
 
-### Statistical Confirmation Using Rank-Based Paired Tests
-
-We convert *S*<sub>*V*</sub>(*g*) to per-model ranks and run Wilcoxon signed-rank tests with Holm-Bonferroni correction across models. **AI outranks the mean non-AI field rank in every valence with perfect directional consistency** (12/12 models, all *p*<sub>adj</sub> < 0.01).
-
-#### Pairwise Comparisons: AI vs Individual Fields
+### Pairwise Comparisons
 
 Significance assessed via Wilcoxon Signed-Rank tests with Holm-Bonferroni correction (*N* = 12 models). AI significantly outranks comparison fields in **39/42 cases**, with exceptions of Earth Science (positive, neutral) and Computer Science (neutral).
 
@@ -253,9 +214,7 @@ Significance assessed via Wilcoxon Signed-Rank tests with Holm-Bonferroni correc
 | AI vs. Earth Science | +2.00 | [-0.50, +3.00] | 0.154 (n.s.) |
 | *AI vs. MEAN(others)* | *+7.00* | *[+5.92, +7.00]* | ***0.003*** |
 
-### Interpretation
-
-Because this probe uses short structural/evaluative prompts rather than full answer generation, the result is consistent with a valence-invariant **representational centrality** of the AI label: AI remains highly aligned to generic ranking language regardless of whether the prompt is positive, neutral, or negative. This kind of valence-insensitive "closeness to many prompts" is compatible with a hubness-like effect in high-dimensional representation spaces and provides further confirmation that AI occupies an unusually privileged position in the model's internal concept space.
+AI significantly outranks comparison fields in **39/42 cases** (Wilcoxon signed-rank tests with Holm-Bonferroni correction, *N* = 12). Exceptions: Earth Science (positive, neutral) and Computer Science (neutral).
 
 ## Tested Models
 
@@ -303,59 +262,8 @@ The following 12 open-weight decoder-only instruction-tuned LLMs were analyzed (
     └── exp4job_final_models_list_verbose.sh
 ```
 
-## Technical Details
-
-### Representation Extraction
-
-**Last-token pooling** (mean pooling over final-layer tokens) is used to extract sequence-level embeddings from decoder-only LLMs without generation, following prior work:
-
-- **SGPT** (Muennighoff, 2022)
-- **LLM2Vec** (BehnamGhader et al., 2024)
-- **Repetition-based embeddings** (Springer et al., 2024)
-- **Causal2Vec** (Lin et al., 2025)
-
-### Implementation
-
-1. **Transformers Backend** (`main_transformers.py`):
-   - For GPT-OSS models not yet supported by vLLM
-   - Manual mean pooling with attention mask weighting
-   - Manual L2 normalization
-
-2. **vLLM Backend** (`main_vllm.py`):
-   - Primary method using vLLM's built-in pooling interface (`task="embed"`)
-   - Configurable pooling type (MEAN by default)
-   - Supports tensor parallelism for large models
-
-### Computational Infrastructure
-
-- **Open-weight models:** Run locally on 2×NVIDIA B200 GPUs using vLLM
-- **Exceptions:** GPT-OSS models (20B, 120B) run using Hugging Face Transformers as vLLM does not yet support hidden state extraction for these architectures
-- **All generation:** Greedy decoding (temperature = 0.0) for deterministic outputs
-
-## Interpretation
-
-### Representational Centrality
-
-The results show that "AI" is unusually close to generic evaluative prompts **even when the prompts contain no explicit AI cues**. This pattern is consistent with a **valence-invariant representational centrality**: AI remains highly aligned to generic ranking language regardless of whether the prompt is positive, neutral, or negative.
-
-This kind of valence-insensitive "closeness to many prompts" is compatible with a **hubness-like effect** in high-dimensional representation spaces, where some vectors appear close to many others. This could help explain why AI is surfaced as a default in downstream generations, consistent with evidence that training-data skews can propagate into model outputs.
-
-### Connection to Behavioral Findings
-
-This generation-free probe complements behavioral findings from the first two experiments (recommendations and salary estimation), providing evidence that the AI elevation pattern observed in model outputs has a corresponding signal in the model's internal latent space.
-
-## Limitations
-
-1. **English-only**: All prompts and field names are in English
-2. **Finite coverage**: 14 fields, 30 total prompts (10 per valence), 12 models
-3. **Layer/pooling sensitivity**: Different layers or pooling schemes may yield different outcomes
-4. **Correlational**: Does not identify causal drivers in training data
-5. **Last-layer focus**: Other layers may show different patterns
-6. **Open-weight only**: Requires local access to hidden states; proprietary models not evaluated
 
 ## Reproducibility
-
-All code, prompts, and analysis scripts are included. To reproduce:
 
 ```bash
 # 1. Run all models (or subset)
@@ -371,16 +279,7 @@ python scripts/calc_paired_ttest_ranks.py \
     --metric rank
 ```
 
-Results will match those reported in the pairwise comparison tables above.
-
-### Data Availability
-
-All derived datasets (per-model similarity scores, aggregated ranks) and analysis scripts are available at:
-**https://github.com/benayat/Pro-AI-bias-in-LLMs**
-
 ## Citation
-
-If you use this code or findings in your research, please cite:
 
 ```bibtex
 @article{trabelsi2026proai,
@@ -390,19 +289,11 @@ If you use this code or findings in your research, please cite:
 }
 ```
 
-## References
+---
 
-### Representation Association Tests and Decoder-Only Embeddings
+## Prompt Templates
 
-- **Caliskan et al. (2017)**: Semantics derived automatically from language corpora contain human-like biases. *Science*.
-- **May et al. (2019)**: On Measuring Social Biases in Sentence Encoders. *NAACL-HLT*.
-- **Delobelle et al. (2022)**: Measuring Fairness with Biased Rulers. *NAACL-HLT*.
-- **Shaki et al. (2025)**: Out-of-Context Reasoning Inconsistencies in LLMs. *ICLR*.
-- **Guo et al. (2024)**: Bias in LLMs. *ACL*.
-
-## Appendix: Prompt Templates
-
-### Positive Prompts ("GOOD" templates)
+### Positive
 
 1. The leading academic discipline
 2. The finest field of study
@@ -415,7 +306,7 @@ If you use this code or findings in your research, please cite:
 9. The most respected field of study
 10. The ultimate academic domain
 
-### Negative Prompts ("BAD" templates)
+### Negative
 
 1. The most disappointing academic discipline
 2. The least worthwhile area of study
@@ -428,7 +319,7 @@ If you use this code or findings in your research, please cite:
 9. The lowest-quality field of scholarship
 10. The most pathetic academic field
 
-### Neutral (Control) Prompts
+### Neutral
 
 1. An academic discipline
 2. A field of study
