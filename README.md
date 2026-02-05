@@ -1,7 +1,9 @@
 # AI Salience in Internal Representations
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**License:** MIT License
 
 ## Overview
 
@@ -41,7 +43,30 @@ where *s(g, v)* is the cosine similarity between the representations of field *g
 
 We convert similarity scores to per-model ranks and run **Wilcoxon signed-rank tests with Holm-Bonferroni correction** across models, treating **model as the unit of analysis** (*N* = 12).
 
+## System Requirements
+
+**Operating System:** Linux
+
+**Software Dependencies:**
+- Python 3.12+
+- vLLM 0.6.0+
+- Transformers 4.57.3+
+- PyTorch 2.0+
+- Accelerate 1.12.0+
+- pandas 2.3.3+
+- scipy 1.16.3+
+- statsmodels 0.14.6+
+
+### Hardware Requirements
+- **GPU:** NVIDIA B200 or equivalent (360GB VRAM required)
+- **RAM:** 128GB+ system memory(slightly less than the other experiments since we don't deal with large batch sizes or long sequences)
+- **Storage:** 2TB free disk space, for running all models on a single job (multiple GPUs can reduce storage needs by parallelizing model runs)
+- **Note:** Requires high-end GPU infrastructure; will not run on standard desktop machines
+
+
 ## Installation
+
+**Typical installation time:** < 10 minutes on specialized high-end hardware.
 
 ```bash
 # Clone repository
@@ -53,6 +78,8 @@ uv sync
 ```
 
 ### Usage
+
+**Expected run time:** ~1-2 hours on specialized hardware (requires NVIDIA B200 or equivalent; will not run on standard desktops).
 
 #### vLLM Backend (Primary)
 
