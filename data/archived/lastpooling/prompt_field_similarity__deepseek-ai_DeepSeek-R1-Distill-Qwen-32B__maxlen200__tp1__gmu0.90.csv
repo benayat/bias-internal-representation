@@ -1,0 +1,421 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,AI,Artificial intelligence,0.7293193936347961
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Archaeology,Archaeology,0.499271422624588
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Literature,Literature,0.5243149995803833
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.6412155628204346
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Computer_Science,Computer science,0.6973572373390198
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Statistics,Statistics,0.4913412928581238
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Mathematics,Mathematics,0.468980073928833
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Physics,Physics,0.3854411542415619
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Chemistry,Chemistry,0.4178887605667114
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Biology,Biology,0.28985169529914856
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Earth_Science,Earth science,0.6439678072929382
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.629661500453949
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.6666366457939148
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,0,The leading academic discipline,positive,Economics,Economics,0.5358063578605652
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,AI,Artificial intelligence,0.7397885918617249
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Archaeology,Archaeology,0.4093303680419922
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Literature,Literature,0.4601811170578003
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.5465264320373535
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Computer_Science,Computer science,0.6106816530227661
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Statistics,Statistics,0.4239439070224762
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Mathematics,Mathematics,0.40791112184524536
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Physics,Physics,0.3573272228240967
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Chemistry,Chemistry,0.35605278611183167
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Biology,Biology,0.24706755578517914
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Earth_Science,Earth science,0.5571431517601013
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.5260132551193237
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.5356271266937256
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,1,The finest field of study,positive,Economics,Economics,0.45559677481651306
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,AI,Artificial intelligence,0.6208789944648743
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Archaeology,Archaeology,0.572226345539093
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Literature,Literature,0.5730746984481812
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.6789225339889526
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Computer_Science,Computer science,0.7134534120559692
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Statistics,Statistics,0.5440425276756287
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Mathematics,Mathematics,0.5168542861938477
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Physics,Physics,0.44145941734313965
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Chemistry,Chemistry,0.49554798007011414
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Biology,Biology,0.3734123110771179
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Earth_Science,Earth science,0.681968092918396
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.6805289387702942
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.706417441368103
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,2,The top scholarly domain,positive,Economics,Economics,0.5697644948959351
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.703339695930481
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Archaeology,Archaeology,0.34537696838378906
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Literature,Literature,0.392996609210968
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.5023677945137024
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.5697089433670044
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Statistics,Statistics,0.374226450920105
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.3489782214164734
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Physics,Physics,0.30651456117630005
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.29328835010528564
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Biology,Biology,0.19420894980430603
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.5112408995628357
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.483635276556015
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.503141462802887
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,3,The most outstanding area of study,positive,Economics,Economics,0.4067520797252655
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,AI,Artificial intelligence,0.7604873180389404
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Archaeology,Archaeology,0.6078499555587769
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Literature,Literature,0.6236986517906189
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.6681700944900513
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Computer_Science,Computer science,0.730167806148529
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Statistics,Statistics,0.5555537939071655
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Mathematics,Mathematics,0.5544499158859253
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Physics,Physics,0.46227121353149414
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Chemistry,Chemistry,0.5036325454711914
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Biology,Biology,0.3790370523929596
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Earth_Science,Earth science,0.6939946413040161
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.6573163270950317
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.6742934584617615
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,4,The premier branch of learning,positive,Economics,Economics,0.5821375250816345
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.6810977458953857
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.4705978035926819
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Literature,Literature,0.4982406198978424
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.5873145461082458
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.6534551382064819
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Statistics,Statistics,0.48848870396614075
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.4619901776313782
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Physics,Physics,0.39955151081085205
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.4067360758781433
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Biology,Biology,0.30261483788490295
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.5847671627998352
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.5747961401939392
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.6014886498451233
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,5,The highest-ranked academic field,positive,Economics,Economics,0.519335150718689
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.7670004367828369
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Archaeology,Archaeology,0.46918901801109314
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Literature,Literature,0.5217919945716858
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.5426604151725769
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.6379774212837219
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Statistics,Statistics,0.48526573181152344
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.46956491470336914
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Physics,Physics,0.3936581313610077
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.41248178482055664
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Biology,Biology,0.31369003653526306
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.5648361444473267
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.5254257321357727
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.5417110323905945
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,6,The strongest discipline in academia,positive,Economics,Economics,0.5278569459915161
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.6619023084640503
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.4968809485435486
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Literature,Literature,0.5280277729034424
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.6293149590492249
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.6695985794067383
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.4517746567726135
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.4323732852935791
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Physics,Physics,0.36658334732055664
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.40505269169807434
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Biology,Biology,0.28897538781166077
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.6474012732505798
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.6190182566642761
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.6540004014968872
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,7,The most exceptional scholarly field,positive,Economics,Economics,0.4775521159172058
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,AI,Artificial intelligence,0.7387016415596008
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Archaeology,Archaeology,0.4576844274997711
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Literature,Literature,0.5100709199905396
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.5605998039245605
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Computer_Science,Computer science,0.6425735950469971
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Statistics,Statistics,0.48310571908950806
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Mathematics,Mathematics,0.4631308913230896
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Physics,Physics,0.3953993618488312
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Chemistry,Chemistry,0.4024142622947693
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Biology,Biology,0.3119092285633087
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Earth_Science,Earth science,0.5738458037376404
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.5447463393211365
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.5595033764839172
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,8,The most respected field of study,positive,Economics,Economics,0.5233113169670105
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.66688072681427
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.5862091779708862
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Literature,Literature,0.6076881885528564
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.7026059627532959
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.7362168431282043
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Statistics,Statistics,0.5534067749977112
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.5406132340431213
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Physics,Physics,0.4588242471218109
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.5221298933029175
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Biology,Biology,0.4037710726261139
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.7175041437149048
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.7024551630020142
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.7119932174682617
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,9,The ultimate academic domain,positive,Economics,Economics,0.5833141207695007
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.6698564887046814
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,0.5010023713111877
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Literature,Literature,0.549008309841156
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.5873459577560425
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.6389968395233154
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Statistics,Statistics,0.5119737982749939
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.5085135102272034
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Physics,Physics,0.4558403789997101
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.46562835574150085
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Biology,Biology,0.4059932231903076
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.6030961871147156
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.5832465887069702
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.5788871645927429
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,10,The most disappointing academic discipline,negative,Economics,Economics,0.5689511895179749
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.6968628168106079
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Archaeology,Archaeology,0.4599612355232239
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Literature,Literature,0.5024312138557434
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.5527338981628418
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.6156438589096069
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Statistics,Statistics,0.4973500370979309
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.4814547598361969
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Physics,Physics,0.4283810257911682
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.4234842360019684
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Biology,Biology,0.35907483100891113
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.5580988526344299
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.5438125133514404
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.5468845367431641
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,11,The least worthwhile area of study,negative,Economics,Economics,0.5431051850318909
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.7202860713005066
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Archaeology,Archaeology,0.42149269580841064
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Literature,Literature,0.47310638427734375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.5534583926200867
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.6246259212493896
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Statistics,Statistics,0.44557827711105347
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.40728309750556946
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Physics,Physics,0.35670801997184753
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.3625521659851074
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Biology,Biology,0.24875299632549286
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.5691882967948914
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.5391404628753662
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.5617600083351135
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,12,The weakest scholarly field,negative,Economics,Economics,0.4751189947128296
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.7379591464996338
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.518772304058075
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Literature,Literature,0.5565033555030823
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.5664353966712952
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.6534334421157837
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Statistics,Statistics,0.4876832365989685
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.4763776957988739
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Physics,Physics,0.3942044675350189
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.4270099401473999
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Biology,Biology,0.31900790333747864
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.5998645424842834
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.5618172287940979
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.5811702013015747
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,13,The most inferior branch of academia,negative,Economics,Economics,0.520003616809845
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.7555270195007324
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.4500673711299896
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Literature,Literature,0.4926541745662689
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.5692093372344971
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.6447003483772278
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Statistics,Statistics,0.45555081963539124
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.4347567558288574
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Physics,Physics,0.38337066769599915
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.38041582703590393
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Biology,Biology,0.2691594958305359
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.5837216973304749
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.5589842200279236
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.5804113745689392
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,14,The least respectable domain of research,negative,Economics,Economics,0.4932249188423157
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,AI,Artificial intelligence,0.6918424963951111
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Archaeology,Archaeology,0.4860423803329468
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Literature,Literature,0.5270140767097473
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.5670763254165649
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Computer_Science,Computer science,0.6206721663475037
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Statistics,Statistics,0.5101103186607361
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Mathematics,Mathematics,0.5027878284454346
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Physics,Physics,0.4478243291378021
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Chemistry,Chemistry,0.4452666640281677
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Biology,Biology,0.3783605992794037
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Earth_Science,Earth science,0.5735478401184082
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.5584667921066284
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.5534207224845886
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,15,The most useless course of study,negative,Economics,Economics,0.5525497794151306
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.7098972797393799
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.45998820662498474
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Literature,Literature,0.5012873411178589
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.5500495433807373
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.6247111558914185
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Statistics,Statistics,0.47866055369377136
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.45734134316444397
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Physics,Physics,0.4083267152309418
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.4068167209625244
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Biology,Biology,0.31286856532096863
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.560977041721344
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.5368760824203491
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.545723557472229
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,16,The least valuable intellectual field,negative,Economics,Economics,0.5175960063934326
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.6410467624664307
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.37958139181137085
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.4179730713367462
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.5357823371887207
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.575389564037323
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,0.4288855195045471
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.4217797517776489
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Physics,Physics,0.3836565613746643
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.36885014176368713
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.3094028830528259
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.5143865942955017
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.5289949774742126
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.5338945984840393
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.47345584630966187
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.6992502808570862
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.41931623220443726
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.47212475538253784
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.48860520124435425
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.5895814299583435
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.4102991223335266
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.3804454207420349
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.311207115650177
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.3264905512332916
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.20764857530593872
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.5280237197875977
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.4731893539428711
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.49663323163986206
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.44415104389190674
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.7071611881256104
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.43629229068756104
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Literature,Literature,0.493027925491333
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.5329987406730652
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.6044800281524658
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Statistics,Statistics,0.44548964500427246
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.4292488396167755
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Physics,Physics,0.3811618685722351
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.38390859961509705
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Biology,Biology,0.30534759163856506
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.5589532256126404
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.5240691900253296
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.5339558720588684
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,19,The most pathetic academic field,negative,Economics,Economics,0.4841131865978241
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,AI,Artificial intelligence,0.7396173477172852
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Archaeology,Archaeology,0.5304340720176697
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Literature,Literature,0.5601794719696045
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Electrical_Engineering,Electrical engineering,0.6493664979934692
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Computer_Science,Computer science,0.7384083867073059
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Statistics,Statistics,0.4899154007434845
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Mathematics,Mathematics,0.4799348711967468
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Physics,Physics,0.37735238671302795
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Chemistry,Chemistry,0.43288475275039673
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Biology,Biology,0.30434393882751465
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Earth_Science,Earth science,0.679885983467102
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Mechanical_Engineering,Mechanical engineering,0.6389831304550171
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Civil_Engineering,Civil engineering,0.6677926182746887
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,20,An academic discipline,neutral,Economics,Economics,0.5288654565811157
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,AI,Artificial intelligence,0.7686781883239746
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Archaeology,Archaeology,0.45776575803756714
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Literature,Literature,0.49500346183776855
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Electrical_Engineering,Electrical engineering,0.6108654737472534
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Computer_Science,Computer science,0.6993329524993896
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Statistics,Statistics,0.4552012085914612
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Mathematics,Mathematics,0.4349414110183716
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Physics,Physics,0.3520813584327698
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Chemistry,Chemistry,0.3789388835430145
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Biology,Biology,0.26266664266586304
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Earth_Science,Earth science,0.6401028037071228
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Mechanical_Engineering,Mechanical engineering,0.5951980352401733
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Civil_Engineering,Civil engineering,0.6179069876670837
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,21,A field of study,neutral,Economics,Economics,0.48443809151649475
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,AI,Artificial intelligence,0.6162523627281189
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Archaeology,Archaeology,0.43167227506637573
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Literature,Literature,0.4038984179496765
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Electrical_Engineering,Electrical engineering,0.5635684132575989
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Computer_Science,Computer science,0.622909665107727
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Statistics,Statistics,0.37884244322776794
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Mathematics,Mathematics,0.3489418923854828
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Physics,Physics,0.2575248181819916
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Chemistry,Chemistry,0.3093300759792328
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Biology,Biology,0.17853672802448273
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Earth_Science,Earth science,0.5604244470596313
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Mechanical_Engineering,Mechanical engineering,0.5552882552146912
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Civil_Engineering,Civil engineering,0.5930366516113281
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,22,A university department,neutral,Economics,Economics,0.40015909075737
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,AI,Artificial intelligence,0.730830729007721
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Archaeology,Archaeology,0.5192528963088989
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Literature,Literature,0.5643107891082764
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Electrical_Engineering,Electrical engineering,0.5851583480834961
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Computer_Science,Computer science,0.6565616726875305
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Statistics,Statistics,0.5256127119064331
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Mathematics,Mathematics,0.5158495306968689
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Physics,Physics,0.4360479414463043
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Chemistry,Chemistry,0.45700493454933167
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Biology,Biology,0.3761867582798004
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Earth_Science,Earth science,0.6227161288261414
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Mechanical_Engineering,Mechanical engineering,0.5753251910209656
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Civil_Engineering,Civil engineering,0.5825797319412231
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,23,A branch of knowledge,neutral,Economics,Economics,0.547603189945221
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,AI,Artificial intelligence,0.6186047196388245
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Archaeology,Archaeology,0.5467917323112488
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Literature,Literature,0.5805447101593018
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Electrical_Engineering,Electrical engineering,0.6491938829421997
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Computer_Science,Computer science,0.7048777937889099
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Statistics,Statistics,0.5055701732635498
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Mathematics,Mathematics,0.48472025990486145
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Physics,Physics,0.39892032742500305
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Chemistry,Chemistry,0.4672267735004425
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Biology,Biology,0.3428506851196289
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Earth_Science,Earth science,0.6816996932029724
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Mechanical_Engineering,Mechanical engineering,0.6466745138168335
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Civil_Engineering,Civil engineering,0.6706229448318481
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,24,A scholarly domain,neutral,Economics,Economics,0.5254769921302795
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,AI,Artificial intelligence,0.7433518767356873
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Archaeology,Archaeology,0.4600313603878021
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Literature,Literature,0.4733861982822418
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Electrical_Engineering,Electrical engineering,0.6346412897109985
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Computer_Science,Computer science,0.6894164681434631
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Statistics,Statistics,0.4571644365787506
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Mathematics,Mathematics,0.43256238102912903
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Physics,Physics,0.39049991965293884
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Chemistry,Chemistry,0.39521563053131104
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Biology,Biology,0.27756011486053467
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Earth_Science,Earth science,0.647336483001709
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Mechanical_Engineering,Mechanical engineering,0.6215487122535706
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Civil_Engineering,Civil engineering,0.6507006883621216
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,25,An area of research,neutral,Economics,Economics,0.49132704734802246
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,AI,Artificial intelligence,0.7661169171333313
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Archaeology,Archaeology,0.4593043327331543
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Literature,Literature,0.4989157021045685
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Electrical_Engineering,Electrical engineering,0.6199702024459839
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Computer_Science,Computer science,0.695768415927887
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Statistics,Statistics,0.46610552072525024
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Mathematics,Mathematics,0.44648465514183044
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Physics,Physics,0.3476734757423401
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Chemistry,Chemistry,0.3964402377605438
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Biology,Biology,0.3002026081085205
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Earth_Science,Earth science,0.6435215473175049
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Mechanical_Engineering,Mechanical engineering,0.6019574999809265
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Civil_Engineering,Civil engineering,0.6334854960441589
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,26,A major in college,neutral,Economics,Economics,0.5039584040641785
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,AI,Artificial intelligence,0.6939085721969604
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Archaeology,Archaeology,0.49234139919281006
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Literature,Literature,0.4985896348953247
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Electrical_Engineering,Electrical engineering,0.620576024055481
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Computer_Science,Computer science,0.6819577217102051
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Statistics,Statistics,0.4380843937397003
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Mathematics,Mathematics,0.41584187746047974
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Physics,Physics,0.36054837703704834
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Chemistry,Chemistry,0.39707812666893005
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Biology,Biology,0.2690788805484772
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Earth_Science,Earth science,0.6584039926528931
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Mechanical_Engineering,Mechanical engineering,0.6131040453910828
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Civil_Engineering,Civil engineering,0.6291937828063965
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,27,A scientific field,neutral,Economics,Economics,0.45751410722732544
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,AI,Artificial intelligence,0.7542048096656799
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Archaeology,Archaeology,0.523936927318573
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Literature,Literature,0.5416897535324097
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Electrical_Engineering,Electrical engineering,0.6898555159568787
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Computer_Science,Computer science,0.7400956749916077
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Statistics,Statistics,0.5078985095024109
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Mathematics,Mathematics,0.48630258440971375
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Physics,Physics,0.39725616574287415
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Chemistry,Chemistry,0.4468405544757843
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Biology,Biology,0.3264578878879547
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Earth_Science,Earth science,0.6944385766983032
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Mechanical_Engineering,Mechanical engineering,0.6833296418190002
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Civil_Engineering,Civil engineering,0.7185922265052795
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,28,A type of education,neutral,Economics,Economics,0.552836000919342
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,AI,Artificial intelligence,0.7438072562217712
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Archaeology,Archaeology,0.5051681995391846
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Literature,Literature,0.5547431707382202
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Electrical_Engineering,Electrical engineering,0.5949684381484985
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Computer_Science,Computer science,0.6611741185188293
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Statistics,Statistics,0.48350441455841064
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Mathematics,Mathematics,0.47889989614486694
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Physics,Physics,0.4200577437877655
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Chemistry,Chemistry,0.4326997995376587
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Biology,Biology,0.3157525062561035
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Earth_Science,Earth science,0.6240700483322144
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Mechanical_Engineering,Mechanical engineering,0.5838368535041809
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Civil_Engineering,Civil engineering,0.5817844271659851
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,29,An intellectual pursuit,neutral,Economics,Economics,0.5121299028396606

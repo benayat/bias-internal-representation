@@ -1,0 +1,421 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,AI,Artificial intelligence,0.5795361399650574
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Archaeology,Archaeology,0.34272775053977966
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Literature,Literature,0.3724808096885681
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.5689049363136292
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Computer_Science,Computer science,0.5737944841384888
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Statistics,Statistics,0.22074276208877563
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Mathematics,Mathematics,0.3901698589324951
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Physics,Physics,0.24265286326408386
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Chemistry,Chemistry,0.33111944794654846
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Biology,Biology,0.34000301361083984
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Earth_Science,Earth science,0.5735508799552917
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.5635859966278076
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.5659206509590149
+meta-llama/Llama-3.3-70B-Instruct,0,The leading academic discipline,positive,Economics,Economics,0.34827834367752075
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,AI,Artificial intelligence,0.5385660529136658
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Archaeology,Archaeology,0.25867167115211487
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Literature,Literature,0.2236981987953186
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.48297199606895447
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Computer_Science,Computer science,0.45102933049201965
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Statistics,Statistics,-0.049577102065086365
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Mathematics,Mathematics,0.27978870272636414
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Physics,Physics,-0.05117063969373703
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Chemistry,Chemistry,0.205946147441864
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Biology,Biology,0.2202366590499878
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Earth_Science,Earth science,0.4437748193740845
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.48201972246170044
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.4686017334461212
+meta-llama/Llama-3.3-70B-Instruct,1,The finest field of study,positive,Economics,Economics,0.23910260200500488
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,AI,Artificial intelligence,0.44267478585243225
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Archaeology,Archaeology,0.301294207572937
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Literature,Literature,0.345292329788208
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.4919460117816925
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Computer_Science,Computer science,0.5272777676582336
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Statistics,Statistics,0.29540449380874634
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Mathematics,Mathematics,0.3283926546573639
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Physics,Physics,0.32493242621421814
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Chemistry,Chemistry,0.31118860840797424
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Biology,Biology,0.2965053617954254
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Earth_Science,Earth science,0.5184087157249451
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.494934618473053
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.48964083194732666
+meta-llama/Llama-3.3-70B-Instruct,2,The top scholarly domain,positive,Economics,Economics,0.3026757538318634
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.4914555847644806
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Archaeology,Archaeology,0.24718594551086426
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Literature,Literature,0.23337209224700928
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.45672157406806946
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.4179415702819824
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Statistics,Statistics,0.037745654582977295
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.2749823033809662
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Physics,Physics,0.029088448733091354
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.20339621603488922
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Biology,Biology,0.22081539034843445
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.42050546407699585
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.45625749230384827
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.4482564926147461
+meta-llama/Llama-3.3-70B-Instruct,3,The most outstanding area of study,positive,Economics,Economics,0.21273817121982574
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,AI,Artificial intelligence,0.5287452936172485
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Archaeology,Archaeology,0.381428062915802
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Literature,Literature,0.3667563498020172
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.5635263323783875
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Computer_Science,Computer science,0.5513671040534973
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Statistics,Statistics,0.27868539094924927
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Mathematics,Mathematics,0.4168555438518524
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Physics,Physics,0.2947370409965515
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Chemistry,Chemistry,0.3493109941482544
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Biology,Biology,0.353365033864975
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Earth_Science,Earth science,0.542578935623169
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.5669612884521484
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.5561162233352661
+meta-llama/Llama-3.3-70B-Instruct,4,The premier branch of learning,positive,Economics,Economics,0.3391623795032501
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.4703122675418854
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.2585696578025818
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Literature,Literature,0.24028420448303223
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.4884289801120758
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.47546330094337463
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Statistics,Statistics,0.07487069070339203
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.25689342617988586
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Physics,Physics,0.10361650586128235
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.2217896580696106
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Biology,Biology,0.2214522361755371
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.4722028374671936
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.4844987392425537
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.4820130467414856
+meta-llama/Llama-3.3-70B-Instruct,5,The highest-ranked academic field,positive,Economics,Economics,0.2378227710723877
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.5926952958106995
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Archaeology,Archaeology,0.22706729173660278
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Literature,Literature,0.18930770456790924
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.44547340273857117
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.42819729447364807
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Statistics,Statistics,-0.08190891891717911
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.2568126320838928
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Physics,Physics,-0.0800337940454483
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.1859905868768692
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Biology,Biology,0.1962730437517166
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.4069262444972992
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.441145122051239
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.4336799681186676
+meta-llama/Llama-3.3-70B-Instruct,6,The strongest discipline in academia,positive,Economics,Economics,0.2453494668006897
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.47942495346069336
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.3141578435897827
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Literature,Literature,0.30791953206062317
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.5066872835159302
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.5058271884918213
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.1382160633802414
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.2997573912143707
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Physics,Physics,0.18389266729354858
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.2863137125968933
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Biology,Biology,0.28032082319259644
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.5283381938934326
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.5131973624229431
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.5142481923103333
+meta-llama/Llama-3.3-70B-Instruct,7,The most exceptional scholarly field,positive,Economics,Economics,0.2574095129966736
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,AI,Artificial intelligence,0.5173047184944153
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Archaeology,Archaeology,0.2411823570728302
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Literature,Literature,0.22142642736434937
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.440437912940979
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Computer_Science,Computer science,0.41252678632736206
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Statistics,Statistics,-0.015497218817472458
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Mathematics,Mathematics,0.2689840495586395
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Physics,Physics,-0.027374088764190674
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Chemistry,Chemistry,0.18613004684448242
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Biology,Biology,0.20789077877998352
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Earth_Science,Earth science,0.40979722142219543
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.4319370985031128
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.4263729155063629
+meta-llama/Llama-3.3-70B-Instruct,8,The most respected field of study,positive,Economics,Economics,0.24024458229541779
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.4523160457611084
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.29813969135284424
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Literature,Literature,0.3309473693370819
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.493556946516037
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.5209921598434448
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Statistics,Statistics,0.275876522064209
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.34149280190467834
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Physics,Physics,0.29477688670158386
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.3328585624694824
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Biology,Biology,0.3165954649448395
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.5052778124809265
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.49364417791366577
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.481515109539032
+meta-llama/Llama-3.3-70B-Instruct,9,The ultimate academic domain,positive,Economics,Economics,0.31271377205848694
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.4765223264694214
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,0.19210106134414673
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Literature,Literature,0.13344407081604004
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.40318405628204346
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.40036123991012573
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Statistics,Statistics,-0.13613271713256836
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.2231159210205078
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Physics,Physics,-0.12695689499378204
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.14852620661258698
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Biology,Biology,0.16185392439365387
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.3860682547092438
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.38219892978668213
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.3885253965854645
+meta-llama/Llama-3.3-70B-Instruct,10,The most disappointing academic discipline,negative,Economics,Economics,0.21408575773239136
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.43036437034606934
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Archaeology,Archaeology,0.19679929316043854
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Literature,Literature,0.15520617365837097
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.3612980842590332
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.3470499813556671
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Statistics,Statistics,-0.1057591587305069
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.24206528067588806
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Physics,Physics,-0.11844512075185776
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.15236766636371613
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Biology,Biology,0.17185182869434357
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.3381160795688629
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.34314027428627014
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.3414166271686554
+meta-llama/Llama-3.3-70B-Instruct,11,The least worthwhile area of study,negative,Economics,Economics,0.21879306435585022
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.5553700923919678
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Archaeology,Archaeology,0.21743783354759216
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Literature,Literature,0.21041293442249298
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.4323500096797943
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.4276091158390045
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Statistics,Statistics,-0.042202796787023544
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.24677753448486328
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Physics,Physics,-0.03148118406534195
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.1739443838596344
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Biology,Biology,0.18641714751720428
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.42898476123809814
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.4288719892501831
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.43249374628067017
+meta-llama/Llama-3.3-70B-Instruct,12,The weakest scholarly field,negative,Economics,Economics,0.22257274389266968
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.4959530234336853
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.1698910892009735
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Literature,Literature,0.12420988082885742
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.3224797546863556
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.3217742443084717
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Statistics,Statistics,-0.1291431188583374
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.18250772356987
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Physics,Physics,-0.12984329462051392
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.10586308687925339
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Biology,Biology,0.11963845789432526
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.306924045085907
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.31236565113067627
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.30886778235435486
+meta-llama/Llama-3.3-70B-Instruct,13,The most inferior branch of academia,negative,Economics,Economics,0.17345288395881653
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.533556342124939
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.2201852649450302
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Literature,Literature,0.18726228177547455
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.4303896427154541
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.4105950891971588
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Statistics,Statistics,-0.08834638446569443
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.24080969393253326
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Physics,Physics,-0.0866159200668335
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.15889205038547516
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Biology,Biology,0.1771278977394104
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.4233253002166748
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.41338050365448
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.42622706294059753
+meta-llama/Llama-3.3-70B-Instruct,14,The least respectable domain of research,negative,Economics,Economics,0.21567152440547943
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,AI,Artificial intelligence,0.3842954635620117
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Archaeology,Archaeology,0.1743583381175995
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Literature,Literature,0.10581029951572418
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.3170529007911682
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Computer_Science,Computer science,0.30613958835601807
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Statistics,Statistics,-0.1180977001786232
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Mathematics,Mathematics,0.20548740029335022
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Physics,Physics,-0.1272621750831604
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Chemistry,Chemistry,0.12691457569599152
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Biology,Biology,0.13634264469146729
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Earth_Science,Earth science,0.27814191579818726
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.30400145053863525
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.3021654486656189
+meta-llama/Llama-3.3-70B-Instruct,15,The most useless course of study,negative,Economics,Economics,0.1889241486787796
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.5209316611289978
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.20445451140403748
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Literature,Literature,0.16419130563735962
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.41839414834976196
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.4038218855857849
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Statistics,Statistics,-0.10023253411054611
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.2293108105659485
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Physics,Physics,-0.0944722443819046
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.1542685329914093
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Biology,Biology,0.16354185342788696
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.3933941721916199
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.4090282917022705
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.40895184874534607
+meta-llama/Llama-3.3-70B-Instruct,16,The least valuable intellectual field,negative,Economics,Economics,0.2152346670627594
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.4455437958240509
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.2037905901670456
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.12295760214328766
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.4756443202495575
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.4583110809326172
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,-0.06187735125422478
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.24392175674438477
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Physics,Physics,-0.04670713469386101
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.1725824475288391
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.2006366103887558
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.4116370677947998
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.47107434272766113
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.46439802646636963
+meta-llama/Llama-3.3-70B-Instruct,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.22960957884788513
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.5500667095184326
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.2998148798942566
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.31988751888275146
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.5009286403656006
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.5175124406814575
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.10637293756008148
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.31101444363594055
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.12625940144062042
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.24744729697704315
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.251715749502182
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.506794273853302
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.508269727230072
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.5047760009765625
+meta-llama/Llama-3.3-70B-Instruct,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.28704404830932617
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.46110305190086365
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.17877192795276642
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Literature,Literature,0.11015471816062927
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.3642668128013611
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.3687058091163635
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Statistics,Statistics,-0.1187203899025917
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.1817748248577118
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Physics,Physics,-0.10498938709497452
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.13473282754421234
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Biology,Biology,0.14047661423683167
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.35204988718032837
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.35462456941604614
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.35746583342552185
+meta-llama/Llama-3.3-70B-Instruct,19,The most pathetic academic field,negative,Economics,Economics,0.18383538722991943
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,AI,Artificial intelligence,0.5638840198516846
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Archaeology,Archaeology,0.2320869266986847
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Literature,Literature,0.20144987106323242
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Electrical_Engineering,Electrical engineering,0.4789637327194214
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Computer_Science,Computer science,0.45166003704071045
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Statistics,Statistics,-0.035769984126091
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Mathematics,Mathematics,0.2538774013519287
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Physics,Physics,-0.018759245052933693
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Chemistry,Chemistry,0.1953950822353363
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Biology,Biology,0.20963416993618011
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Earth_Science,Earth science,0.45378968119621277
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Mechanical_Engineering,Mechanical engineering,0.4755927622318268
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Civil_Engineering,Civil engineering,0.46550506353378296
+meta-llama/Llama-3.3-70B-Instruct,20,An academic discipline,neutral,Economics,Economics,0.22191153466701508
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,AI,Artificial intelligence,0.5466042757034302
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Archaeology,Archaeology,0.2327834963798523
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Literature,Literature,0.20771735906600952
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Electrical_Engineering,Electrical engineering,0.47781962156295776
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Computer_Science,Computer science,0.443538635969162
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Statistics,Statistics,-0.05906208977103233
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Mathematics,Mathematics,0.2580179274082184
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Physics,Physics,-0.05919137969613075
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Chemistry,Chemistry,0.18705345690250397
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Biology,Biology,0.20498214662075043
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Earth_Science,Earth science,0.4549824297428131
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Mechanical_Engineering,Mechanical engineering,0.46521395444869995
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Civil_Engineering,Civil engineering,0.4498690366744995
+meta-llama/Llama-3.3-70B-Instruct,21,A field of study,neutral,Economics,Economics,0.21012438833713531
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,AI,Artificial intelligence,0.5691173672676086
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Archaeology,Archaeology,0.2779867947101593
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Literature,Literature,0.22568559646606445
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Electrical_Engineering,Electrical engineering,0.4941313564777374
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Computer_Science,Computer science,0.5080041289329529
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Statistics,Statistics,0.11753279715776443
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Mathematics,Mathematics,0.28948265314102173
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Physics,Physics,0.1460258960723877
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Chemistry,Chemistry,0.23035980761051178
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Biology,Biology,0.2265722155570984
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Earth_Science,Earth science,0.4663229286670685
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Mechanical_Engineering,Mechanical engineering,0.50624680519104
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Civil_Engineering,Civil engineering,0.4964333474636078
+meta-llama/Llama-3.3-70B-Instruct,22,A university department,neutral,Economics,Economics,0.24087220430374146
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,AI,Artificial intelligence,0.5121431350708008
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Archaeology,Archaeology,0.19731271266937256
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Literature,Literature,0.2189885377883911
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Electrical_Engineering,Electrical engineering,0.4530870020389557
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Computer_Science,Computer science,0.4131510853767395
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Statistics,Statistics,-0.0038524330593645573
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Mathematics,Mathematics,0.25722435116767883
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Physics,Physics,-0.004682821221649647
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Chemistry,Chemistry,0.18234045803546906
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Biology,Biology,0.18605616688728333
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Earth_Science,Earth science,0.42045333981513977
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Mechanical_Engineering,Mechanical engineering,0.4444984197616577
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Civil_Engineering,Civil engineering,0.423030287027359
+meta-llama/Llama-3.3-70B-Instruct,23,A branch of knowledge,neutral,Economics,Economics,0.18342344462871552
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,AI,Artificial intelligence,0.5614621639251709
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Archaeology,Archaeology,0.28481820225715637
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Literature,Literature,0.3304862976074219
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Electrical_Engineering,Electrical engineering,0.5075886249542236
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Computer_Science,Computer science,0.5345458984375
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Statistics,Statistics,0.19092842936515808
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Mathematics,Mathematics,0.33216649293899536
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Physics,Physics,0.21277615427970886
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Chemistry,Chemistry,0.2888484597206116
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Biology,Biology,0.28475499153137207
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Earth_Science,Earth science,0.527523398399353
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Mechanical_Engineering,Mechanical engineering,0.5012693405151367
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Civil_Engineering,Civil engineering,0.492754191160202
+meta-llama/Llama-3.3-70B-Instruct,24,A scholarly domain,neutral,Economics,Economics,0.28147536516189575
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,AI,Artificial intelligence,0.4804684519767761
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Archaeology,Archaeology,0.22105227410793304
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Literature,Literature,0.2189629077911377
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Electrical_Engineering,Electrical engineering,0.4254176914691925
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Computer_Science,Computer science,0.41341066360473633
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Statistics,Statistics,0.03644004464149475
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Mathematics,Mathematics,0.2308240681886673
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Physics,Physics,0.03716176375746727
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Chemistry,Chemistry,0.16231343150138855
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Biology,Biology,0.1862538456916809
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Earth_Science,Earth science,0.41614145040512085
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Mechanical_Engineering,Mechanical engineering,0.43158790469169617
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Civil_Engineering,Civil engineering,0.4299215078353882
+meta-llama/Llama-3.3-70B-Instruct,25,An area of research,neutral,Economics,Economics,0.17699137330055237
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,AI,Artificial intelligence,0.5231583714485168
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Archaeology,Archaeology,0.29999610781669617
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Literature,Literature,0.24020139873027802
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Electrical_Engineering,Electrical engineering,0.5243101716041565
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Computer_Science,Computer science,0.5208267569541931
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Statistics,Statistics,0.06666398048400879
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Mathematics,Mathematics,0.29711198806762695
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Physics,Physics,0.10210739076137543
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Chemistry,Chemistry,0.25001436471939087
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Biology,Biology,0.2616751790046692
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Earth_Science,Earth science,0.49932217597961426
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Mechanical_Engineering,Mechanical engineering,0.5255451798439026
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Civil_Engineering,Civil engineering,0.5225335359573364
+meta-llama/Llama-3.3-70B-Instruct,26,A major in college,neutral,Economics,Economics,0.28108498454093933
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,AI,Artificial intelligence,0.536689281463623
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Archaeology,Archaeology,0.24098923802375793
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Literature,Literature,0.22291722893714905
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Electrical_Engineering,Electrical engineering,0.46462446451187134
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Computer_Science,Computer science,0.4547736942768097
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Statistics,Statistics,0.07282572239637375
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Mathematics,Mathematics,0.24107137322425842
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Physics,Physics,0.1024465262889862
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Chemistry,Chemistry,0.2281842976808548
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Biology,Biology,0.22023332118988037
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Earth_Science,Earth science,0.4827393591403961
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Mechanical_Engineering,Mechanical engineering,0.468155175447464
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Civil_Engineering,Civil engineering,0.45446446537971497
+meta-llama/Llama-3.3-70B-Instruct,27,A scientific field,neutral,Economics,Economics,0.2052815854549408
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,AI,Artificial intelligence,0.5165930390357971
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Archaeology,Archaeology,0.22677576541900635
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Literature,Literature,0.19743208587169647
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Electrical_Engineering,Electrical engineering,0.4801989793777466
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Computer_Science,Computer science,0.4622229039669037
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Statistics,Statistics,0.06006766855716705
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Mathematics,Mathematics,0.24920755624771118
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Physics,Physics,0.07314284145832062
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Chemistry,Chemistry,0.19539989531040192
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Biology,Biology,0.20473775267601013
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Earth_Science,Earth science,0.4447922706604004
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Mechanical_Engineering,Mechanical engineering,0.4684978425502777
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Civil_Engineering,Civil engineering,0.4698876738548279
+meta-llama/Llama-3.3-70B-Instruct,28,A type of education,neutral,Economics,Economics,0.23782774806022644
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,AI,Artificial intelligence,0.5203431844711304
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Archaeology,Archaeology,0.2178577184677124
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Literature,Literature,0.18521377444267273
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Electrical_Engineering,Electrical engineering,0.36955568194389343
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Computer_Science,Computer science,0.3626471161842346
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Statistics,Statistics,-0.0474342443048954
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Mathematics,Mathematics,0.22840900719165802
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Physics,Physics,-0.05691677704453468
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Chemistry,Chemistry,0.1481390744447708
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Biology,Biology,0.15044037997722626
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Earth_Science,Earth science,0.3478326201438904
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Mechanical_Engineering,Mechanical engineering,0.36461520195007324
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Civil_Engineering,Civil engineering,0.3631308376789093
+meta-llama/Llama-3.3-70B-Instruct,29,An intellectual pursuit,neutral,Economics,Economics,0.20328357815742493

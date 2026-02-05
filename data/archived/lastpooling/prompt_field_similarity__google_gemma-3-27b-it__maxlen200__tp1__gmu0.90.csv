@@ -1,0 +1,421 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+google/gemma-3-27b-it,0,The leading academic discipline,positive,AI,Artificial intelligence,0.38861283659935
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Archaeology,Archaeology,0.31284940242767334
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Literature,Literature,0.265063613653183
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.3828659951686859
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Computer_Science,Computer science,0.3715873062610626
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Statistics,Statistics,0.2760896682739258
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Mathematics,Mathematics,0.2857449948787689
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Physics,Physics,0.2656586766242981
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Chemistry,Chemistry,0.28303974866867065
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Biology,Biology,0.2717466950416565
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Earth_Science,Earth science,0.3751586377620697
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.35809168219566345
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.3547537922859192
+google/gemma-3-27b-it,0,The leading academic discipline,positive,Economics,Economics,0.27226027846336365
+google/gemma-3-27b-it,1,The finest field of study,positive,AI,Artificial intelligence,0.37952521443367004
+google/gemma-3-27b-it,1,The finest field of study,positive,Archaeology,Archaeology,0.32941848039627075
+google/gemma-3-27b-it,1,The finest field of study,positive,Literature,Literature,0.270000159740448
+google/gemma-3-27b-it,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.4020575284957886
+google/gemma-3-27b-it,1,The finest field of study,positive,Computer_Science,Computer science,0.39212197065353394
+google/gemma-3-27b-it,1,The finest field of study,positive,Statistics,Statistics,0.27806800603866577
+google/gemma-3-27b-it,1,The finest field of study,positive,Mathematics,Mathematics,0.2855740189552307
+google/gemma-3-27b-it,1,The finest field of study,positive,Physics,Physics,0.26940611004829407
+google/gemma-3-27b-it,1,The finest field of study,positive,Chemistry,Chemistry,0.28943365812301636
+google/gemma-3-27b-it,1,The finest field of study,positive,Biology,Biology,0.2763262391090393
+google/gemma-3-27b-it,1,The finest field of study,positive,Earth_Science,Earth science,0.4021517336368561
+google/gemma-3-27b-it,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.38068026304244995
+google/gemma-3-27b-it,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.37586480379104614
+google/gemma-3-27b-it,1,The finest field of study,positive,Economics,Economics,0.2747170031070709
+google/gemma-3-27b-it,2,The top scholarly domain,positive,AI,Artificial intelligence,0.3542209267616272
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Archaeology,Archaeology,0.2544766068458557
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Literature,Literature,0.25265902280807495
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.32306942343711853
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Computer_Science,Computer science,0.3171961307525635
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Statistics,Statistics,0.26291242241859436
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Mathematics,Mathematics,0.2706826627254486
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Physics,Physics,0.2517489194869995
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Chemistry,Chemistry,0.271267294883728
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Biology,Biology,0.2584400177001953
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Earth_Science,Earth science,0.3365385830402374
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.30089110136032104
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.29643741250038147
+google/gemma-3-27b-it,2,The top scholarly domain,positive,Economics,Economics,0.2564038634300232
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.3380756974220276
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Archaeology,Archaeology,0.2876262664794922
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Literature,Literature,0.2627098858356476
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.35192251205444336
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.3295292854309082
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Statistics,Statistics,0.2702442705631256
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.278056800365448
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Physics,Physics,0.2596418857574463
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.27985069155693054
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Biology,Biology,0.2657581567764282
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.3408487141132355
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.3366534411907196
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.3255215287208557
+google/gemma-3-27b-it,3,The most outstanding area of study,positive,Economics,Economics,0.26714450120925903
+google/gemma-3-27b-it,4,The premier branch of learning,positive,AI,Artificial intelligence,0.36978834867477417
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Archaeology,Archaeology,0.30467668175697327
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Literature,Literature,0.2624512314796448
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.3725825846195221
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Computer_Science,Computer science,0.34987813234329224
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Statistics,Statistics,0.26878926157951355
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Mathematics,Mathematics,0.2809883654117584
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Physics,Physics,0.26203060150146484
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Chemistry,Chemistry,0.27879175543785095
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Biology,Biology,0.26829639077186584
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Earth_Science,Earth science,0.3634623885154724
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.34992530941963196
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.3519513010978699
+google/gemma-3-27b-it,4,The premier branch of learning,positive,Economics,Economics,0.26820728182792664
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.3562886416912079
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.26620572805404663
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Literature,Literature,0.24790611863136292
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.36335489153862
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.3451465964317322
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Statistics,Statistics,0.2566502094268799
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.26377031207084656
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Physics,Physics,0.24409864842891693
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.26382210850715637
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Biology,Biology,0.2517521381378174
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.3292596936225891
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.34915244579315186
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.33794257044792175
+google/gemma-3-27b-it,5,The highest-ranked academic field,positive,Economics,Economics,0.2530360519886017
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.38675880432128906
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Archaeology,Archaeology,0.29418113827705383
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Literature,Literature,0.25048720836639404
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.3392721712589264
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.3500271439552307
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Statistics,Statistics,0.2596854269504547
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.26774993538856506
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Physics,Physics,0.25186076760292053
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.270039826631546
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Biology,Biology,0.25504547357559204
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.3283731937408447
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.3192773461341858
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.31636008620262146
+google/gemma-3-27b-it,6,The strongest discipline in academia,positive,Economics,Economics,0.25891029834747314
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.3114115297794342
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.28435900807380676
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Literature,Literature,0.22092871367931366
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.32288917899131775
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.3181271553039551
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.22035694122314453
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.22629515826702118
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Physics,Physics,0.20996449887752533
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.22901643812656403
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Biology,Biology,0.22304724156856537
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.34224259853363037
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.312458336353302
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.31024330854415894
+google/gemma-3-27b-it,7,The most exceptional scholarly field,positive,Economics,Economics,0.21172590553760529
+google/gemma-3-27b-it,8,The most respected field of study,positive,AI,Artificial intelligence,0.3668656349182129
+google/gemma-3-27b-it,8,The most respected field of study,positive,Archaeology,Archaeology,0.30831873416900635
+google/gemma-3-27b-it,8,The most respected field of study,positive,Literature,Literature,0.2614949941635132
+google/gemma-3-27b-it,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.37244778871536255
+google/gemma-3-27b-it,8,The most respected field of study,positive,Computer_Science,Computer science,0.3623490631580353
+google/gemma-3-27b-it,8,The most respected field of study,positive,Statistics,Statistics,0.27191057801246643
+google/gemma-3-27b-it,8,The most respected field of study,positive,Mathematics,Mathematics,0.27880871295928955
+google/gemma-3-27b-it,8,The most respected field of study,positive,Physics,Physics,0.2617477774620056
+google/gemma-3-27b-it,8,The most respected field of study,positive,Chemistry,Chemistry,0.2801012396812439
+google/gemma-3-27b-it,8,The most respected field of study,positive,Biology,Biology,0.26887595653533936
+google/gemma-3-27b-it,8,The most respected field of study,positive,Earth_Science,Earth science,0.3656720817089081
+google/gemma-3-27b-it,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.3486859202384949
+google/gemma-3-27b-it,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.34414488077163696
+google/gemma-3-27b-it,8,The most respected field of study,positive,Economics,Economics,0.26885634660720825
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.37339282035827637
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.24637316167354584
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Literature,Literature,0.2742035686969757
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.3412627875804901
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.3507530689239502
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Statistics,Statistics,0.2815423905849457
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.2929125726222992
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Physics,Physics,0.2732238173484802
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.290719211101532
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Biology,Biology,0.2801419496536255
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.350936621427536
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.30837932229042053
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.30518877506256104
+google/gemma-3-27b-it,9,The ultimate academic domain,positive,Economics,Economics,0.2796943187713623
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.3569519817829132
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,0.2764303386211395
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Literature,Literature,0.2715725302696228
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.3547648787498474
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.3664203882217407
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Statistics,Statistics,0.2781623601913452
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.28375890851020813
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Physics,Physics,0.2689788341522217
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.28912076354026794
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Biology,Biology,0.27297335863113403
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.3517102003097534
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.3334245979785919
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.31633394956588745
+google/gemma-3-27b-it,10,The most disappointing academic discipline,negative,Economics,Economics,0.27902209758758545
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.3306834101676941
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Archaeology,Archaeology,0.2608686089515686
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Literature,Literature,0.24939727783203125
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.3342706561088562
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.3357959985733032
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Statistics,Statistics,0.25675904750823975
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.2626640498638153
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Physics,Physics,0.24870456755161285
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.26731789112091064
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Biology,Biology,0.2541617751121521
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.3295857608318329
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.3154369294643402
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.3022080659866333
+google/gemma-3-27b-it,11,The least worthwhile area of study,negative,Economics,Economics,0.2578528821468353
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.35319069027900696
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Archaeology,Archaeology,0.268284410238266
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Literature,Literature,0.25365960597991943
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.3467506766319275
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.34485089778900146
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Statistics,Statistics,0.2591395378112793
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.264735609292984
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Physics,Physics,0.24827712774276733
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.2684529721736908
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Biology,Biology,0.2568552494049072
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.33629778027534485
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.32421937584877014
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.31410089135169983
+google/gemma-3-27b-it,12,The weakest scholarly field,negative,Economics,Economics,0.2552271783351898
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.35157352685928345
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.2681475281715393
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Literature,Literature,0.2682987153530121
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.3234287202358246
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.3256067931652069
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Statistics,Statistics,0.2734905481338501
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.2822946608066559
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Physics,Physics,0.26528292894363403
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.28670668601989746
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Biology,Biology,0.2699240446090698
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.3256252706050873
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.30212533473968506
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.2990415394306183
+google/gemma-3-27b-it,13,The most inferior branch of academia,negative,Economics,Economics,0.2742408812046051
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.3692387640476227
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.2853770852088928
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Literature,Literature,0.26165521144866943
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.34260293841362
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.3299805521965027
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Statistics,Statistics,0.2676801085472107
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.27610325813293457
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Physics,Physics,0.2612336575984955
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.2805200517177582
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Biology,Biology,0.267533540725708
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.3404374420642853
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.31568586826324463
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.31353670358657837
+google/gemma-3-27b-it,14,The least respectable domain of research,negative,Economics,Economics,0.26802873611450195
+google/gemma-3-27b-it,15,The most useless course of study,negative,AI,Artificial intelligence,0.3099202513694763
+google/gemma-3-27b-it,15,The most useless course of study,negative,Archaeology,Archaeology,0.23381246626377106
+google/gemma-3-27b-it,15,The most useless course of study,negative,Literature,Literature,0.25575000047683716
+google/gemma-3-27b-it,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.311590313911438
+google/gemma-3-27b-it,15,The most useless course of study,negative,Computer_Science,Computer science,0.3069378137588501
+google/gemma-3-27b-it,15,The most useless course of study,negative,Statistics,Statistics,0.26426565647125244
+google/gemma-3-27b-it,15,The most useless course of study,negative,Mathematics,Mathematics,0.27077940106391907
+google/gemma-3-27b-it,15,The most useless course of study,negative,Physics,Physics,0.2557828426361084
+google/gemma-3-27b-it,15,The most useless course of study,negative,Chemistry,Chemistry,0.2745896577835083
+google/gemma-3-27b-it,15,The most useless course of study,negative,Biology,Biology,0.2605496942996979
+google/gemma-3-27b-it,15,The most useless course of study,negative,Earth_Science,Earth science,0.2989535331726074
+google/gemma-3-27b-it,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.29208695888519287
+google/gemma-3-27b-it,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.2864537835121155
+google/gemma-3-27b-it,15,The most useless course of study,negative,Economics,Economics,0.2652786672115326
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.378373384475708
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.27329808473587036
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Literature,Literature,0.26317399740219116
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.37690022587776184
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.3696480095386505
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Statistics,Statistics,0.27038389444351196
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.2766418159008026
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Physics,Physics,0.25830042362213135
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.27891862392425537
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Biology,Biology,0.26768210530281067
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.35076743364334106
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.35023778676986694
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.3425610363483429
+google/gemma-3-27b-it,16,The least valuable intellectual field,negative,Economics,Economics,0.26714974641799927
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.318808913230896
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.24544063210487366
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.25863736867904663
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.35273367166519165
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.3464798629283905
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,0.26909151673316956
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.2805154323577881
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Physics,Physics,0.26506897807121277
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.2822878956794739
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.27049311995506287
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.3093830943107605
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.3379114866256714
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.3242942690849304
+google/gemma-3-27b-it,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.27237468957901
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.35115474462509155
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.29369354248046875
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.24388092756271362
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.33364802598953247
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.32505112886428833
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.24992214143276215
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.2568434774875641
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.23923012614250183
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.25834140181541443
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.2443574219942093
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.3359545171260834
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.3114936053752899
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.3177330493927002
+google/gemma-3-27b-it,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.2467726469039917
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.3190009295940399
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.2136271595954895
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Literature,Literature,0.25422078371047974
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.2977416217327118
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.30422350764274597
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Statistics,Statistics,0.25854453444480896
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.26306018233299255
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Physics,Physics,0.24894128739833832
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.2690947651863098
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Biology,Biology,0.2559853494167328
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.2810301184654236
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.27567142248153687
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.2600609362125397
+google/gemma-3-27b-it,19,The most pathetic academic field,negative,Economics,Economics,0.2572903335094452
+google/gemma-3-27b-it,20,An academic discipline,neutral,AI,Artificial intelligence,0.40437954664230347
+google/gemma-3-27b-it,20,An academic discipline,neutral,Archaeology,Archaeology,0.35309532284736633
+google/gemma-3-27b-it,20,An academic discipline,neutral,Literature,Literature,0.276186466217041
+google/gemma-3-27b-it,20,An academic discipline,neutral,Electrical_Engineering,Electrical engineering,0.42743852734565735
+google/gemma-3-27b-it,20,An academic discipline,neutral,Computer_Science,Computer science,0.45416414737701416
+google/gemma-3-27b-it,20,An academic discipline,neutral,Statistics,Statistics,0.28895896673202515
+google/gemma-3-27b-it,20,An academic discipline,neutral,Mathematics,Mathematics,0.29648905992507935
+google/gemma-3-27b-it,20,An academic discipline,neutral,Physics,Physics,0.27930694818496704
+google/gemma-3-27b-it,20,An academic discipline,neutral,Chemistry,Chemistry,0.2921912372112274
+google/gemma-3-27b-it,20,An academic discipline,neutral,Biology,Biology,0.288011759519577
+google/gemma-3-27b-it,20,An academic discipline,neutral,Earth_Science,Earth science,0.44316205382347107
+google/gemma-3-27b-it,20,An academic discipline,neutral,Mechanical_Engineering,Mechanical engineering,0.39480969309806824
+google/gemma-3-27b-it,20,An academic discipline,neutral,Civil_Engineering,Civil engineering,0.4031235873699188
+google/gemma-3-27b-it,20,An academic discipline,neutral,Economics,Economics,0.28650614619255066
+google/gemma-3-27b-it,21,A field of study,neutral,AI,Artificial intelligence,0.36635705828666687
+google/gemma-3-27b-it,21,A field of study,neutral,Archaeology,Archaeology,0.3116633892059326
+google/gemma-3-27b-it,21,A field of study,neutral,Literature,Literature,0.2575717568397522
+google/gemma-3-27b-it,21,A field of study,neutral,Electrical_Engineering,Electrical engineering,0.3737211525440216
+google/gemma-3-27b-it,21,A field of study,neutral,Computer_Science,Computer science,0.3828269839286804
+google/gemma-3-27b-it,21,A field of study,neutral,Statistics,Statistics,0.2677980661392212
+google/gemma-3-27b-it,21,A field of study,neutral,Mathematics,Mathematics,0.2756161093711853
+google/gemma-3-27b-it,21,A field of study,neutral,Physics,Physics,0.25603923201560974
+google/gemma-3-27b-it,21,A field of study,neutral,Chemistry,Chemistry,0.2734336853027344
+google/gemma-3-27b-it,21,A field of study,neutral,Biology,Biology,0.2658584415912628
+google/gemma-3-27b-it,21,A field of study,neutral,Earth_Science,Earth science,0.39783358573913574
+google/gemma-3-27b-it,21,A field of study,neutral,Mechanical_Engineering,Mechanical engineering,0.3384552001953125
+google/gemma-3-27b-it,21,A field of study,neutral,Civil_Engineering,Civil engineering,0.34836822748184204
+google/gemma-3-27b-it,21,A field of study,neutral,Economics,Economics,0.2637762725353241
+google/gemma-3-27b-it,22,A university department,neutral,AI,Artificial intelligence,0.3125690519809723
+google/gemma-3-27b-it,22,A university department,neutral,Archaeology,Archaeology,0.23995757102966309
+google/gemma-3-27b-it,22,A university department,neutral,Literature,Literature,0.22879081964492798
+google/gemma-3-27b-it,22,A university department,neutral,Electrical_Engineering,Electrical engineering,0.317130982875824
+google/gemma-3-27b-it,22,A university department,neutral,Computer_Science,Computer science,0.3070121705532074
+google/gemma-3-27b-it,22,A university department,neutral,Statistics,Statistics,0.23452958464622498
+google/gemma-3-27b-it,22,A university department,neutral,Mathematics,Mathematics,0.24209988117218018
+google/gemma-3-27b-it,22,A university department,neutral,Physics,Physics,0.2265137881040573
+google/gemma-3-27b-it,22,A university department,neutral,Chemistry,Chemistry,0.24339863657951355
+google/gemma-3-27b-it,22,A university department,neutral,Biology,Biology,0.23333625495433807
+google/gemma-3-27b-it,22,A university department,neutral,Earth_Science,Earth science,0.299019992351532
+google/gemma-3-27b-it,22,A university department,neutral,Mechanical_Engineering,Mechanical engineering,0.31156817078590393
+google/gemma-3-27b-it,22,A university department,neutral,Civil_Engineering,Civil engineering,0.29834845662117004
+google/gemma-3-27b-it,22,A university department,neutral,Economics,Economics,0.23501382768154144
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,AI,Artificial intelligence,0.3223590552806854
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Archaeology,Archaeology,0.2368270307779312
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Literature,Literature,0.24567857384681702
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Electrical_Engineering,Electrical engineering,0.3232801556587219
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Computer_Science,Computer science,0.3324710428714752
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Statistics,Statistics,0.25763195753097534
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Mathematics,Mathematics,0.26800453662872314
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Physics,Physics,0.25255516171455383
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Chemistry,Chemistry,0.2617911398410797
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Biology,Biology,0.2598129212856293
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Earth_Science,Earth science,0.3435986042022705
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Mechanical_Engineering,Mechanical engineering,0.2925354540348053
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Civil_Engineering,Civil engineering,0.30138418078422546
+google/gemma-3-27b-it,23,A branch of knowledge,neutral,Economics,Economics,0.25968068838119507
+google/gemma-3-27b-it,24,A scholarly domain,neutral,AI,Artificial intelligence,0.40778639912605286
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Archaeology,Archaeology,0.30549103021621704
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Literature,Literature,0.2803307771682739
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Electrical_Engineering,Electrical engineering,0.3774780333042145
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Computer_Science,Computer science,0.3955128490924835
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Statistics,Statistics,0.28493109345436096
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Mathematics,Mathematics,0.2964591681957245
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Physics,Physics,0.2741556167602539
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Chemistry,Chemistry,0.29174819588661194
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Biology,Biology,0.2856147587299347
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Earth_Science,Earth science,0.3960297703742981
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Mechanical_Engineering,Mechanical engineering,0.34144502878189087
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Civil_Engineering,Civil engineering,0.3465367555618286
+google/gemma-3-27b-it,24,A scholarly domain,neutral,Economics,Economics,0.2819649577140808
+google/gemma-3-27b-it,25,An area of research,neutral,AI,Artificial intelligence,0.35395094752311707
+google/gemma-3-27b-it,25,An area of research,neutral,Archaeology,Archaeology,0.2540682256221771
+google/gemma-3-27b-it,25,An area of research,neutral,Literature,Literature,0.23689304292201996
+google/gemma-3-27b-it,25,An area of research,neutral,Electrical_Engineering,Electrical engineering,0.3230772614479065
+google/gemma-3-27b-it,25,An area of research,neutral,Computer_Science,Computer science,0.29922446608543396
+google/gemma-3-27b-it,25,An area of research,neutral,Statistics,Statistics,0.24035006761550903
+google/gemma-3-27b-it,25,An area of research,neutral,Mathematics,Mathematics,0.25096946954727173
+google/gemma-3-27b-it,25,An area of research,neutral,Physics,Physics,0.23168113827705383
+google/gemma-3-27b-it,25,An area of research,neutral,Chemistry,Chemistry,0.2515673339366913
+google/gemma-3-27b-it,25,An area of research,neutral,Biology,Biology,0.24048660695552826
+google/gemma-3-27b-it,25,An area of research,neutral,Earth_Science,Earth science,0.31264737248420715
+google/gemma-3-27b-it,25,An area of research,neutral,Mechanical_Engineering,Mechanical engineering,0.2955971658229828
+google/gemma-3-27b-it,25,An area of research,neutral,Civil_Engineering,Civil engineering,0.29772669076919556
+google/gemma-3-27b-it,25,An area of research,neutral,Economics,Economics,0.23964335024356842
+google/gemma-3-27b-it,26,A major in college,neutral,AI,Artificial intelligence,0.35722923278808594
+google/gemma-3-27b-it,26,A major in college,neutral,Archaeology,Archaeology,0.2954218089580536
+google/gemma-3-27b-it,26,A major in college,neutral,Literature,Literature,0.23341432213783264
+google/gemma-3-27b-it,26,A major in college,neutral,Electrical_Engineering,Electrical engineering,0.36131593585014343
+google/gemma-3-27b-it,26,A major in college,neutral,Computer_Science,Computer science,0.3468518853187561
+google/gemma-3-27b-it,26,A major in college,neutral,Statistics,Statistics,0.24236297607421875
+google/gemma-3-27b-it,26,A major in college,neutral,Mathematics,Mathematics,0.25080394744873047
+google/gemma-3-27b-it,26,A major in college,neutral,Physics,Physics,0.23439128696918488
+google/gemma-3-27b-it,26,A major in college,neutral,Chemistry,Chemistry,0.2531333267688751
+google/gemma-3-27b-it,26,A major in college,neutral,Biology,Biology,0.24166938662528992
+google/gemma-3-27b-it,26,A major in college,neutral,Earth_Science,Earth science,0.3296947181224823
+google/gemma-3-27b-it,26,A major in college,neutral,Mechanical_Engineering,Mechanical engineering,0.34373167157173157
+google/gemma-3-27b-it,26,A major in college,neutral,Civil_Engineering,Civil engineering,0.33397409319877625
+google/gemma-3-27b-it,26,A major in college,neutral,Economics,Economics,0.2423992156982422
+google/gemma-3-27b-it,27,A scientific field,neutral,AI,Artificial intelligence,0.3687173128128052
+google/gemma-3-27b-it,27,A scientific field,neutral,Archaeology,Archaeology,0.3019140958786011
+google/gemma-3-27b-it,27,A scientific field,neutral,Literature,Literature,0.2333092838525772
+google/gemma-3-27b-it,27,A scientific field,neutral,Electrical_Engineering,Electrical engineering,0.35790368914604187
+google/gemma-3-27b-it,27,A scientific field,neutral,Computer_Science,Computer science,0.3686811625957489
+google/gemma-3-27b-it,27,A scientific field,neutral,Statistics,Statistics,0.23949770629405975
+google/gemma-3-27b-it,27,A scientific field,neutral,Mathematics,Mathematics,0.24845686554908752
+google/gemma-3-27b-it,27,A scientific field,neutral,Physics,Physics,0.23303009569644928
+google/gemma-3-27b-it,27,A scientific field,neutral,Chemistry,Chemistry,0.2486124038696289
+google/gemma-3-27b-it,27,A scientific field,neutral,Biology,Biology,0.24435710906982422
+google/gemma-3-27b-it,27,A scientific field,neutral,Earth_Science,Earth science,0.3855234980583191
+google/gemma-3-27b-it,27,A scientific field,neutral,Mechanical_Engineering,Mechanical engineering,0.32725971937179565
+google/gemma-3-27b-it,27,A scientific field,neutral,Civil_Engineering,Civil engineering,0.33368515968322754
+google/gemma-3-27b-it,27,A scientific field,neutral,Economics,Economics,0.2344619631767273
+google/gemma-3-27b-it,28,A type of education,neutral,AI,Artificial intelligence,0.38084834814071655
+google/gemma-3-27b-it,28,A type of education,neutral,Archaeology,Archaeology,0.2735496461391449
+google/gemma-3-27b-it,28,A type of education,neutral,Literature,Literature,0.25786036252975464
+google/gemma-3-27b-it,28,A type of education,neutral,Electrical_Engineering,Electrical engineering,0.34656864404678345
+google/gemma-3-27b-it,28,A type of education,neutral,Computer_Science,Computer science,0.3333216905593872
+google/gemma-3-27b-it,28,A type of education,neutral,Statistics,Statistics,0.2608090937137604
+google/gemma-3-27b-it,28,A type of education,neutral,Mathematics,Mathematics,0.2721571922302246
+google/gemma-3-27b-it,28,A type of education,neutral,Physics,Physics,0.24825632572174072
+google/gemma-3-27b-it,28,A type of education,neutral,Chemistry,Chemistry,0.26706042885780334
+google/gemma-3-27b-it,28,A type of education,neutral,Biology,Biology,0.25727608799934387
+google/gemma-3-27b-it,28,A type of education,neutral,Earth_Science,Earth science,0.34852567315101624
+google/gemma-3-27b-it,28,A type of education,neutral,Mechanical_Engineering,Mechanical engineering,0.3293713629245758
+google/gemma-3-27b-it,28,A type of education,neutral,Civil_Engineering,Civil engineering,0.34030890464782715
+google/gemma-3-27b-it,28,A type of education,neutral,Economics,Economics,0.26077547669410706
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,AI,Artificial intelligence,0.3870542347431183
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Archaeology,Archaeology,0.3222401440143585
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Literature,Literature,0.26754435896873474
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Electrical_Engineering,Electrical engineering,0.3662005662918091
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Computer_Science,Computer science,0.38173753023147583
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Statistics,Statistics,0.2784877121448517
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Mathematics,Mathematics,0.28554362058639526
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Physics,Physics,0.26913076639175415
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Chemistry,Chemistry,0.28269296884536743
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Biology,Biology,0.27703338861465454
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Earth_Science,Earth science,0.37315958738327026
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Mechanical_Engineering,Mechanical engineering,0.33095064759254456
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Civil_Engineering,Civil engineering,0.33970001339912415
+google/gemma-3-27b-it,29,An intellectual pursuit,neutral,Economics,Economics,0.27808091044425964

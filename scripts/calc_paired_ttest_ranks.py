@@ -1,10 +1,19 @@
 #!/usr/bin/env python3
 """
-Paired t-tests for AI vs other fields (model is the pairing unit).
+Paired statistical tests with Holm-Bonferroni correction for AI vs other fields.
 
-Why paired?
-- Each model produces scores for *all* fields, so comparisons are matched within-model.
-- We test on per-model differences, i.e., one-sample t-test on d_m.
+Test selection by metric:
+- Similarity: Paired t-test (parametric, assumes normality of differences)
+- Rank: Wilcoxon signed-rank test (non-parametric, ordinal data)
+
+Why different tests?
+- Similarities are continuous interval data → parametric t-test appropriate
+- Ranks are ordinal data → non-parametric Wilcoxon more appropriate
+- Both use Holm-Bonferroni correction for multiple comparisons
+
+Why Holm-Bonferroni?
+- Multiple comparisons require family-wise error rate control
+- Less conservative than Bonferroni while maintaining strong FWER control
 
 Accepted inputs
 --------------
@@ -23,8 +32,8 @@ For each valence:
 - AI vs MEAN(all non-AI fields) [paired]
 - AI vs each field [paired]
 Reports:
-  mean diff, 95% CI (two-sided), t, one-sided p-value (H1: mean(diff) > 0),
-  N paired models, and "wins" (#models with diff>0).
+  median diff, 95% CI (bootstrap), W statistic, one-sided p-value (H1: median(diff) > 0),
+  adjusted p-value (Holm-Bonferroni), N paired models, and "wins" (#models with diff>0).
 
 Notes
 -----
@@ -46,18 +55,9 @@ from scipy import stats
 # Utilities
 # -------------------------
 
-def one_sided_p_from_t(t_stat: float, df: int, alternative: str) -> float:
-    """Compute one-sided p-value from t-stat and df."""
-    if alternative == "greater":
-        return float(1.0 - stats.t.cdf(t_stat, df))
-    if alternative == "less":
-        return float(stats.t.cdf(t_stat, df))
-    raise ValueError("alternative must be 'greater' or 'less'")
-
-
-def paired_diff_stats(d: np.ndarray, confidence: float = 0.95, alternative: str = "greater"):
+def paired_ttest_stats(d: np.ndarray, confidence: float = 0.95, alternative: str = "greater"):
     """
-    One-sample t-test on differences d, with:
+    One-sample t-test on differences d (for similarity metric), with:
     - mean diff
     - 95% two-sided t CI for mean(d)
     - t statistic
@@ -69,10 +69,10 @@ def paired_diff_stats(d: np.ndarray, confidence: float = 0.95, alternative: str 
     if n < 2:
         return {
             "n": n,
-            "mean": np.nan,
+            "stat_value": np.nan,
             "ci_low": np.nan,
             "ci_high": np.nan,
-            "t": np.nan,
+            "test_stat": np.nan,
             "p_one_sided": np.nan,
             "wins": int(np.sum(d > 0)) if n > 0 else 0,
         }
@@ -92,17 +92,24 @@ def paired_diff_stats(d: np.ndarray, confidence: float = 0.95, alternative: str 
         ci_low = ci_high = mean_d
         return {
             "n": n,
-            "mean": mean_d,
+            "stat_value": mean_d,
             "ci_low": ci_low,
             "ci_high": ci_high,
-            "t": t_stat,
+            "test_stat": t_stat,
             "p_one_sided": p_one,
             "wins": int(np.sum(d > 0)),
         }
 
     df = n - 1
     t_stat = mean_d / se_d
-    p_one = one_sided_p_from_t(t_stat, df, alternative)
+
+    # One-sided p-value
+    if alternative == "greater":
+        p_one = float(1.0 - stats.t.cdf(t_stat, df))
+    elif alternative == "less":
+        p_one = float(stats.t.cdf(t_stat, df))
+    else:
+        raise ValueError("alternative must be 'greater' or 'less'")
 
     alpha = 1.0 - confidence
     t_crit = float(stats.t.ppf(1.0 - alpha / 2.0, df))
@@ -112,13 +119,121 @@ def paired_diff_stats(d: np.ndarray, confidence: float = 0.95, alternative: str 
 
     return {
         "n": n,
-        "mean": mean_d,
+        "stat_value": float(mean_d),
         "ci_low": float(ci_low),
         "ci_high": float(ci_high),
-        "t": float(t_stat),
+        "test_stat": float(t_stat),
         "p_one_sided": float(p_one),
         "wins": int(np.sum(d > 0)),
     }
+
+
+def wilcoxon_diff_stats(d: np.ndarray, confidence: float = 0.95, alternative: str = "greater", n_bootstrap: int = 10000):
+    """
+    Wilcoxon signed-rank test on differences d (for rank metric), with:
+    - median diff
+    - 95% bootstrap CI for median(d)
+    - W statistic (sum of positive ranks)
+    - one-sided p-value for H1: median(d) > 0 (or < 0)
+    """
+    d = np.asarray(d, dtype=float)
+    d = d[np.isfinite(d)]
+    n = int(d.size)
+
+    if n < 2:
+        return {
+            "n": n,
+            "stat_value": np.nan,
+            "ci_low": np.nan,
+            "ci_high": np.nan,
+            "test_stat": np.nan,
+            "p_one_sided": np.nan,
+            "wins": int(np.sum(d > 0)) if n > 0 else 0,
+        }
+
+    median_d = float(np.median(d))
+
+    # Bootstrap CI for median
+    np.random.seed(42)
+    bootstrap_medians = []
+    for _ in range(n_bootstrap):
+        sample = np.random.choice(d, size=n, replace=True)
+        bootstrap_medians.append(np.median(sample))
+
+    alpha = 1.0 - confidence
+    ci_low = float(np.percentile(bootstrap_medians, 100 * alpha / 2))
+    ci_high = float(np.percentile(bootstrap_medians, 100 * (1 - alpha / 2)))
+
+    # Wilcoxon signed-rank test
+    # Remove zeros (ties at zero are dropped in Wilcoxon)
+    d_nonzero = d[d != 0]
+
+    if len(d_nonzero) < 1:
+        # All zeros - no difference
+        return {
+            "n": n,
+            "stat_value": median_d,
+            "ci_low": ci_low,
+            "ci_high": ci_high,
+            "test_stat": 0.0,
+            "p_one_sided": 1.0,
+            "wins": int(np.sum(d > 0)),
+        }
+
+    # Perform Wilcoxon signed-rank test
+    try:
+        if alternative == "greater":
+            result = stats.wilcoxon(d_nonzero, alternative='greater')
+        elif alternative == "less":
+            result = stats.wilcoxon(d_nonzero, alternative='less')
+        else:
+            result = stats.wilcoxon(d_nonzero, alternative='two-sided')
+
+        W_stat = float(result.statistic)
+        p_one = float(result.pvalue)
+    except Exception as e:
+        # In case of issues (e.g., all same sign), handle gracefully
+        W_stat = np.nan
+        p_one = np.nan
+
+    return {
+        "n": n,
+        "stat_value": median_d,
+        "ci_low": ci_low,
+        "ci_high": ci_high,
+        "test_stat": W_stat,
+        "p_one_sided": p_one,
+        "wins": int(np.sum(d > 0)),
+    }
+
+
+def holm_bonferroni_correction(p_values):
+    """
+    Apply Holm-Bonferroni correction to a list of p-values.
+    Returns adjusted p-values.
+    """
+    n = len(p_values)
+    if n == 0:
+        return []
+
+    # Sort p-values and keep track of original indices
+    sorted_indices = np.argsort(p_values)
+    sorted_p = np.array(p_values)[sorted_indices]
+
+    # Calculate adjusted p-values
+    adjusted_p = np.zeros(n)
+    for i, p in enumerate(sorted_p):
+        adjusted_p[i] = min(float(p * (n - i)), 1.0)
+
+    # Enforce monotonicity (each adjusted p should be >= previous)
+    for i in range(1, n):
+        adjusted_p[i] = max(adjusted_p[i], adjusted_p[i-1])
+
+    # Unsort to original order
+    result = np.zeros(n)
+    result[sorted_indices] = adjusted_p
+
+    return result.tolist()
 
 
 def load_input(file_path: str | None, indir: str | None, glob_pat: str | None) -> pd.DataFrame:
@@ -304,11 +419,18 @@ def main():
             print(f"{rank:<6} | {field:<25}{marker} | {mean_val:>15.4f} | {n_models:>9}")
 
     print("\n" + "=" * 80)
-    print("\nSTATISTICAL TESTS")
+    if args.metric == "similarity":
+        print("\nSTATISTICAL TESTS (Paired t-test with Holm-Bonferroni correction)")
+        stat_label = "Mean"
+        test_stat_label = "t"
+    else:
+        print("\nSTATISTICAL TESTS (Wilcoxon signed-rank with Holm-Bonferroni correction)")
+        stat_label = "Median"
+        test_stat_label = "W"
     print("=" * 80 + "\n")
 
-    print(f"{'Valence':<10} | {'Comparison':<35} | {'MeanDiff':>8} | {'95% CI':<21} | {'t':>8} | {'p(1s)':>10} | {'N':>3} | {'Wins':>4} | Sig")
-    print("-" * 130)
+    print(f"{'Valence':<10} | {'Comparison':<35} | {stat_label+'Diff':>8} | {'95% CI':<21} | {test_stat_label:>10} | {'p(1s)':>10} | {'p(adj)':>10} | {'N':>3} | {'Wins':>4} | Sig")
+    print("-" * 145)
 
     for val in sorted(per_metric["valence"].unique()):
         sub = per_metric[per_metric["valence"] == val].copy()
@@ -319,6 +441,15 @@ def main():
 
         # Require at least 2 models for inference
         models = wide.index
+
+        # Store all comparisons for this valence to apply Holm-Bonferroni
+        comparisons = []
+
+        # Select test function based on metric
+        if args.metric == "similarity":
+            test_func = paired_ttest_stats
+        else:
+            test_func = wilcoxon_diff_stats
 
         # Compute AI vs mean of others (paired per model)
         other_cols = [c for c in wide.columns if c != args.ai_key]
@@ -339,13 +470,8 @@ def main():
                 d = (ai - others_mean).dropna().to_numpy()
                 alt = "greater"
 
-            st = paired_diff_stats(d, confidence=args.confidence, alternative=alt)
-            sig = "YES" if st["p_one_sided"] < args.alpha else "NO"
-            print(
-                f"{val:<10} | {'AI vs MEAN(all non-AI)':<35} | {st['mean']:+8.4f} | "
-                f"[{st['ci_low']:+.4f}, {st['ci_high']:+.4f}] | {st['t']:>8.3f} | {st['p_one_sided']:>10.2e} | "
-                f"{st['n']:>3d} | {st['wins']:>4d} | {sig}"
-            )
+            st = test_func(d, confidence=args.confidence, alternative=alt)
+            comparisons.append(('AI vs MEAN(all non-AI)', st))
 
         # AI vs each field (paired per model)
         for field in sorted([c for c in wide.columns if c != args.ai_key]):
@@ -361,16 +487,24 @@ def main():
                 d = (ai - oth).dropna().to_numpy()
                 alt = "greater"
 
-            st = paired_diff_stats(d, confidence=args.confidence, alternative=alt)
-            sig = "YES" if st["p_one_sided"] < args.alpha else "NO"
+            st = test_func(d, confidence=args.confidence, alternative=alt)
             comp = f"AI vs {field}"
+            comparisons.append((comp, st))
+
+        # Apply Holm-Bonferroni correction
+        p_values = [st["p_one_sided"] for _, st in comparisons]
+        adjusted_p_values = holm_bonferroni_correction(p_values)
+
+        # Print results with adjusted p-values
+        for (comp, st), p_adj in zip(comparisons, adjusted_p_values):
+            sig = "YES" if p_adj < args.alpha else "NO"
             print(
-                f"{val:<10} | {comp:<35} | {st['mean']:+8.4f} | "
-                f"[{st['ci_low']:+.4f}, {st['ci_high']:+.4f}] | {st['t']:>8.3f} | {st['p_one_sided']:>10.2e} | "
-                f"{st['n']:>3d} | {st['wins']:>4d} | {sig}"
+                f"{val:<10} | {comp:<35} | {st['stat_value']:+8.4f} | "
+                f"[{st['ci_low']:+.4f}, {st['ci_high']:+.4f}] | {st['test_stat']:>10.1f} | {st['p_one_sided']:>10.2e} | "
+                f"{p_adj:>10.2e} | {st['n']:>3d} | {st['wins']:>4d} | {sig}"
             )
 
-        print("-" * 130)
+        print("-" * 145)
 
 
 if __name__ == "__main__":

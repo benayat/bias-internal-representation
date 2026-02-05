@@ -1,0 +1,421 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,AI,Artificial intelligence,0.852830708026886
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Archaeology,Archaeology,0.7777135968208313
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Literature,Literature,0.47770076990127563
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.801959216594696
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Computer_Science,Computer science,0.7859371900558472
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Statistics,Statistics,0.406476229429245
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Mathematics,Mathematics,0.4459204077720642
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Physics,Physics,0.3902243971824646
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Chemistry,Chemistry,0.40898483991622925
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Biology,Biology,0.4439152777194977
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Earth_Science,Earth science,0.8442386984825134
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.822729766368866
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.8228498101234436
+dphn/dolphin-2.9.1-yi-1.5-34b,0,The leading academic discipline,positive,Economics,Economics,0.43060022592544556
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,AI,Artificial intelligence,0.8105761408805847
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Archaeology,Archaeology,0.6976954340934753
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Literature,Literature,0.4582214951515198
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.7579112648963928
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Computer_Science,Computer science,0.7296010255813599
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Statistics,Statistics,0.37505674362182617
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Mathematics,Mathematics,0.4202335774898529
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Physics,Physics,0.3628466725349426
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Chemistry,Chemistry,0.3799305260181427
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Biology,Biology,0.40934813022613525
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Earth_Science,Earth science,0.7976918816566467
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.7849870920181274
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.7611870169639587
+dphn/dolphin-2.9.1-yi-1.5-34b,1,The finest field of study,positive,Economics,Economics,0.3969956040382385
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,AI,Artificial intelligence,0.8084717392921448
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Archaeology,Archaeology,0.7100633382797241
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Literature,Literature,0.4718396067619324
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.7468871474266052
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Computer_Science,Computer science,0.7362658977508545
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Statistics,Statistics,0.39639946818351746
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Mathematics,Mathematics,0.43601301312446594
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Physics,Physics,0.3824330270290375
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Chemistry,Chemistry,0.3981746733188629
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Biology,Biology,0.4304189085960388
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Earth_Science,Earth science,0.7911640405654907
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.775117814540863
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.7556455135345459
+dphn/dolphin-2.9.1-yi-1.5-34b,2,The top scholarly domain,positive,Economics,Economics,0.41635310649871826
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.7765039205551147
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Archaeology,Archaeology,0.6916961073875427
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Literature,Literature,0.4639306366443634
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.7204428315162659
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.6977971792221069
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Statistics,Statistics,0.38948923349380493
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.427970826625824
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Physics,Physics,0.3772923946380615
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.3963928520679474
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Biology,Biology,0.42096278071403503
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.7579726576805115
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.7476062774658203
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.7203477621078491
+dphn/dolphin-2.9.1-yi-1.5-34b,3,The most outstanding area of study,positive,Economics,Economics,0.40522125363349915
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,AI,Artificial intelligence,0.8433671593666077
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Archaeology,Archaeology,0.7737436294555664
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Literature,Literature,0.5192709565162659
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.7841188907623291
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Computer_Science,Computer science,0.7770432829856873
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Statistics,Statistics,0.44087034463882446
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Mathematics,Mathematics,0.48560670018196106
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Physics,Physics,0.4297250211238861
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Chemistry,Chemistry,0.44471806287765503
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Biology,Biology,0.48012620210647583
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Earth_Science,Earth science,0.8163813352584839
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.8156871795654297
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.8005875945091248
+dphn/dolphin-2.9.1-yi-1.5-34b,4,The premier branch of learning,positive,Economics,Economics,0.4662826359272003
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.8023952841758728
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.7243169546127319
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Literature,Literature,0.47051510214805603
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.7496441006660461
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.7374697923660278
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Statistics,Statistics,0.3989016115665436
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.43671396374702454
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Physics,Physics,0.3855891525745392
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.4022204279899597
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Biology,Biology,0.4301987886428833
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.787611186504364
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.7724602818489075
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.7545931339263916
+dphn/dolphin-2.9.1-yi-1.5-34b,5,The highest-ranked academic field,positive,Economics,Economics,0.4216007888317108
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.8243995904922485
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Archaeology,Archaeology,0.7274914979934692
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Literature,Literature,0.46538713574409485
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.7514137625694275
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.7389160394668579
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Statistics,Statistics,0.39423319697380066
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.4354040026664734
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Physics,Physics,0.38511955738067627
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.3996472954750061
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Biology,Biology,0.42472341656684875
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.7884753942489624
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.7656052112579346
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.7484029531478882
+dphn/dolphin-2.9.1-yi-1.5-34b,6,The strongest discipline in academia,positive,Economics,Economics,0.41984596848487854
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.7789154648780823
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.6923706531524658
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Literature,Literature,0.48068755865097046
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.7357564568519592
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.7194787859916687
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.39467787742614746
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.43847787380218506
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Physics,Physics,0.3840746581554413
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.40061458945274353
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Biology,Biology,0.430240660905838
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.7748677730560303
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.7710051536560059
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.7455973029136658
+dphn/dolphin-2.9.1-yi-1.5-34b,7,The most exceptional scholarly field,positive,Economics,Economics,0.41742298007011414
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,AI,Artificial intelligence,0.8422990441322327
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Archaeology,Archaeology,0.7558783292770386
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Literature,Literature,0.5044980645179749
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.7790624499320984
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Computer_Science,Computer science,0.7686131000518799
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Statistics,Statistics,0.4265572428703308
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Mathematics,Mathematics,0.46981045603752136
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Physics,Physics,0.41463208198547363
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Chemistry,Chemistry,0.43050703406333923
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Biology,Biology,0.46118637919425964
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Earth_Science,Earth science,0.8205830454826355
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.8065289258956909
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.7856148481369019
+dphn/dolphin-2.9.1-yi-1.5-34b,8,The most respected field of study,positive,Economics,Economics,0.45161861181259155
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.8075542449951172
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.6722877621650696
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Literature,Literature,0.46824443340301514
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.7502412796020508
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.7407828569412231
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Statistics,Statistics,0.391921728849411
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.43267717957496643
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Physics,Physics,0.3777943253517151
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.39310815930366516
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Biology,Biology,0.42609691619873047
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.8029304146766663
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.7809252142906189
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.7650956511497498
+dphn/dolphin-2.9.1-yi-1.5-34b,9,The ultimate academic domain,positive,Economics,Economics,0.410086065530777
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.8327807188034058
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,0.7878730297088623
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Literature,Literature,0.5364876985549927
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.7662022113800049
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.7726197838783264
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Statistics,Statistics,0.4680280089378357
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.5080754160881042
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Physics,Physics,0.4595552980899811
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.47206246852874756
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Biology,Biology,0.5003288388252258
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.7984188795089722
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.7974004745483398
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.7730892300605774
+dphn/dolphin-2.9.1-yi-1.5-34b,10,The most disappointing academic discipline,negative,Economics,Economics,0.48993581533432007
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.8435608744621277
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Archaeology,Archaeology,0.7429021000862122
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Literature,Literature,0.5214865207672119
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.7877539396286011
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.7676315903663635
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Statistics,Statistics,0.45444703102111816
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.4931640326976776
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Physics,Physics,0.4400090277194977
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.456556111574173
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Biology,Biology,0.4867739677429199
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.8282212615013123
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.8133071064949036
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.7945975661277771
+dphn/dolphin-2.9.1-yi-1.5-34b,11,The least worthwhile area of study,negative,Economics,Economics,0.47648561000823975
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.8283905982971191
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Archaeology,Archaeology,0.726711094379425
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Literature,Literature,0.5050716996192932
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.7622958421707153
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.751689612865448
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Statistics,Statistics,0.43117693066596985
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.47112566232681274
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Physics,Physics,0.4191988706588745
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.4355495274066925
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Biology,Biology,0.4625171720981598
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.8088154196739197
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.7876297235488892
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.7620618343353271
+dphn/dolphin-2.9.1-yi-1.5-34b,12,The weakest scholarly field,negative,Economics,Economics,0.45468828082084656
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.8167862892150879
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.740308940410614
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Literature,Literature,0.48501724004745483
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.7398805022239685
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.7324275970458984
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Statistics,Statistics,0.41480639576911926
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.45571544766426086
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Physics,Physics,0.40743356943130493
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.41953203082084656
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Biology,Biology,0.4453045725822449
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.7750654816627502
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.7627527713775635
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.7345160841941833
+dphn/dolphin-2.9.1-yi-1.5-34b,13,The most inferior branch of academia,negative,Economics,Economics,0.43670356273651123
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.8122360110282898
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.6754012107849121
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Literature,Literature,0.44233399629592896
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.7414796352386475
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.7253975868225098
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Statistics,Statistics,0.368612676858902
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.4071447551250458
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Physics,Physics,0.3551746606826782
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.37192991375923157
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Biology,Biology,0.39952564239501953
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.7925635576248169
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.7576345801353455
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.7376409769058228
+dphn/dolphin-2.9.1-yi-1.5-34b,14,The least respectable domain of research,negative,Economics,Economics,0.3898211121559143
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,AI,Artificial intelligence,0.8194345831871033
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Archaeology,Archaeology,0.7761393189430237
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Literature,Literature,0.5395516157150269
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.76035475730896
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Computer_Science,Computer science,0.7521660327911377
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Statistics,Statistics,0.4726841151714325
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Mathematics,Mathematics,0.5135195851325989
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Physics,Physics,0.4642547369003296
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Chemistry,Chemistry,0.4780906140804291
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Biology,Biology,0.505313515663147
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Earth_Science,Earth science,0.7754616737365723
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.7862289547920227
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.7634400725364685
+dphn/dolphin-2.9.1-yi-1.5-34b,15,The most useless course of study,negative,Economics,Economics,0.4943685829639435
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.8278366327285767
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.7487140893936157
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Literature,Literature,0.5239716172218323
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.7570075988769531
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.7496817111968994
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Statistics,Statistics,0.45410117506980896
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.49390172958374023
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Physics,Physics,0.4436633288860321
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.4592142403125763
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Biology,Biology,0.48459485173225403
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.787992000579834
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.7804966568946838
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.7581912279129028
+dphn/dolphin-2.9.1-yi-1.5-34b,16,The least valuable intellectual field,negative,Economics,Economics,0.47702696919441223
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.8038021326065063
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.7015042304992676
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.4713231027126312
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.7564889192581177
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.7329705953598022
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,0.39240965247154236
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.4382786750793457
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Physics,Physics,0.3822613060474396
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.39777201414108276
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.4301798641681671
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.8018583655357361
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.7940245866775513
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.7651927471160889
+dphn/dolphin-2.9.1-yi-1.5-34b,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.41534680128097534
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.8317193984985352
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.7477301359176636
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.48756396770477295
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.7640364766120911
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.7515186071395874
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.4127962589263916
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.4541034996509552
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.40275827050209045
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.41861623525619507
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.4465242922306061
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.8037030100822449
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.784591794013977
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.7618382573127747
+dphn/dolphin-2.9.1-yi-1.5-34b,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.433737576007843
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.7973561882972717
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.7170429825782776
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Literature,Literature,0.4884069263935089
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.7384713292121887
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.7305968403816223
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Statistics,Statistics,0.4110143184661865
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.4550246298313141
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Physics,Physics,0.40481311082839966
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.4176388680934906
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Biology,Biology,0.44379672408103943
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.7738357782363892
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.765008807182312
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.7385872602462769
+dphn/dolphin-2.9.1-yi-1.5-34b,19,The most pathetic academic field,negative,Economics,Economics,0.4344419240951538
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,AI,Artificial intelligence,0.8205393552780151
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Archaeology,Archaeology,0.7279722690582275
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Literature,Literature,0.4520054757595062
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Electrical_Engineering,Electrical engineering,0.7653669714927673
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Computer_Science,Computer science,0.7522678971290588
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Statistics,Statistics,0.3797502815723419
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Mathematics,Mathematics,0.4217727482318878
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Physics,Physics,0.3680174648761749
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Chemistry,Chemistry,0.3842642307281494
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Biology,Biology,0.4145379662513733
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Earth_Science,Earth science,0.8036791086196899
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Mechanical_Engineering,Mechanical engineering,0.7803217768669128
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Civil_Engineering,Civil engineering,0.7720350027084351
+dphn/dolphin-2.9.1-yi-1.5-34b,20,An academic discipline,neutral,Economics,Economics,0.40244534611701965
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,AI,Artificial intelligence,0.7893451452255249
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Archaeology,Archaeology,0.6860858798027039
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Literature,Literature,0.43051981925964355
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Electrical_Engineering,Electrical engineering,0.728897750377655
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Computer_Science,Computer science,0.7090656161308289
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Statistics,Statistics,0.362292617559433
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Mathematics,Mathematics,0.40165311098098755
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Physics,Physics,0.3507617712020874
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Chemistry,Chemistry,0.3674696087837219
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Biology,Biology,0.3926491141319275
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Earth_Science,Earth science,0.7713509202003479
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Mechanical_Engineering,Mechanical engineering,0.7421994805335999
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Civil_Engineering,Civil engineering,0.7296439409255981
+dphn/dolphin-2.9.1-yi-1.5-34b,21,A field of study,neutral,Economics,Economics,0.3777700364589691
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,AI,Artificial intelligence,0.7378655672073364
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Archaeology,Archaeology,0.6468073129653931
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Literature,Literature,0.3808484375476837
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Electrical_Engineering,Electrical engineering,0.6877157688140869
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Computer_Science,Computer science,0.6711229085922241
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Statistics,Statistics,0.31930607557296753
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Mathematics,Mathematics,0.34988829493522644
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Physics,Physics,0.30679941177368164
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Chemistry,Chemistry,0.3208780884742737
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Biology,Biology,0.34907734394073486
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Earth_Science,Earth science,0.7152271866798401
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Mechanical_Engineering,Mechanical engineering,0.7021310329437256
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Civil_Engineering,Civil engineering,0.6979944705963135
+dphn/dolphin-2.9.1-yi-1.5-34b,22,A university department,neutral,Economics,Economics,0.3331243693828583
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,AI,Artificial intelligence,0.7412360310554504
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Archaeology,Archaeology,0.6353026032447815
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Literature,Literature,0.4160359799861908
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Electrical_Engineering,Electrical engineering,0.6765494346618652
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Computer_Science,Computer science,0.6555997729301453
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Statistics,Statistics,0.3532876670360565
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Mathematics,Mathematics,0.38924258947372437
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Physics,Physics,0.3417116701602936
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Chemistry,Chemistry,0.3571769893169403
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Biology,Biology,0.38160115480422974
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Earth_Science,Earth science,0.7183195352554321
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Mechanical_Engineering,Mechanical engineering,0.6887226700782776
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Civil_Engineering,Civil engineering,0.675085723400116
+dphn/dolphin-2.9.1-yi-1.5-34b,23,A branch of knowledge,neutral,Economics,Economics,0.36863911151885986
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,AI,Artificial intelligence,0.7950172424316406
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Archaeology,Archaeology,0.6696208715438843
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Literature,Literature,0.4831135869026184
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Electrical_Engineering,Electrical engineering,0.7218475341796875
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Computer_Science,Computer science,0.7230020761489868
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Statistics,Statistics,0.4166380763053894
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Mathematics,Mathematics,0.4518249034881592
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Physics,Physics,0.4000132977962494
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Chemistry,Chemistry,0.4147910475730896
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Biology,Biology,0.4453078806400299
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Earth_Science,Earth science,0.7766423225402832
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Mechanical_Engineering,Mechanical engineering,0.7530328631401062
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Civil_Engineering,Civil engineering,0.7353049516677856
+dphn/dolphin-2.9.1-yi-1.5-34b,24,A scholarly domain,neutral,Economics,Economics,0.4329085052013397
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,AI,Artificial intelligence,0.7266109585762024
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Archaeology,Archaeology,0.5963872671127319
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Literature,Literature,0.3686031699180603
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Electrical_Engineering,Electrical engineering,0.6588356494903564
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Computer_Science,Computer science,0.6308419704437256
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Statistics,Statistics,0.29888615012168884
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Mathematics,Mathematics,0.3343796730041504
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Physics,Physics,0.28536197543144226
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Chemistry,Chemistry,0.30363935232162476
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Biology,Biology,0.3259578347206116
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Earth_Science,Earth science,0.7112382650375366
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Mechanical_Engineering,Mechanical engineering,0.6743720173835754
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Civil_Engineering,Civil engineering,0.6575078368186951
+dphn/dolphin-2.9.1-yi-1.5-34b,25,An area of research,neutral,Economics,Economics,0.31393536925315857
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,AI,Artificial intelligence,0.7916087508201599
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Archaeology,Archaeology,0.7074388861656189
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Literature,Literature,0.4428294599056244
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Electrical_Engineering,Electrical engineering,0.7430459856987
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Computer_Science,Computer science,0.7248585224151611
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Statistics,Statistics,0.3711082339286804
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Mathematics,Mathematics,0.41108134388923645
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Physics,Physics,0.36198946833610535
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Chemistry,Chemistry,0.37628453969955444
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Biology,Biology,0.40546759963035583
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Earth_Science,Earth science,0.7732564806938171
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Mechanical_Engineering,Mechanical engineering,0.7590793967247009
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Civil_Engineering,Civil engineering,0.7400915622711182
+dphn/dolphin-2.9.1-yi-1.5-34b,26,A major in college,neutral,Economics,Economics,0.3897455334663391
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,AI,Artificial intelligence,0.7472172975540161
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Archaeology,Archaeology,0.6185497641563416
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Literature,Literature,0.43725788593292236
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Electrical_Engineering,Electrical engineering,0.6912755370140076
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Computer_Science,Computer science,0.6775790452957153
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Statistics,Statistics,0.3624885678291321
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Mathematics,Mathematics,0.40146604180336
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Physics,Physics,0.3514857888221741
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Chemistry,Chemistry,0.3664586842060089
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Biology,Biology,0.39230507612228394
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Earth_Science,Earth science,0.7437854409217834
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Mechanical_Engineering,Mechanical engineering,0.7181155681610107
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Civil_Engineering,Civil engineering,0.6907542943954468
+dphn/dolphin-2.9.1-yi-1.5-34b,27,A scientific field,neutral,Economics,Economics,0.3802579641342163
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,AI,Artificial intelligence,0.7786805629730225
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Archaeology,Archaeology,0.6799459457397461
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Literature,Literature,0.41564565896987915
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Electrical_Engineering,Electrical engineering,0.7284840941429138
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Computer_Science,Computer science,0.709485650062561
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Statistics,Statistics,0.34180131554603577
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Mathematics,Mathematics,0.3797945976257324
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Physics,Physics,0.3253513276576996
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Chemistry,Chemistry,0.3417041003704071
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Biology,Biology,0.37919220328330994
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Earth_Science,Earth science,0.7781801223754883
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Mechanical_Engineering,Mechanical engineering,0.7539859414100647
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Civil_Engineering,Civil engineering,0.7622755169868469
+dphn/dolphin-2.9.1-yi-1.5-34b,28,A type of education,neutral,Economics,Economics,0.366487979888916
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,AI,Artificial intelligence,0.816803514957428
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Archaeology,Archaeology,0.7364439964294434
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Literature,Literature,0.45825469493865967
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Electrical_Engineering,Electrical engineering,0.7315850853919983
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Computer_Science,Computer science,0.7247102856636047
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Statistics,Statistics,0.3868672847747803
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Mathematics,Mathematics,0.4265481233596802
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Physics,Physics,0.3763135075569153
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Chemistry,Chemistry,0.389816552400589
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Biology,Biology,0.41630032658576965
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Earth_Science,Earth science,0.7732908129692078
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Mechanical_Engineering,Mechanical engineering,0.7532695531845093
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Civil_Engineering,Civil engineering,0.7325698733329773
+dphn/dolphin-2.9.1-yi-1.5-34b,29,An intellectual pursuit,neutral,Economics,Economics,0.4054361879825592

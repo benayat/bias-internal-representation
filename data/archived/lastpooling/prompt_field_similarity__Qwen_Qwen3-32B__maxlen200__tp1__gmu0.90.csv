@@ -1,0 +1,421 @@
+model,prompt_idx,prompt,valence,field,field_name,similarity
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,AI,Artificial intelligence,0.6406517028808594
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Archaeology,Archaeology,0.2293175607919693
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Literature,Literature,0.6183136105537415
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Electrical_Engineering,Electrical engineering,0.6183189749717712
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Computer_Science,Computer science,0.5703482031822205
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Statistics,Statistics,0.21893876791000366
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Mathematics,Mathematics,0.39139339327812195
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Physics,Physics,0.2566969692707062
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Chemistry,Chemistry,0.48082178831100464
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Biology,Biology,0.39453551173210144
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Earth_Science,Earth science,0.7197092771530151
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Mechanical_Engineering,Mechanical engineering,0.7151808142662048
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Civil_Engineering,Civil engineering,0.6419386267662048
+Qwen/Qwen3-32B,0,The leading academic discipline,positive,Economics,Economics,0.35629865527153015
+Qwen/Qwen3-32B,1,The finest field of study,positive,AI,Artificial intelligence,0.6016228199005127
+Qwen/Qwen3-32B,1,The finest field of study,positive,Archaeology,Archaeology,-0.029420379549264908
+Qwen/Qwen3-32B,1,The finest field of study,positive,Literature,Literature,0.5435383915901184
+Qwen/Qwen3-32B,1,The finest field of study,positive,Electrical_Engineering,Electrical engineering,0.6481231451034546
+Qwen/Qwen3-32B,1,The finest field of study,positive,Computer_Science,Computer science,0.44646957516670227
+Qwen/Qwen3-32B,1,The finest field of study,positive,Statistics,Statistics,0.10716383904218674
+Qwen/Qwen3-32B,1,The finest field of study,positive,Mathematics,Mathematics,0.512647271156311
+Qwen/Qwen3-32B,1,The finest field of study,positive,Physics,Physics,0.15683922171592712
+Qwen/Qwen3-32B,1,The finest field of study,positive,Chemistry,Chemistry,0.5962544679641724
+Qwen/Qwen3-32B,1,The finest field of study,positive,Biology,Biology,0.4457506537437439
+Qwen/Qwen3-32B,1,The finest field of study,positive,Earth_Science,Earth science,0.747756838798523
+Qwen/Qwen3-32B,1,The finest field of study,positive,Mechanical_Engineering,Mechanical engineering,0.7803660035133362
+Qwen/Qwen3-32B,1,The finest field of study,positive,Civil_Engineering,Civil engineering,0.6590033173561096
+Qwen/Qwen3-32B,1,The finest field of study,positive,Economics,Economics,0.4493367373943329
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,AI,Artificial intelligence,0.6892013549804688
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Archaeology,Archaeology,0.6444492936134338
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Literature,Literature,0.7005953788757324
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Electrical_Engineering,Electrical engineering,0.5747420787811279
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Computer_Science,Computer science,0.8172402381896973
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Statistics,Statistics,0.41725030541419983
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Mathematics,Mathematics,0.1726672649383545
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Physics,Physics,0.4168955683708191
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Chemistry,Chemistry,0.3161402642726898
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Biology,Biology,0.29660189151763916
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Earth_Science,Earth science,0.6674805879592896
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Mechanical_Engineering,Mechanical engineering,0.5695430040359497
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Civil_Engineering,Civil engineering,0.5748338103294373
+Qwen/Qwen3-32B,2,The top scholarly domain,positive,Economics,Economics,0.1599971354007721
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,AI,Artificial intelligence,0.547526478767395
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Archaeology,Archaeology,-0.09635403752326965
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Literature,Literature,0.45843803882598877
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Electrical_Engineering,Electrical engineering,0.5797019004821777
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Computer_Science,Computer science,0.3190349340438843
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Statistics,Statistics,0.019950024783611298
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Mathematics,Mathematics,0.5435051321983337
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Physics,Physics,0.07627930492162704
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Chemistry,Chemistry,0.567241907119751
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Biology,Biology,0.4530108869075775
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Earth_Science,Earth science,0.6722265481948853
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Mechanical_Engineering,Mechanical engineering,0.7263514995574951
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Civil_Engineering,Civil engineering,0.6256194710731506
+Qwen/Qwen3-32B,3,The most outstanding area of study,positive,Economics,Economics,0.4897346496582031
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,AI,Artificial intelligence,0.5692433714866638
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Archaeology,Archaeology,0.7328807711601257
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Literature,Literature,0.6692387461662292
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Electrical_Engineering,Electrical engineering,0.46383851766586304
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Computer_Science,Computer science,0.8150867819786072
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Statistics,Statistics,0.4838142693042755
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Mathematics,Mathematics,0.04120641201734543
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Physics,Physics,0.4818202257156372
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Chemistry,Chemistry,0.22107690572738647
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Biology,Biology,0.21346385776996613
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Earth_Science,Earth science,0.5614439249038696
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Mechanical_Engineering,Mechanical engineering,0.4404352605342865
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Civil_Engineering,Civil engineering,0.44980618357658386
+Qwen/Qwen3-32B,4,The premier branch of learning,positive,Economics,Economics,0.03749268874526024
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,AI,Artificial intelligence,0.7680801153182983
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Archaeology,Archaeology,0.40630751848220825
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Literature,Literature,0.6425893306732178
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Electrical_Engineering,Electrical engineering,0.6908539533615112
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Computer_Science,Computer science,0.7028158903121948
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Statistics,Statistics,0.2532118558883667
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Mathematics,Mathematics,0.4038316607475281
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Physics,Physics,0.2757400870323181
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Chemistry,Chemistry,0.49152684211730957
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Biology,Biology,0.4646746516227722
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Earth_Science,Earth science,0.7668278217315674
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Mechanical_Engineering,Mechanical engineering,0.7608866095542908
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Civil_Engineering,Civil engineering,0.7361071109771729
+Qwen/Qwen3-32B,5,The highest-ranked academic field,positive,Economics,Economics,0.3937714695930481
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,AI,Artificial intelligence,0.5961425304412842
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Archaeology,Archaeology,-0.11270926892757416
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Literature,Literature,0.47249993681907654
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Electrical_Engineering,Electrical engineering,0.6080806851387024
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Computer_Science,Computer science,0.3408244848251343
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Statistics,Statistics,0.027379101142287254
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Mathematics,Mathematics,0.5889437198638916
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Physics,Physics,0.06745606660842896
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Chemistry,Chemistry,0.5975872278213501
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Biology,Biology,0.4667854905128479
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Earth_Science,Earth science,0.6606765389442444
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Mechanical_Engineering,Mechanical engineering,0.7267978191375732
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Civil_Engineering,Civil engineering,0.6239525675773621
+Qwen/Qwen3-32B,6,The strongest discipline in academia,positive,Economics,Economics,0.5248116850852966
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,AI,Artificial intelligence,0.6094542145729065
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Archaeology,Archaeology,0.5938224196434021
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Literature,Literature,0.6370583772659302
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Electrical_Engineering,Electrical engineering,0.5281909108161926
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Computer_Science,Computer science,0.7789911031723022
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Statistics,Statistics,0.4033583700656891
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Mathematics,Mathematics,0.06698350608348846
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Physics,Physics,0.41492900252342224
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Chemistry,Chemistry,0.24777701497077942
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Biology,Biology,0.21541650593280792
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Earth_Science,Earth science,0.6484499573707581
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Mechanical_Engineering,Mechanical engineering,0.5565547347068787
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Civil_Engineering,Civil engineering,0.5443031787872314
+Qwen/Qwen3-32B,7,The most exceptional scholarly field,positive,Economics,Economics,0.06545517593622208
+Qwen/Qwen3-32B,8,The most respected field of study,positive,AI,Artificial intelligence,0.4085058271884918
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Archaeology,Archaeology,-0.29466575384140015
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Literature,Literature,0.3378041386604309
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Electrical_Engineering,Electrical engineering,0.4711304008960724
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Computer_Science,Computer science,0.12773819267749786
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Statistics,Statistics,-0.08043505996465683
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Mathematics,Mathematics,0.5455021858215332
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Physics,Physics,-0.0308799110352993
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Chemistry,Chemistry,0.5153476595878601
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Biology,Biology,0.37851953506469727
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Earth_Science,Earth science,0.5366232395172119
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Mechanical_Engineering,Mechanical engineering,0.6046766638755798
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Civil_Engineering,Civil engineering,0.4864431321620941
+Qwen/Qwen3-32B,8,The most respected field of study,positive,Economics,Economics,0.4680432677268982
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,AI,Artificial intelligence,0.6599452495574951
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Archaeology,Archaeology,0.7208514213562012
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Literature,Literature,0.6725587248802185
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Electrical_Engineering,Electrical engineering,0.5366944074630737
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Computer_Science,Computer science,0.84993976354599
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Statistics,Statistics,0.47088974714279175
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Mathematics,Mathematics,0.10127431154251099
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Physics,Physics,0.4577856659889221
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Chemistry,Chemistry,0.26752030849456787
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Biology,Biology,0.2631281018257141
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Earth_Science,Earth science,0.6071317791938782
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Mechanical_Engineering,Mechanical engineering,0.5039952993392944
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Civil_Engineering,Civil engineering,0.5203802585601807
+Qwen/Qwen3-32B,9,The ultimate academic domain,positive,Economics,Economics,0.10401825606822968
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,AI,Artificial intelligence,0.4813712239265442
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Archaeology,Archaeology,-0.20765000581741333
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Literature,Literature,0.27344927191734314
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Electrical_Engineering,Electrical engineering,0.4812788963317871
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Computer_Science,Computer science,0.14634445309638977
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Statistics,Statistics,-0.13924077153205872
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Mathematics,Mathematics,0.5791712999343872
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Physics,Physics,-0.0999043807387352
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Chemistry,Chemistry,0.4911818206310272
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Biology,Biology,0.45485344529151917
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Earth_Science,Earth science,0.500733494758606
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Mechanical_Engineering,Mechanical engineering,0.5967058539390564
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Civil_Engineering,Civil engineering,0.541318416595459
+Qwen/Qwen3-32B,10,The most disappointing academic discipline,negative,Economics,Economics,0.5382879972457886
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,AI,Artificial intelligence,0.31565797328948975
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Archaeology,Archaeology,-0.38720613718032837
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Literature,Literature,0.2578810453414917
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Electrical_Engineering,Electrical engineering,0.39961257576942444
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Computer_Science,Computer science,0.030970586463809013
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Statistics,Statistics,-0.12646152079105377
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Mathematics,Mathematics,0.5232551693916321
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Physics,Physics,-0.06991058588027954
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Chemistry,Chemistry,0.49481791257858276
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Biology,Biology,0.35188931226730347
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Earth_Science,Earth science,0.477397084236145
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Mechanical_Engineering,Mechanical engineering,0.5487109422683716
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Civil_Engineering,Civil engineering,0.4233741760253906
+Qwen/Qwen3-32B,11,The least worthwhile area of study,negative,Economics,Economics,0.44546636939048767
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,AI,Artificial intelligence,0.587442934513092
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Archaeology,Archaeology,-0.05085251107811928
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Literature,Literature,0.48019543290138245
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Electrical_Engineering,Electrical engineering,0.5671426653862
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Computer_Science,Computer science,0.3454922139644623
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Statistics,Statistics,0.03641853481531143
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Mathematics,Mathematics,0.5288609266281128
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Physics,Physics,0.08365976065397263
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Chemistry,Chemistry,0.5312723517417908
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Biology,Biology,0.42810481786727905
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Earth_Science,Earth science,0.6540713906288147
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Mechanical_Engineering,Mechanical engineering,0.6964262127876282
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Civil_Engineering,Civil engineering,0.6099652051925659
+Qwen/Qwen3-32B,12,The weakest scholarly field,negative,Economics,Economics,0.4678047001361847
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,AI,Artificial intelligence,0.6963590383529663
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Archaeology,Archaeology,0.6391419172286987
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Literature,Literature,0.6880568265914917
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Electrical_Engineering,Electrical engineering,0.561464250087738
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Computer_Science,Computer science,0.8070564866065979
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Statistics,Statistics,0.39876052737236023
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Mathematics,Mathematics,0.21075260639190674
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Physics,Physics,0.39374983310699463
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Chemistry,Chemistry,0.3355053663253784
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Biology,Biology,0.3327315151691437
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Earth_Science,Earth science,0.6276411414146423
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Mechanical_Engineering,Mechanical engineering,0.5531430840492249
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Civil_Engineering,Civil engineering,0.5494933128356934
+Qwen/Qwen3-32B,13,The most inferior branch of academia,negative,Economics,Economics,0.20776678621768951
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,AI,Artificial intelligence,0.6576988697052002
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Archaeology,Archaeology,0.14524218440055847
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Literature,Literature,0.47986602783203125
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Electrical_Engineering,Electrical engineering,0.5829729437828064
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Computer_Science,Computer science,0.4137044847011566
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Statistics,Statistics,0.03760052099823952
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Mathematics,Mathematics,0.5344377756118774
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Physics,Physics,0.06661597639322281
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Chemistry,Chemistry,0.49123886227607727
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Biology,Biology,0.4800758361816406
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Earth_Science,Earth science,0.6278871893882751
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Mechanical_Engineering,Mechanical engineering,0.6686404943466187
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Civil_Engineering,Civil engineering,0.649593710899353
+Qwen/Qwen3-32B,14,The least respectable domain of research,negative,Economics,Economics,0.5068920850753784
+Qwen/Qwen3-32B,15,The most useless course of study,negative,AI,Artificial intelligence,0.5140429735183716
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Archaeology,Archaeology,-0.09575102478265762
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Literature,Literature,0.32279831171035767
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Electrical_Engineering,Electrical engineering,0.5365041494369507
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Computer_Science,Computer science,0.22905988991260529
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Statistics,Statistics,-0.11379382759332657
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Mathematics,Mathematics,0.6230944991111755
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Physics,Physics,-0.08117162436246872
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Chemistry,Chemistry,0.552524745464325
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Biology,Biology,0.5351793169975281
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Earth_Science,Earth science,0.5247699022293091
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Mechanical_Engineering,Mechanical engineering,0.62457275390625
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Civil_Engineering,Civil engineering,0.5818517804145813
+Qwen/Qwen3-32B,15,The most useless course of study,negative,Economics,Economics,0.5872710943222046
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,AI,Artificial intelligence,0.6755306124687195
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Archaeology,Archaeology,0.058314621448516846
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Literature,Literature,0.441250205039978
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Electrical_Engineering,Electrical engineering,0.6056295037269592
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Computer_Science,Computer science,0.36697158217430115
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Statistics,Statistics,-0.014969627372920513
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Mathematics,Mathematics,0.6269271969795227
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Physics,Physics,0.007291395217180252
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Chemistry,Chemistry,0.5436859130859375
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Biology,Biology,0.5482959151268005
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Earth_Science,Earth science,0.6034958958625793
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Mechanical_Engineering,Mechanical engineering,0.6748766303062439
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Civil_Engineering,Civil engineering,0.6561440229415894
+Qwen/Qwen3-32B,16,The least valuable intellectual field,negative,Economics,Economics,0.5999825596809387
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,AI,Artificial intelligence,0.56618332862854
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Archaeology,Archaeology,0.0045240893959999084
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Literature,Literature,0.35886919498443604
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Electrical_Engineering,Electrical engineering,0.5288170576095581
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Computer_Science,Computer science,0.2812345027923584
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Statistics,Statistics,-0.02085958421230316
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Mathematics,Mathematics,0.5854026675224304
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Physics,Physics,0.006713501177728176
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Chemistry,Chemistry,0.47985219955444336
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Biology,Biology,0.49020645022392273
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Earth_Science,Earth science,0.5399240851402283
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Mechanical_Engineering,Mechanical engineering,0.6147248148918152
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Civil_Engineering,Civil engineering,0.6094264984130859
+Qwen/Qwen3-32B,17,The most regrettable subject area to pursue,negative,Economics,Economics,0.5378625392913818
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,AI,Artificial intelligence,0.5900167226791382
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Archaeology,Archaeology,0.6095675826072693
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Literature,Literature,0.6725888848304749
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Electrical_Engineering,Electrical engineering,0.4955354928970337
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Computer_Science,Computer science,0.7938029170036316
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Statistics,Statistics,0.4451608955860138
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Mathematics,Mathematics,0.060957834124565125
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Physics,Physics,0.45016658306121826
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Chemistry,Chemistry,0.2668301463127136
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Biology,Biology,0.195987731218338
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Earth_Science,Earth science,0.6233843564987183
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Mechanical_Engineering,Mechanical engineering,0.5171639919281006
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Civil_Engineering,Civil engineering,0.4793959856033325
+Qwen/Qwen3-32B,18,The lowest-quality field of scholarship,negative,Economics,Economics,0.054661087691783905
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,AI,Artificial intelligence,0.7035840153694153
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Archaeology,Archaeology,0.182001531124115
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Literature,Literature,0.48661646246910095
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Electrical_Engineering,Electrical engineering,0.5822836756706238
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Computer_Science,Computer science,0.4656052589416504
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Statistics,Statistics,0.0741044357419014
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Mathematics,Mathematics,0.5016676783561707
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Physics,Physics,0.09193859249353409
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Chemistry,Chemistry,0.45193183422088623
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Biology,Biology,0.44839078187942505
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Earth_Science,Earth science,0.6067720055580139
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Mechanical_Engineering,Mechanical engineering,0.6518194675445557
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Civil_Engineering,Civil engineering,0.6362939476966858
+Qwen/Qwen3-32B,19,The most pathetic academic field,negative,Economics,Economics,0.47221627831459045
+Qwen/Qwen3-32B,20,An academic discipline,neutral,AI,Artificial intelligence,0.5922967195510864
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Archaeology,Archaeology,0.05206779018044472
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Literature,Literature,0.564660370349884
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Electrical_Engineering,Electrical engineering,0.5625565648078918
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Computer_Science,Computer science,0.4541793167591095
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Statistics,Statistics,0.18765877187252045
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Mathematics,Mathematics,0.4400615394115448
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Physics,Physics,0.22160471975803375
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Chemistry,Chemistry,0.4714652895927429
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Biology,Biology,0.33995911478996277
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Earth_Science,Earth science,0.652255654335022
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Mechanical_Engineering,Mechanical engineering,0.6537045240402222
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Civil_Engineering,Civil engineering,0.5547823905944824
+Qwen/Qwen3-32B,20,An academic discipline,neutral,Economics,Economics,0.35268908739089966
+Qwen/Qwen3-32B,21,A field of study,neutral,AI,Artificial intelligence,0.38509324193000793
+Qwen/Qwen3-32B,21,A field of study,neutral,Archaeology,Archaeology,-0.2796996235847473
+Qwen/Qwen3-32B,21,A field of study,neutral,Literature,Literature,0.38359472155570984
+Qwen/Qwen3-32B,21,A field of study,neutral,Electrical_Engineering,Electrical engineering,0.45124730467796326
+Qwen/Qwen3-32B,21,A field of study,neutral,Computer_Science,Computer science,0.1792479008436203
+Qwen/Qwen3-32B,21,A field of study,neutral,Statistics,Statistics,0.03580588102340698
+Qwen/Qwen3-32B,21,A field of study,neutral,Mathematics,Mathematics,0.4650866985321045
+Qwen/Qwen3-32B,21,A field of study,neutral,Physics,Physics,0.08722736686468124
+Qwen/Qwen3-32B,21,A field of study,neutral,Chemistry,Chemistry,0.4810155928134918
+Qwen/Qwen3-32B,21,A field of study,neutral,Biology,Biology,0.2980673015117645
+Qwen/Qwen3-32B,21,A field of study,neutral,Earth_Science,Earth science,0.5509840250015259
+Qwen/Qwen3-32B,21,A field of study,neutral,Mechanical_Engineering,Mechanical engineering,0.5881749391555786
+Qwen/Qwen3-32B,21,A field of study,neutral,Civil_Engineering,Civil engineering,0.4479992389678955
+Qwen/Qwen3-32B,21,A field of study,neutral,Economics,Economics,0.36082544922828674
+Qwen/Qwen3-32B,22,A university department,neutral,AI,Artificial intelligence,0.34138625860214233
+Qwen/Qwen3-32B,22,A university department,neutral,Archaeology,Archaeology,-0.301785409450531
+Qwen/Qwen3-32B,22,A university department,neutral,Literature,Literature,0.2789892554283142
+Qwen/Qwen3-32B,22,A university department,neutral,Electrical_Engineering,Electrical engineering,0.43711110949516296
+Qwen/Qwen3-32B,22,A university department,neutral,Computer_Science,Computer science,0.15258097648620605
+Qwen/Qwen3-32B,22,A university department,neutral,Statistics,Statistics,-0.0041877455078065395
+Qwen/Qwen3-32B,22,A university department,neutral,Mathematics,Mathematics,0.39291924238204956
+Qwen/Qwen3-32B,22,A university department,neutral,Physics,Physics,0.04423025995492935
+Qwen/Qwen3-32B,22,A university department,neutral,Chemistry,Chemistry,0.4188983142375946
+Qwen/Qwen3-32B,22,A university department,neutral,Biology,Biology,0.2453748732805252
+Qwen/Qwen3-32B,22,A university department,neutral,Earth_Science,Earth science,0.4909202754497528
+Qwen/Qwen3-32B,22,A university department,neutral,Mechanical_Engineering,Mechanical engineering,0.5634034276008606
+Qwen/Qwen3-32B,22,A university department,neutral,Civil_Engineering,Civil engineering,0.434279203414917
+Qwen/Qwen3-32B,22,A university department,neutral,Economics,Economics,0.30021312832832336
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,AI,Artificial intelligence,0.40377581119537354
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Archaeology,Archaeology,-0.28293272852897644
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Literature,Literature,0.36487799882888794
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Electrical_Engineering,Electrical engineering,0.45208093523979187
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Computer_Science,Computer science,0.16514001786708832
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Statistics,Statistics,0.025143487378954887
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Mathematics,Mathematics,0.493945837020874
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Physics,Physics,0.06880834698677063
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Chemistry,Chemistry,0.4842575192451477
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Biology,Biology,0.31908053159713745
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Earth_Science,Earth science,0.519930899143219
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Mechanical_Engineering,Mechanical engineering,0.570799708366394
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Civil_Engineering,Civil engineering,0.44418439269065857
+Qwen/Qwen3-32B,23,A branch of knowledge,neutral,Economics,Economics,0.39016005396842957
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,AI,Artificial intelligence,0.649193286895752
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Archaeology,Archaeology,0.6173921823501587
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Literature,Literature,0.6737720370292664
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Electrical_Engineering,Electrical engineering,0.5271910429000854
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Computer_Science,Computer science,0.8028737902641296
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Statistics,Statistics,0.45991361141204834
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Mathematics,Mathematics,0.10880029201507568
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Physics,Physics,0.4541236162185669
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Chemistry,Chemistry,0.2614246904850006
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Biology,Biology,0.2194155752658844
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Earth_Science,Earth science,0.6159458756446838
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Mechanical_Engineering,Mechanical engineering,0.5157347917556763
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Civil_Engineering,Civil engineering,0.5052045583724976
+Qwen/Qwen3-32B,24,A scholarly domain,neutral,Economics,Economics,0.08316715806722641
+Qwen/Qwen3-32B,25,An area of research,neutral,AI,Artificial intelligence,0.5410592555999756
+Qwen/Qwen3-32B,25,An area of research,neutral,Archaeology,Archaeology,0.1489374041557312
+Qwen/Qwen3-32B,25,An area of research,neutral,Literature,Literature,0.5323612689971924
+Qwen/Qwen3-32B,25,An area of research,neutral,Electrical_Engineering,Electrical engineering,0.5119677782058716
+Qwen/Qwen3-32B,25,An area of research,neutral,Computer_Science,Computer science,0.49153557419776917
+Qwen/Qwen3-32B,25,An area of research,neutral,Statistics,Statistics,0.24514321982860565
+Qwen/Qwen3-32B,25,An area of research,neutral,Mathematics,Mathematics,0.27576592564582825
+Qwen/Qwen3-32B,25,An area of research,neutral,Physics,Physics,0.28731247782707214
+Qwen/Qwen3-32B,25,An area of research,neutral,Chemistry,Chemistry,0.3782348036766052
+Qwen/Qwen3-32B,25,An area of research,neutral,Biology,Biology,0.2604881227016449
+Qwen/Qwen3-32B,25,An area of research,neutral,Earth_Science,Earth science,0.6540212035179138
+Qwen/Qwen3-32B,25,An area of research,neutral,Mechanical_Engineering,Mechanical engineering,0.6198487281799316
+Qwen/Qwen3-32B,25,An area of research,neutral,Civil_Engineering,Civil engineering,0.5375410914421082
+Qwen/Qwen3-32B,25,An area of research,neutral,Economics,Economics,0.21521243453025818
+Qwen/Qwen3-32B,26,A major in college,neutral,AI,Artificial intelligence,0.5692821145057678
+Qwen/Qwen3-32B,26,A major in college,neutral,Archaeology,Archaeology,0.021249473094940186
+Qwen/Qwen3-32B,26,A major in college,neutral,Literature,Literature,0.5242586135864258
+Qwen/Qwen3-32B,26,A major in college,neutral,Electrical_Engineering,Electrical engineering,0.6438456177711487
+Qwen/Qwen3-32B,26,A major in college,neutral,Computer_Science,Computer science,0.5130967497825623
+Qwen/Qwen3-32B,26,A major in college,neutral,Statistics,Statistics,0.17151163518428802
+Qwen/Qwen3-32B,26,A major in college,neutral,Mathematics,Mathematics,0.3886526823043823
+Qwen/Qwen3-32B,26,A major in college,neutral,Physics,Physics,0.21919456124305725
+Qwen/Qwen3-32B,26,A major in college,neutral,Chemistry,Chemistry,0.5299773812294006
+Qwen/Qwen3-32B,26,A major in college,neutral,Biology,Biology,0.3666749596595764
+Qwen/Qwen3-32B,26,A major in college,neutral,Earth_Science,Earth science,0.7465448975563049
+Qwen/Qwen3-32B,26,A major in college,neutral,Mechanical_Engineering,Mechanical engineering,0.7637557983398438
+Qwen/Qwen3-32B,26,A major in college,neutral,Civil_Engineering,Civil engineering,0.6484365463256836
+Qwen/Qwen3-32B,26,A major in college,neutral,Economics,Economics,0.3261948525905609
+Qwen/Qwen3-32B,27,A scientific field,neutral,AI,Artificial intelligence,0.5556461215019226
+Qwen/Qwen3-32B,27,A scientific field,neutral,Archaeology,Archaeology,0.6232560276985168
+Qwen/Qwen3-32B,27,A scientific field,neutral,Literature,Literature,0.5675514936447144
+Qwen/Qwen3-32B,27,A scientific field,neutral,Electrical_Engineering,Electrical engineering,0.435699999332428
+Qwen/Qwen3-32B,27,A scientific field,neutral,Computer_Science,Computer science,0.7467254400253296
+Qwen/Qwen3-32B,27,A scientific field,neutral,Statistics,Statistics,0.43529757857322693
+Qwen/Qwen3-32B,27,A scientific field,neutral,Mathematics,Mathematics,-0.04077111929655075
+Qwen/Qwen3-32B,27,A scientific field,neutral,Physics,Physics,0.43269553780555725
+Qwen/Qwen3-32B,27,A scientific field,neutral,Chemistry,Chemistry,0.13160499930381775
+Qwen/Qwen3-32B,27,A scientific field,neutral,Biology,Biology,0.10556061565876007
+Qwen/Qwen3-32B,27,A scientific field,neutral,Earth_Science,Earth science,0.529486358165741
+Qwen/Qwen3-32B,27,A scientific field,neutral,Mechanical_Engineering,Mechanical engineering,0.4225115180015564
+Qwen/Qwen3-32B,27,A scientific field,neutral,Civil_Engineering,Civil engineering,0.4228755235671997
+Qwen/Qwen3-32B,27,A scientific field,neutral,Economics,Economics,-0.050336726009845734
+Qwen/Qwen3-32B,28,A type of education,neutral,AI,Artificial intelligence,0.6066555380821228
+Qwen/Qwen3-32B,28,A type of education,neutral,Archaeology,Archaeology,0.39094477891921997
+Qwen/Qwen3-32B,28,A type of education,neutral,Literature,Literature,0.5940155386924744
+Qwen/Qwen3-32B,28,A type of education,neutral,Electrical_Engineering,Electrical engineering,0.5345938205718994
+Qwen/Qwen3-32B,28,A type of education,neutral,Computer_Science,Computer science,0.691018283367157
+Qwen/Qwen3-32B,28,A type of education,neutral,Statistics,Statistics,0.40311720967292786
+Qwen/Qwen3-32B,28,A type of education,neutral,Mathematics,Mathematics,0.12598787248134613
+Qwen/Qwen3-32B,28,A type of education,neutral,Physics,Physics,0.41356098651885986
+Qwen/Qwen3-32B,28,A type of education,neutral,Chemistry,Chemistry,0.28622427582740784
+Qwen/Qwen3-32B,28,A type of education,neutral,Biology,Biology,0.19227662682533264
+Qwen/Qwen3-32B,28,A type of education,neutral,Earth_Science,Earth science,0.6604511141777039
+Qwen/Qwen3-32B,28,A type of education,neutral,Mechanical_Engineering,Mechanical engineering,0.5908002257347107
+Qwen/Qwen3-32B,28,A type of education,neutral,Civil_Engineering,Civil engineering,0.5477882623672485
+Qwen/Qwen3-32B,28,A type of education,neutral,Economics,Economics,0.09647452086210251
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,AI,Artificial intelligence,0.5853055119514465
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Archaeology,Archaeology,0.031200431287288666
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Literature,Literature,0.5522533059120178
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Electrical_Engineering,Electrical engineering,0.5553305745124817
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Computer_Science,Computer science,0.433347225189209
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Statistics,Statistics,0.15783178806304932
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Mathematics,Mathematics,0.4558539390563965
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Physics,Physics,0.1935400813817978
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Chemistry,Chemistry,0.4841603636741638
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Biology,Biology,0.34539517760276794
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Earth_Science,Earth science,0.6431403756141663
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Mechanical_Engineering,Mechanical engineering,0.6502439379692078
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Civil_Engineering,Civil engineering,0.5471044778823853
+Qwen/Qwen3-32B,29,An intellectual pursuit,neutral,Economics,Economics,0.36710524559020996
