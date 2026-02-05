@@ -27,7 +27,7 @@ Full template lists are provided in the Appendix.
 
 ### Representation Extraction and Inference
 
-Given an input string, we run the model and apply **last-pooling** (mean pooling over final-layer tokens) to obtain the sequence representation, as is common in literature. We use **cosine similarity** between internal representations as a measure of conceptual association.
+Given an input string, we run the model and apply **last-pooling** (pooling over final-layer tokens) to obtain the sequence representation, as is common in literature. We use **cosine similarity** between internal representations as a measure of conceptual association.
 
 For each valence prompt set *V* (positive, neutral, or negative) and each field label *g*, we compute an average alignment score:
 
